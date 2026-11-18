@@ -56,7 +56,7 @@ macro_ipi_minero_desest,IPI minero desestacionalizado,indice,M,INDEC — IPI min
 macro_ipi_minero_interanual,IPI minero var. interanual,pct,M,INDEC — IPI minero,2018-01-01,2026-09-01,7.131437,Actividad y empleo,,actividad_y_empleo.csv
 macro_isac_desest,ISAC desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,152.963675,Actividad y empleo,,actividad_y_empleo.csv
 macro_isac_interanual,ISAC var. interanual,pct,M,INDEC,2017-01-01,2026-09-01,5.077504,Actividad y empleo,,actividad_y_empleo.csv
-atesoramiento_divisas,Atesoramiento: compra neta de billetes y divisas sin fines específicos (sector privado no financiero),millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,1014.7765,Sector externo,,sector_externo.csv
+atesoramiento_divisas,Atesoramiento: compra neta de billetes y divisas sin fines específicos (sector privado no financiero),millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,2537.5031,Sector externo,,sector_externo.csv
 macro_bp_bienes,Balance de bienes,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,9293.030534,Sector externo,,sector_externo.csv
 macro_bp_servicios,Balance de servicios,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,-2102.304408,Sector externo,,sector_externo.csv
 macro_cobros_expo,Cobros de exportaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2017-01-01,2026-09-01,9534.169,Sector externo,,sector_externo.csv
@@ -148,6 +148,11 @@ hacienda_rosgan_vientres_prenez,"Rosgan: vientres_prenez, precio del remate",ARS
 cot_maiz_neto,"Posición neta de fondos (Managed Money) en Maíz, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,-22628,Fondos CFTC,,fondos_cftc.csv
 cot_soja_neto,"Posición neta de fondos (Managed Money) en Soja, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,117586,Fondos CFTC,,fondos_cftc.csv
 cot_trigo_neto,"Posición neta de fondos (Managed Money) en Trigo, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,-81050,Fondos CFTC,,fondos_cftc.csv
+ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras,,otras.csv
+ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras,,otras.csv
+ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras,,otras.csv
+ph_gastos_importaciones,Personas humanas: compras de dólares usadas en pagos de importaciones y otros,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,100,Otras,,otras.csv
+ph_gastos_turismo,Personas humanas: compras de dólares usadas en gastos de turismo (tarjetas y otros débitos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,700,Otras,,otras.csv
 bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonistas.com,2026-11-16,2026-11-18,7.5298,Bonos CER,una columna por instrumento (tir),bonos_cer.csv
 bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-18,1.3531,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
 bonos_on,Obligaciones negociables (planilla Corpo AAA),TIR en dólares en %,D,"DATA Miazzo (planilla INDICE RENTA FIJA, pestaña Corpo AAA)",2026-11-16,2026-11-18,6.57,Obligaciones negociables,una columna por instrumento (tir),obligaciones_negociables.csv
