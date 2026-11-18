@@ -1,45 +1,45 @@
 Cálculo del FAS Teórico para la Exportación de Granos / Export payment capacity
-"Precios de cierre de GRANOS, expresados en dólares por tonelada. / GRAINS & OILSEEDS flat prices. Prices are in USD/MT.",,,,,,,,,,,16/11/2026
+"Precios de cierre de GRANOS, expresados en dólares por tonelada. / GRAINS & OILSEEDS flat prices. Prices are in USD/MT.",,,,,,,,,,,17/11/2026
 Commodity,Trigo / Wheat,,,,,,,,,,Sorg/Srg
 Puerto / Port,SAGyP,,Up River 25/26,,Up River 25/26,Up River 26/27,Up River 26/27,,,,SAGyP
 Proteína / Protein,,,Pro 11.5%,,Pro 10.5%,Pro 10.5%,Pro 11.0%,,,,
 Fecha Embarque/Delivery date,Spot,dic-26,ene-27,feb-27,nov-26,dic-26,dic-26,ene-27,feb-27,mar-27,Spot
-FOB comprador /BID,"221,00","230,00",,"240,00",,"215,00","220,00",,,,"216,00"
-FOB vendedor /OFFER,,,,,"210,00","220,00","225,00",,,,
-a) Impuestos s.FOB / Exp. duties,"12,2","12,7",,"12,2","12,7","12,7","12,9",,,,"18,4"
-b) Gastos en puertos /Port cost,"7,3","7,3",,"7,3","7,3","7,3","7,3",,,,"7,3"
-c) Gtos. Comerc/Marketing cost,"7,0","7,9",,"7,9","7,9","7,9","7,9",,,,"6,1"
-Total USD / tn,"26,4","27,8",,"27,3","27,8","27,8","28,1",,,,"31,7"
-FAS Teórico en u$s,"194,61","202,19",,"212,69","182,19","189,69","194,42",,,,"184,26"
+FOB comprador /BID,"218,00","225,00",,"240,00",,"205,00","210,00",,,,"216,00"
+FOB vendedor /OFFER,,,,,,"210,00","215,00",,,,
+a) Impuestos s.FOB / Exp. duties,"12,0","12,4",,"12,0",,"12,4","12,9",,,,"18,4"
+b) Gastos en puertos /Port cost,"7,3","7,3",,"7,3",,"7,3","7,3",,,,"7,3"
+c) Gtos. Comerc/Marketing cost,"7,0","7,9",,"7,9",,"7,9","7,9",,,,"6,1"
+Total USD / tn,"26,2","27,5",,"27,1",,"27,5","28,1",,,,"31,7"
+FAS Teórico en u$s,"191,78","197,47",,"212,85",,"179,97","184,42",,,,"184,26"
 Commodity,Maíz / Corn,,,,,,,,,,
 Puerto / Port,SAGyP,,Up River 25/26,,,Up River 26/27,,,,Brasil,
 Fecha Embarque/Delivery date,Spot,sep-27,nov-26,dic-26,ene-27,mar-27,abr-27,jun-27,jul-27,dic-26,ene-27
-FOB comprador /BID,"204,00","208,00",,,"207,47",,"201,37",,,"216,00","218,10"
-FOB vendedor /OFFER,,,"208,16","210,13","212,20","213,18","213,18","212,00","210,03","220,00","222,00"
-a) Impuestos s.FOB /Exp. duties,"17,3","17,7","17,3","17,5","17,9","17,7","17,7","17,7","17,6",,
+FOB comprador /BID,"203,00","209,00",,,"210,33",,"201,76",,,"216,00","218,10"
+FOB vendedor /OFFER,,,"205,41","207,37","212,29","213,57","213,57","212,49","210,52","220,00","222,00"
+a) Impuestos s.FOB /Exp. duties,"17,3","17,8","17,3","17,4","17,9","17,8","17,8","17,8","17,7",,
 b) Gastos en puertos /Port cost,"7,2","7,2","7,2","7,2","7,2","7,2","7,2","7,2","7,2",,
 c) Gtos. Comerc/Marketing cost,"5,9","6,4","5,9","5,9","5,9","5,9","5,9","5,9","5,9",,
-Total USD / tn,"30,5","31,3","30,5","30,7","31,0","30,8","30,8","30,8","30,8",,
-FAS Teórico en u$s,"173,50","176,69","177,66","179,46","178,82","182,34","176,43","181,16","179,27",,
+Total USD / tn,"30,3","31,4","30,3","30,5","30,9","30,9","30,9","30,9","30,8",,
+FAS Teórico en u$s,"172,65","177,60","175,06","176,85","180,37","182,71","176,81","181,63","179,75",,
 Commodity,Soja / Soybeans,,,,,,,,,,Gsl/Sunfl.
 Puerto / Port,SAGyP,,Up River 25/26,,,Up River 26/27,,Paraguay,Brasil,,SAGyP
 Fecha Embarque/Delivery date,Spot,oct-27,nov-26,dic-26,ene-27,may-27,jun-27,nov-26,dic-26,feb-27,Spot
-FOB comprador /BID,"482,00","442,00",,,,,,,"495,60","453,70","606,00"
-FOB vendedor /OFFER,,,,"493,48",,,,,"506,60","456,60",
-a) Impuestos s.FOB /Exp. duties,"115,7","106,1",,"115,7",,,,,,,"27,3"
-b) Gastos en puertos /Port cost,"8,4","7,8",,"8,4",,,,,,,"7,7"
-c) Gtos. Comerc/Marketing cost,"11,9","11,7",,"11,9",,,,,,,"102,4"
-Total USD / tn,"136,0","125,7",,"136,0",,,,,,,"137,4"
-FAS Teórico en u$s,"345,99","316,35",,"357,47",,,,,,,"468,62"
+FOB comprador /BID,"482,00","443,00",,,,,,,"495,60","453,70","606,00"
+FOB vendedor /OFFER,,,,"492,83",,,,,"506,60","456,60",
+a) Impuestos s.FOB /Exp. duties,"115,7","106,3",,"115,7",,,,,,,"27,3"
+b) Gastos en puertos /Port cost,"8,4","7,9",,"8,4",,,,,,,"7,7"
+c) Gtos. Comerc/Marketing cost,"12,0","11,7",,"12,0",,,,,,,"101,1"
+Total USD / tn,"136,1","125,9",,"136,1",,,,,,,"136,1"
+FAS Teórico en u$s,"345,89","317,11",,"356,73",,,,,,,"469,91"
 ,,,,,,,,,,,
 Cálculo del FAS Teórico para la Industria Aceitera Exportadora,,,,,,,,,,,
-Precios de CIERRE de HARINAS PROTEICAS y ACEITES VEGETALES,,,,,,,,,16/11/2026,,
+Precios de CIERRE de HARINAS PROTEICAS y ACEITES VEGETALES,,,,,,,,,17/11/2026,,
 Complejo / Complex,Soja / Soybean,,,,,,Girasol / Sunflower,,,,
 Producto,Complejo Soja,,,,,,Complejo Girasol,,,,
 Puertos / Ports,dic-26,,,ene-27,,,Spot,,,,
-FOB ACEITE / OIL US$/TN,"1.186,9",,,"1.177,9",,,"1.315,0",,,,
-FOB PELLETS / MEAL US$/TN,"395,3",,,"386,8",,,"c160,0",,,,
-FAS Teórico en u$s y $ (BNA),"360,3","($555,566)",,"354,2",,,"459,0","($707,779)",,,
+FOB ACEITE / OIL US$/TN,"1.198,9",,,"1.183,6",,,"1.315,0",,,,
+FOB PELLETS / MEAL US$/TN,"395,9",,,"391,5",,,"c160,0",,,,
+FAS Teórico en u$s y $ (BNA),"362,5","($559,274)",,"358,0",,,"460,3","($710,235)",,,
 "Elaborado tomando como base los precios proporcionados por Agrosud S.A., JJ.Hinrichsen, Cosur S.A., Miniterio de Agroindustria y Reuters.",,,,,,,,,,,
 "Elaborado tomando como base los precios proporcionados por Agrosud S.A., JJ.Hinrichsen, Cosur S.A., Miniterio de Agroindustria y Reuters."
 "AVISO: En el cálculo del FAS Teórico para la Industria Aceitera del complejo soja y girasol se realiza de acuerdo al margen neto, es decir, se descuentan gastos de industrialización. Se consideran costos de procesamiento promedio entre plantas de diferente dimensión para el girasol."
