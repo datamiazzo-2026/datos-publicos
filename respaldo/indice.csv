@@ -84,7 +84,7 @@ macro_resultado_financiero_pbi,"Resultado financiero, % del PBI",pct,Q,Secretar�
 macro_resultado_primario,Resultado primario,mmars,M,Secretaría de Hacienda (IMIG),2017-01-01,2026-10-01,1931.1563,Fiscal,,fiscal.csv
 macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2017-01-01,2026-04-01,1.157687,Fiscal,,fiscal.csv
 brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-11,92.14,Internacional diario,,internacional_diario.csv
-nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-16,24509.76,Internacional diario,,internacional_diario.csv
+nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,24328.38,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-14,2026-11-13,7561.67,Internacional diario,,internacional_diario.csv
 usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,122.6503,Internacional diario,,internacional_diario.csv
 ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-16,5.12,Internacional diario,,internacional_diario.csv
@@ -104,11 +104,19 @@ fas_teorico_soja,"FAS teórico soja (exportación, Spot SAGyP)",USD por tonelada
 fas_teorico_soja_industria,FAS teórico soja (industria aceitera),USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,360.3,Granos FOB y FAS,,granos_fob_y_fas.csv
 fas_teorico_sorgo,"FAS teórico sorgo (exportación, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,184.26,Granos FOB y FAS,,granos_fob_y_fas.csv
 fas_teorico_trigo,"FAS teórico trigo (exportación, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,194.61,Granos FOB y FAS,,granos_fob_y_fas.csv
+fob_aceite_girasol,"FOB aceite de girasol (Spot, industria aceitera)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-11-16,2026-11-16,1315.0,Granos FOB y FAS,,granos_fob_y_fas.csv
+fob_aceite_soja,"FOB aceite de soja (posición más cercana, industria aceitera)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-11-16,2026-11-16,1186.9,Granos FOB y FAS,,granos_fob_y_fas.csv
 fob_girasol,"FOB girasol (comprador, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,606.0,Granos FOB y FAS,,granos_fob_y_fas.csv
 fob_maiz,"FOB maíz (comprador, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,204.0,Granos FOB y FAS,,granos_fob_y_fas.csv
+fob_pellets_girasol,"FOB pellets de girasol (Spot, industria aceitera)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-11-16,2026-11-16,160.0,Granos FOB y FAS,,granos_fob_y_fas.csv
+fob_pellets_soja,"FOB pellets de soja (posición más cercana, industria aceitera)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-11-16,2026-11-16,395.3,Granos FOB y FAS,,granos_fob_y_fas.csv
 fob_soja,"FOB soja (comprador, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,482.0,Granos FOB y FAS,,granos_fob_y_fas.csv
 fob_sorgo,"FOB sorgo (comprador, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,216.0,Granos FOB y FAS,,granos_fob_y_fas.csv
 fob_trigo,"FOB trigo (comprador, Spot SAGyP)",USD por tonelada,D,Bolsa de Comercio de Rosario (Dirección de Informaciones y Estudios Económicos),2026-03-13,2026-11-16,221.0,Granos FOB y FAS,,granos_fob_y_fas.csv
+usda_mani_runner,Maní Runner - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,466.39,Granos FOB y FAS,,granos_fob_y_fas.csv
+usda_mani_spanish,Maní Spanish - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,457.99,Granos FOB y FAS,,granos_fob_y_fas.csv
+usda_mani_valencia,Maní Valencia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
+usda_mani_virginia,Maní Virginia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 futuros_maiz_a3,Maíz dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-05,2026-11-17,185.0,Granos futuros ref,,granos_futuros_ref.csv
 futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-17,175.88,Granos futuros ref,,granos_futuros_ref.csv
 futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-21,2026-11-17,345.1,Granos futuros ref,,granos_futuros_ref.csv
