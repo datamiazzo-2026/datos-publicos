@@ -157,7 +157,7 @@ bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonista
 bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-18,1.3531,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
 bonos_on,Obligaciones negociables (planilla Corpo AAA),TIR en dólares en %,D,"DATA Miazzo (planilla INDICE RENTA FIJA, pestaña Corpo AAA)",2026-11-16,2026-11-18,6.57,Obligaciones negociables,una columna por instrumento (tir),obligaciones_negociables.csv
 bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-18,13.4592,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
-bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-18,25.0609,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
+bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-18,26.1388,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
 dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-17,1569.0,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-17,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
