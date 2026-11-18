@@ -41,6 +41,10 @@ macro_ripte_real_interanual,RIPTE reales var. interanual,pct,M,Secretaría de Se
 macro_salarios_privados_real,Salarios privados registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2017-01-01,2026-09-01,82.763427,Precios y salarios,,precios_y_salarios.csv
 macro_salarios_privados_real_interanual,Salarios privados registrados reales var. interanual,pct,M,INDEC — Índice de salarios · deflactado por IPC,2017-12-01,2026-09-01,-1.650062,Precios y salarios,,precios_y_salarios.csv
 macro_salarios_publicos_real,Salarios públicos registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2017-01-01,2026-09-01,67.580614,Precios y salarios,,precios_y_salarios.csv
+icc_capital,Índice de Confianza del Consumidor - Capital,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),1998-07-01,2026-10-01,39.6802,Actividad y empleo,,actividad_y_empleo.csv
+icc_gba,Índice de Confianza del Consumidor - GBA,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-10-01,39.4916,Actividad y empleo,,actividad_y_empleo.csv
+icc_interior,Índice de Confianza del Consumidor - Interior,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-10-01,45.9967,Actividad y empleo,,actividad_y_empleo.csv
+icc_nacional,Índice de Confianza del Consumidor - Nacional,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-10-01,41.5176,Actividad y empleo,,actividad_y_empleo.csv
 macro_desocupacion,Tasa de desocupación,tasa,Q,INDEC — EPH,2017-01-01,2026-04-01,7.9,Actividad y empleo,,actividad_y_empleo.csv
 macro_emae_desest,EMAE desestacionalizado,indice,M,INDEC,2017-01-01,2026-08-01,149.890735,Actividad y empleo,,actividad_y_empleo.csv
 macro_emae_interanual,EMAE var. interanual,pct,M,INDEC,2017-01-01,2026-08-01,-1.744291,Actividad y empleo,,actividad_y_empleo.csv
