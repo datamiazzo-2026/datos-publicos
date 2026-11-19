@@ -4,8 +4,8 @@ dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotizaci
 dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-18,1558.2427,Dolar,,dolar.csv
 dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-19,1628.8,Dolar,,dolar.csv
 dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-18,1582.68,Dolar,,dolar.csv
-itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-18,74.408232,Dolar,,dolar.csv
-macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-18,79.624796,Dolar,,dolar.csv
+itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-19,73.754639,Dolar,,dolar.csv
+macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-19,79.465149,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,6.671,Dolar,,dolar.csv
 macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-21,2026-11-17,23.25,Tasas,,tasas.csv
 macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-21,2026-11-17,2.03049,Tasas,,tasas.csv
@@ -61,14 +61,14 @@ macro_bp_bienes,Balance de bienes,musd,Q,INDEC — Balanza de pagos,2017-01-01,2
 macro_bp_servicios,Balance de servicios,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,-2102.304408,Sector externo,,sector_externo.csv
 macro_cobros_expo,Cobros de exportaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2017-01-01,2026-09-01,9534.169,Sector externo,,sector_externo.csv
 macro_cuenta_corriente,Cuenta corriente,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,2213.980945,Sector externo,,sector_externo.csv
-macro_expo_combustibles,Exportaciones de combustibles y energía,musd,M,INDEC — ICA,2017-01-01,2026-09-01,1781.376208,Sector externo,,sector_externo.csv
-macro_expo_moa,Exportaciones de manufacturas de origen agropecuario (MOA),musd,M,INDEC — ICA,2017-01-01,2026-09-01,3495.308654,Sector externo,,sector_externo.csv
-macro_expo_moi,Exportaciones de manufacturas de origen industrial (MOI),musd,M,INDEC — ICA,2017-01-01,2026-09-01,2534.282854,Sector externo,,sector_externo.csv
-macro_expo_primarios,Exportaciones de productos primarios,musd,M,INDEC — ICA,2017-01-01,2026-09-01,2225.007473,Sector externo,,sector_externo.csv
-macro_exportaciones,Exportaciones,musd,M,INDEC — ICA,2017-01-01,2026-09-01,10035.975188,Sector externo,,sector_externo.csv
-macro_importaciones,Importaciones,musd,M,INDEC — ICA,2017-01-01,2026-09-01,7059.501178,Sector externo,,sector_externo.csv
+macro_expo_combustibles,Exportaciones de combustibles y energía,musd,M,INDEC — ICA,2017-01-01,2026-10-01,1734,Sector externo,,sector_externo.csv
+macro_expo_moa,Exportaciones de manufacturas de origen agropecuario (MOA),musd,M,INDEC — ICA,2017-01-01,2026-10-01,3314,Sector externo,,sector_externo.csv
+macro_expo_moi,Exportaciones de manufacturas de origen industrial (MOI),musd,M,INDEC — ICA,2017-01-01,2026-10-01,2685,Sector externo,,sector_externo.csv
+macro_expo_primarios,Exportaciones de productos primarios,musd,M,INDEC — ICA,2017-01-01,2026-10-01,2328,Sector externo,,sector_externo.csv
+macro_exportaciones,Exportaciones,musd,M,INDEC — ICA,2017-01-01,2026-10-01,10061.313931,Sector externo,,sector_externo.csv
+macro_importaciones,Importaciones,musd,M,INDEC — ICA,2017-01-01,2026-10-01,6667.75304,Sector externo,,sector_externo.csv
 macro_pagos_impo,Pagos de importaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2017-01-01,2026-09-01,6216.8062,Sector externo,,sector_externo.csv
-macro_saldo_comercial,Saldo comercial,musd,M,INDEC — ICA,2017-01-01,2026-09-01,2976.47401,Sector externo,,sector_externo.csv
+macro_saldo_comercial,Saldo comercial,musd,M,INDEC — ICA,2017-01-01,2026-10-01,3393.560892,Sector externo,,sector_externo.csv
 macro_turismo_saldo,Saldo de turistas,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,-180.848,Sector externo,,sector_externo.csv
 macro_turistas_no_residentes,Llegadas de turistas no residentes,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,432.206,Sector externo,,sector_externo.csv
 macro_turistas_residentes,Salidas de turistas residentes,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,613.054,Sector externo,,sector_externo.csv
@@ -125,11 +125,11 @@ usda_mani_spanish,Maní Spanish - precio nacional de referencia USDA,USD por ton
 usda_mani_valencia,Maní Valencia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 usda_mani_virginia,Maní Virginia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 futuros_maiz_a3,Maíz dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-05,2026-11-18,183.6,Granos futuros ref,,granos_futuros_ref.csv
-futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-18,171.45,Granos futuros ref,,granos_futuros_ref.csv
+futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-19,172.83,Granos futuros ref,,granos_futuros_ref.csv
 futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-21,2026-11-18,340.5,Granos futuros ref,,granos_futuros_ref.csv
-futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-18,450.76,Granos futuros ref,,granos_futuros_ref.csv
+futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-19,448.19,Granos futuros ref,,granos_futuros_ref.csv
 futuros_trigo_a3,Trigo dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2025-12-04,2026-11-18,195.9,Granos futuros ref,,granos_futuros_ref.csv
-futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-18,209.44,Granos futuros ref,,granos_futuros_ref.csv
+futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-19,212.47,Granos futuros ref,,granos_futuros_ref.csv
 hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,4005.0,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,3643.75,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,27600,Hacienda diario,,hacienda_diario.csv
@@ -151,19 +151,19 @@ hacienda_rosgan_vientres_prenez,"Rosgan: vientres_prenez, precio del remate",ARS
 cot_maiz_neto,"Posición neta de fondos (Managed Money) en Maíz, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,-22628,Fondos CFTC,,fondos_cftc.csv
 cot_soja_neto,"Posición neta de fondos (Managed Money) en Soja, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,117586,Fondos CFTC,,fondos_cftc.csv
 cot_trigo_neto,"Posición neta de fondos (Managed Money) en Trigo, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-10,-81050,Fondos CFTC,,fondos_cftc.csv
-merval,S&P Merval (en pesos),puntos,D,Rava Bursátil (cierre diario del índice de BYMA),2021-11-18,2026-11-19,81780.7,Otras diario,,otras_diario.csv
-merval_usd,S&P Merval en dólares (Merval / dólar CCL),puntos en USD,D,Cálculo de la central: Merval (Rava) / dólar CCL (ArgentinaDatos),2021-11-18,2026-11-19,47.4338,Otras diario,,otras_diario.csv
+merval,S&P Merval (en pesos),puntos,D,Rava Bursátil (cierre diario del índice de BYMA),2021-11-18,2026-11-19,81145.7,Otras diario,,otras_diario.csv
+merval_usd,S&P Merval en dólares (Merval / dólar CCL),puntos en USD,D,Cálculo de la central: Merval (Rava) / dólar CCL (ArgentinaDatos),2021-11-18,2026-11-19,47.0655,Otras diario,,otras_diario.csv
 ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras mensual,,otras_mensual.csv
 ph_gastos_importaciones,Personas humanas: compras de dólares usadas en pagos de importaciones y otros,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,100,Otras mensual,,otras_mensual.csv
 ph_gastos_turismo,Personas humanas: compras de dólares usadas en gastos de turismo (tarjetas y otros débitos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,700,Otras mensual,,otras_mensual.csv
-bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonistas.com,2026-11-16,2026-11-19,8.2616,Bonos CER,una columna por instrumento (tir),bonos_cer.csv
-bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-19,11.8282,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
-bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-19,0.7873,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
-bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-19,14.316,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
-bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-19,25.1727,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
-dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-18,1571.0,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
+bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonistas.com,2026-11-16,2026-11-19,8.0892,Bonos CER,una columna por instrumento (tir),bonos_cer.csv
+bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-19,11.8488,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
+bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-19,0.6134,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
+bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-19,14.3592,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
+bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-19,25.2724,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
+dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-19,1573.0,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-18,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
-futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-18,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
+futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-19,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
