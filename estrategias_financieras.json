@@ -1,148 +1,148 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-20T17:44:56+00:00",
+ "actualizado": "2026-11-20T20:52:37+00:00",
  "faltan": [],
  "dolar_futuro": {
-  "fecha": "2026-11-19",
+  "fecha": "2026-11-20",
   "fuente": {
    "nombre": "A3 Mercados (Matba-Rofex)",
    "web": "https://www.a3mercados.com.ar/",
    "via": "Google Sheet pública de DATA (rezago ~24 hs)"
   },
   "spot_a3500": {
-   "fecha": "2026-11-19",
-   "valor": 1562.9893
+   "fecha": "2026-11-20",
+   "valor": 1575.9572
   },
   "contratos": [
    {
     "ticker": "DLR112026",
     "vencimiento": "2026-11-30",
-    "ajuste": 1573.0,
-    "volumen": 1387054.0,
-    "interes_abierto": 2025486.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 11,
-    "tna_implicita": 21.25
+    "ajuste": 1584.5,
+    "volumen": 867552.0,
+    "interes_abierto": 2136558.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 10,
+    "tna_implicita": 19.79
    },
    {
     "ticker": "DLR122026",
     "vencimiento": "2026-12-30",
-    "ajuste": 1608.5,
-    "volumen": 521074.0,
-    "interes_abierto": 851406.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 41,
-    "tna_implicita": 25.92
+    "ajuste": 1623.0,
+    "volumen": 596198.0,
+    "interes_abierto": 894890.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 40,
+    "tna_implicita": 27.24
    },
    {
     "ticker": "DLR012027",
     "vencimiento": "2027-01-29",
-    "ajuste": 1640.0,
-    "volumen": 356292.0,
-    "interes_abierto": 646664.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 71,
-    "tna_implicita": 25.33
+    "ajuste": 1656.5,
+    "volumen": 357851.0,
+    "interes_abierto": 660753.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 70,
+    "tna_implicita": 26.65
    },
    {
     "ticker": "DLR022027",
     "vencimiento": "2027-02-26",
-    "ajuste": 1670.5,
-    "volumen": 39511.0,
-    "interes_abierto": 216402.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 99,
-    "tna_implicita": 25.36
+    "ajuste": 1688.0,
+    "volumen": 14617.0,
+    "interes_abierto": 216796.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 98,
+    "tna_implicita": 26.48
    },
    {
     "ticker": "DLR032027",
     "vencimiento": "2027-03-31",
-    "ajuste": 1706.0,
-    "volumen": 35964.0,
-    "interes_abierto": 273193.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 132,
-    "tna_implicita": 25.3
+    "ajuste": 1722.0,
+    "volumen": 3690.0,
+    "interes_abierto": 273567.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 131,
+    "tna_implicita": 25.82
    },
    {
     "ticker": "DLR042027",
     "vencimiento": "2027-04-30",
-    "ajuste": 1740.0,
-    "volumen": 139975.0,
-    "interes_abierto": 143400.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 162,
-    "tna_implicita": 25.52
+    "ajuste": 1757.0,
+    "volumen": 153987.0,
+    "interes_abierto": 183069.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 161,
+    "tna_implicita": 26.04
    },
    {
     "ticker": "DLR052027",
     "vencimiento": "2027-05-31",
-    "ajuste": 1773.0,
-    "volumen": 32168.0,
-    "interes_abierto": 144671.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 193,
-    "tna_implicita": 25.41
+    "ajuste": 1787.0,
+    "volumen": 1689.0,
+    "interes_abierto": 145187.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 192,
+    "tna_implicita": 25.46
    },
    {
     "ticker": "DLR062027",
     "vencimiento": "2027-06-30",
-    "ajuste": 1808.0,
-    "volumen": 1158.0,
-    "interes_abierto": 25724.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 223,
-    "tna_implicita": 25.66
+    "ajuste": 1828.5,
+    "volumen": 846.0,
+    "interes_abierto": 25818.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 222,
+    "tna_implicita": 26.35
    },
    {
     "ticker": "DLR072027",
     "vencimiento": "2027-07-30",
-    "ajuste": 1840.5,
-    "volumen": 276.0,
-    "interes_abierto": 20301.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 253,
-    "tna_implicita": 25.62
+    "ajuste": 1861.0,
+    "volumen": 112.0,
+    "interes_abierto": 20361.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 252,
+    "tna_implicita": 26.2
    },
    {
     "ticker": "DLR082027",
     "vencimiento": "2027-08-31",
-    "ajuste": 1877.5,
-    "volumen": 10455.0,
-    "interes_abierto": 57075.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 285,
-    "tna_implicita": 25.77
+    "ajuste": 1898.0,
+    "volumen": 1232.0,
+    "interes_abierto": 57254.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 284,
+    "tna_implicita": 26.26
    },
    {
     "ticker": "DLR092027",
     "vencimiento": "2027-09-30",
-    "ajuste": 1925.0,
-    "volumen": 6.0,
-    "interes_abierto": 30907.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 315,
-    "tna_implicita": 26.84
+    "ajuste": 1945.5,
+    "volumen": 1.0,
+    "interes_abierto": 30908.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 314,
+    "tna_implicita": 27.26
    },
    {
     "ticker": "DLR102027",
     "vencimiento": "2027-10-29",
-    "ajuste": 1985.0,
-    "volumen": 3.0,
-    "interes_abierto": 48.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 344,
-    "tna_implicita": 28.65
+    "ajuste": 2005.5,
+    "volumen": 101.0,
+    "interes_abierto": 149.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 343,
+    "tna_implicita": 29.0
    },
    {
     "ticker": "DLR112027",
     "vencimiento": "2027-11-30",
-    "ajuste": 2065.0,
-    "volumen": 1.0,
-    "interes_abierto": 30268.0,
-    "fecha_datos": "2026-11-19",
-    "dias": 376,
-    "tna_implicita": 31.18
+    "ajuste": 2085.5,
+    "volumen": 200.0,
+    "interes_abierto": 30468.0,
+    "fecha_datos": "2026-11-20",
+    "dias": 375,
+    "tna_implicita": 31.47
    }
   ]
  },
@@ -685,22 +685,22 @@
    "nombre": "Dólar mayorista (Comunicación A 3500)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 1562.9893,
+   "fecha": "2026-11-20",
+   "valor": 1575.9572,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 1524.8401
+    "fecha": "2026-10-21",
+    "valor": 1526.6664
    }
   },
   "dolar_oficial": {
    "nombre": "Dólar oficial minorista (BNA, promedio)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 1589.35,
+   "fecha": "2026-11-20",
+   "valor": 1601.32,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 1545.01
+    "fecha": "2026-10-21",
+    "valor": 1546.15
    }
   },
   "dolar_mep": {
@@ -784,33 +784,33 @@
    "nombre": "Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 25.52,
+   "fecha": "2026-11-19",
+   "valor": 25.46,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 25.84
+    "fecha": "2026-10-20",
+    "valor": 25.46
    }
   },
   "tasa_pases_terceros_1d": {
    "nombre": "Tasa de pases entre terceros a 1 día",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 20.56,
+   "fecha": "2026-11-19",
+   "valor": 20.48,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 20.89
+    "fecha": "2026-10-20",
+    "valor": 20.85
    }
   },
   "tasa_badlar_privados": {
    "nombre": "Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 22.125,
+   "fecha": "2026-11-19",
+   "valor": 22.625,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 22.0625
+    "fecha": "2026-10-20",
+    "valor": 23.25
    }
   }
  }
