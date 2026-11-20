@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-19T21:07:51+00:00",
+ "actualizado": "2026-11-20T04:23:21+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-19",
@@ -10,8 +10,8 @@
    "via": "Google Sheet pública de DATA (rezago ~24 hs)"
   },
   "spot_a3500": {
-   "fecha": "2026-11-18",
-   "valor": 1558.2427
+   "fecha": "2026-11-19",
+   "valor": 1562.9893
   },
   "contratos": [
    {
@@ -22,7 +22,7 @@
     "interes_abierto": 2025486.0,
     "fecha_datos": "2026-11-19",
     "dias": 11,
-    "tna_implicita": 31.42
+    "tna_implicita": 21.25
    },
    {
     "ticker": "DLR122026",
@@ -32,7 +32,7 @@
     "interes_abierto": 851406.0,
     "fecha_datos": "2026-11-19",
     "dias": 41,
-    "tna_implicita": 28.71
+    "tna_implicita": 25.92
    },
    {
     "ticker": "DLR012027",
@@ -42,7 +42,7 @@
     "interes_abierto": 646664.0,
     "fecha_datos": "2026-11-19",
     "dias": 71,
-    "tna_implicita": 26.97
+    "tna_implicita": 25.33
    },
    {
     "ticker": "DLR022027",
@@ -52,7 +52,7 @@
     "interes_abierto": 216402.0,
     "fecha_datos": "2026-11-19",
     "dias": 99,
-    "tna_implicita": 26.56
+    "tna_implicita": 25.36
    },
    {
     "ticker": "DLR032027",
@@ -62,7 +62,7 @@
     "interes_abierto": 273193.0,
     "fecha_datos": "2026-11-19",
     "dias": 132,
-    "tna_implicita": 26.22
+    "tna_implicita": 25.3
    },
    {
     "ticker": "DLR042027",
@@ -72,7 +72,7 @@
     "interes_abierto": 143400.0,
     "fecha_datos": "2026-11-19",
     "dias": 162,
-    "tna_implicita": 26.28
+    "tna_implicita": 25.52
    },
    {
     "ticker": "DLR052027",
@@ -82,7 +82,7 @@
     "interes_abierto": 144671.0,
     "fecha_datos": "2026-11-19",
     "dias": 193,
-    "tna_implicita": 26.06
+    "tna_implicita": 25.41
    },
    {
     "ticker": "DLR062027",
@@ -92,7 +92,7 @@
     "interes_abierto": 25724.0,
     "fecha_datos": "2026-11-19",
     "dias": 223,
-    "tna_implicita": 26.23
+    "tna_implicita": 25.66
    },
    {
     "ticker": "DLR072027",
@@ -102,7 +102,7 @@
     "interes_abierto": 20301.0,
     "fecha_datos": "2026-11-19",
     "dias": 253,
-    "tna_implicita": 26.13
+    "tna_implicita": 25.62
    },
    {
     "ticker": "DLR082027",
@@ -112,7 +112,7 @@
     "interes_abierto": 57075.0,
     "fecha_datos": "2026-11-19",
     "dias": 285,
-    "tna_implicita": 26.24
+    "tna_implicita": 25.77
    },
    {
     "ticker": "DLR092027",
@@ -122,7 +122,7 @@
     "interes_abierto": 30907.0,
     "fecha_datos": "2026-11-19",
     "dias": 315,
-    "tna_implicita": 27.27
+    "tna_implicita": 26.84
    },
    {
     "ticker": "DLR102027",
@@ -132,7 +132,7 @@
     "interes_abierto": 48.0,
     "fecha_datos": "2026-11-19",
     "dias": 344,
-    "tna_implicita": 29.06
+    "tna_implicita": 28.65
    },
    {
     "ticker": "DLR112027",
@@ -142,7 +142,7 @@
     "interes_abierto": 30268.0,
     "fecha_datos": "2026-11-19",
     "dias": 376,
-    "tna_implicita": 31.57
+    "tna_implicita": 31.18
    }
   ]
  },
@@ -150,7 +150,7 @@
   "tasa_fija": {
    "nombre": "Bonos en pesos a tasa fija (LECAP y BONCAP)",
    "unidad": "TNA en %",
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-20",
    "fuente": "bonistas.com",
    "tasa": "tna",
    "instrumentos": [
@@ -158,66 +158,55 @@
      "ticker": "S30N6",
      "familia": "LETRAS-FIJO",
      "vencimiento": "2026-11-30",
-     "tna": 21.9062,
-     "tir": 24.2451,
-     "duration": 0.0221,
+     "tna": 36.732,
+     "tir": 43.5927,
+     "duration": 0.0114,
      "precio": 129.118,
-     "paridad": 1.0007,
+     "paridad": 0.9981,
      "descripcion": "Bono Tasa Fija ARS - 31.37% - vto. 11/2026"
-    },
-    {
-     "ticker": "TTD26_CAP",
-     "familia": "BONO-FIJA",
-     "vencimiento": "2026-12-15",
-     "tna": -136.7975,
-     "tir": -76.6,
-     "duration": 0.2927,
-     "precio": 177.999,
-     "paridad": 1.1203,
-     "descripcion": "Bono Tasa Fija ARS - 28.93% - vto. 12/2026"
     },
     {
      "ticker": "T15E7",
      "familia": "BONO-FIJA",
      "vencimiento": "2027-01-15",
-     "tna": 24.0255,
-     "tir": 26.8558,
-     "duration": 0.1209,
+     "tna": 25.8934,
+     "tir": 29.1985,
+     "duration": 0.1103,
      "precio": 155.33,
-     "paridad": 0.9936,
+     "paridad": 0.9914,
      "descripcion": "Bono Tasa Fija ARS - 27.57% - vto. 01/2027"
     },
     {
      "ticker": "T30A7",
      "familia": "BONO-FIJA",
      "vencimiento": "2027-04-30",
-     "tna": 26.5194,
-     "tir": 29.9925,
-     "duration": 0.3393,
+     "tna": 27.2027,
+     "tir": 30.8641,
+     "duration": 0.3287,
      "precio": 140.15,
-     "paridad": 0.9986,
+     "paridad": 0.9956,
      "descripcion": "Bono Tasa Fija ARS - 35.28% - vto. 04/2027"
     },
     {
      "ticker": "T31Y7",
      "familia": "BONO-FIJA",
      "vencimiento": "2027-05-31",
-     "tna": 27.2402,
-     "tir": 30.9122,
-     "duration": 0.4018,
+     "tna": 27.8265,
+     "tir": 31.6646,
+     "duration": 0.3912,
      "precio": 131.54,
-     "paridad": 0.9902,
+     "paridad": 0.9873,
      "descripcion": "Bono Tasa Fija ARS - 32.92% - vto. 05/2027"
     },
     {
      "ticker": "T30J7",
      "familia": "BONO-FIJA",
      "vencimiento": "2027-06-30",
-     "tna": 27.4412,
-     "tir": 31.1697,
-     "duration": 0.4637,
+     "tna": 27.9505,
+     "tir": 31.8243,
+     "duration": 0.4531,
      "precio": 132.3,
-     "paridad": 0.9984,
+     "paridad": 0.9952,
      "descripcion": "Bono Tasa Fija ARS - 35.75% - vto. 06/2027"
     }
    ]
@@ -225,7 +214,7 @@
   "cer": {
    "nombre": "Bonos en pesos que ajustan por CER",
    "unidad": "TIR real (sobre CER) en %",
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-20",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -233,165 +222,165 @@
      "ticker": "TZXD6",
      "familia": "BONO-CER",
      "vencimiento": "2026-12-15",
-     "tna": 1.968,
-     "tir": 1.9859,
-     "duration": 0.0672,
+     "tna": 5.5061,
+     "tir": 5.6472,
+     "duration": 0.0545,
      "precio": 319.05,
-     "paridad": 0.9986,
+     "paridad": 0.9968,
      "descripcion": "Bono CER - vto. 12/2026"
     },
     {
      "ticker": "TZXM7",
      "familia": "BONO-CER",
      "vencimiento": "2027-03-31",
-     "tna": 1.5281,
-     "tir": 1.5389,
-     "duration": 0.3535,
+     "tna": 2.1043,
+     "tir": 2.1247,
+     "duration": 0.3407,
      "precio": 238.35,
-     "paridad": 0.9945,
+     "paridad": 0.9927,
      "descripcion": "Bono CER - vto. 03/2027"
     },
     {
      "ticker": "TZXA7",
      "familia": "LETRAS-CER",
      "vencimiento": "2027-04-30",
-     "tna": 2.37,
-     "tir": 2.3959,
-     "duration": 0.4308,
+     "tna": 2.8685,
+     "tir": 2.9065,
+     "duration": 0.418,
      "precio": 131.45,
-     "paridad": 0.9896,
+     "paridad": 0.9878,
      "descripcion": "Bono CER - vto. 04/2027"
     },
     {
      "ticker": "TZXY7",
      "familia": "LETRAS-CER",
      "vencimiento": "2027-05-31",
-     "tna": 2.2161,
-     "tir": 2.2388,
-     "duration": 0.5145,
+     "tna": 2.6187,
+     "tir": 2.6504,
+     "duration": 0.5018,
      "precio": 129.75,
-     "paridad": 0.9884,
+     "paridad": 0.9866,
      "descripcion": "Bono CER - vto. 05/2027"
     },
     {
      "ticker": "TZX27",
      "familia": "BONO-CER",
      "vencimiento": "2027-06-30",
-     "tna": 2.4712,
-     "tir": 2.4994,
-     "duration": 0.5934,
+     "tna": 2.8192,
+     "tir": 2.8559,
+     "duration": 0.5807,
      "precio": 425.7,
-     "paridad": 0.9851,
+     "paridad": 0.9833,
      "descripcion": "Bono CER - vto. 06/2027"
     },
     {
      "ticker": "TZXS7",
      "familia": "LETRAS-CER",
      "vencimiento": "2027-09-30",
-     "tna": 5.3854,
-     "tir": 5.5204,
-     "duration": 0.8153,
+     "tna": 5.6722,
+     "tir": 5.822,
+     "duration": 0.8026,
      "precio": 114.35,
-     "paridad": 0.9548,
+     "paridad": 0.9531,
      "descripcion": "Bono CER - vto. 09/2027"
     },
     {
      "ticker": "TZXO7",
      "familia": "BONO-CER",
      "vencimiento": "2027-10-29",
-     "tna": 5.8722,
-     "tir": 6.0328,
-     "duration": 0.8863,
+     "tna": 6.1393,
+     "tir": 6.315,
+     "duration": 0.8736,
      "precio": 103.55,
-     "paridad": 0.9465,
+     "paridad": 0.9447,
      "descripcion": "Bono CER - vto. 10/2027"
     },
     {
      "ticker": "TZXD7",
      "familia": "BONO-CER",
      "vencimiento": "2027-12-15",
-     "tna": 7.804,
-     "tir": 8.0892,
-     "duration": 0.9885,
+     "tna": 8.0578,
+     "tir": 8.3621,
+     "duration": 0.9759,
      "precio": 294,
-     "paridad": 0.9202,
+     "paridad": 0.9186,
      "descripcion": "Bono CER - vto. 12/2027"
     },
     {
      "ticker": "TZXM8",
      "familia": "LETRAS-CER",
      "vencimiento": "2028-03-31",
-     "tna": 9.7034,
-     "tir": 10.1468,
-     "duration": 1.2356,
+     "tna": 9.9196,
+     "tir": 10.3832,
+     "duration": 1.223,
      "precio": 105,
-     "paridad": 0.8767,
+     "paridad": 0.8751,
      "descripcion": "Bono CER - vto. 03/2028"
     },
     {
      "ticker": "TZX28",
      "familia": "BONO-CER",
      "vencimiento": "2028-06-30",
-     "tna": 10.502,
-     "tir": 11.0225,
-     "duration": 1.4498,
+     "tna": 10.6881,
+     "tir": 11.2275,
+     "duration": 1.4373,
      "precio": 365.2,
-     "paridad": 0.8451,
+     "paridad": 0.8436,
      "descripcion": "Bono CER - vto. 06/2028"
     },
     {
      "ticker": "TZXS8",
      "familia": "LETRAS-CER",
      "vencimiento": "2028-09-29",
-     "tna": 10.305,
-     "tir": 10.8059,
-     "duration": 1.677,
+     "tna": 10.4666,
+     "tir": 10.9836,
+     "duration": 1.6645,
      "precio": 98.97,
-     "paridad": 0.8264,
+     "paridad": 0.8249,
      "descripcion": "Bono CER - vto. 09/2028"
     },
     {
      "ticker": "TX28",
      "familia": "BONO-CER",
      "vencimiento": "2028-11-09",
-     "tna": 8.3889,
-     "tir": 8.719,
-     "duration": 1.1365,
+     "tna": 8.6235,
+     "tir": 8.9726,
+     "duration": 1.124,
      "precio": 1429,
-     "paridad": 0.9294,
+     "paridad": 0.9275,
      "descripcion": "Bono CER - vto. 11/2028"
     },
     {
      "ticker": "TZXD8",
      "familia": "BONO-CER",
      "vencimiento": "2028-12-15",
-     "tna": 10.2421,
-     "tir": 10.7368,
-     "duration": 1.8681,
+     "tna": 10.3864,
+     "tir": 10.8954,
+     "duration": 1.8555,
      "precio": 88.6,
-     "paridad": 0.8098,
+     "paridad": 0.8083,
      "descripcion": "Bono CER - vto. 12/2028"
     },
     {
      "ticker": "TZXM9",
      "familia": "LETRAS-CER",
      "vencimiento": "2029-03-28",
-     "tna": 10.2609,
-     "tir": 10.7575,
-     "duration": 2.1224,
+     "tna": 10.3883,
+     "tir": 10.8974,
+     "duration": 2.1098,
      "precio": 94.19,
-     "paridad": 0.7865,
+     "paridad": 0.785,
      "descripcion": "Bono CER - vto. 03/2029"
     },
     {
      "ticker": "TX31",
      "familia": "BONO-CER",
      "vencimiento": "2031-11-30",
-     "tna": 11.8413,
-     "tir": 12.5056,
-     "duration": 2.305,
+     "tna": 11.9692,
+     "tir": 12.6482,
+     "duration": 2.2907,
      "precio": 1474,
-     "paridad": 0.7892,
+     "paridad": 0.7876,
      "descripcion": "Bono CER - vto. 11/2031"
     }
    ]
@@ -399,7 +388,7 @@
   "dollar_linked": {
    "nombre": "Bonos dollar linked",
    "unidad": "TIR en %",
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-20",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -407,55 +396,55 @@
      "ticker": "D31M7",
      "familia": "DOLAR-LINKED",
      "vencimiento": "2027-03-31",
-     "tna": -1.3846,
-     "tir": -1.3758,
-     "duration": 0.3639,
+     "tna": -0.3239,
+     "tir": -0.3234,
+     "duration": 0.3491,
      "precio": 156000,
-     "paridad": 1.005,
+     "paridad": 1.0011,
      "descripcion": "Bono DL (sin cupón) - vto. 03/2027"
     },
     {
      "ticker": "D10Y7",
      "familia": "DOLAR-LINKED",
      "vencimiento": "2027-05-10",
-     "tna": -6.448,
-     "tir": -6.2608,
-     "duration": 0.4998,
+     "tna": -5.766,
+     "tir": -5.616,
+     "duration": 0.4848,
      "precio": 160000,
-     "paridad": 1.0308,
+     "paridad": 1.0268,
      "descripcion": "Bono DL (sin cupón) - vto. 05/2027"
     },
     {
      "ticker": "TZV27",
      "familia": "DOLAR-LINKED",
      "vencimiento": "2027-06-30",
-     "tna": 0.6117,
-     "tir": 0.6134,
-     "duration": 0.6045,
+     "tna": 1.2672,
+     "tir": 1.2746,
+     "duration": 0.5897,
      "precio": 154650,
-     "paridad": 0.9963,
+     "paridad": 0.9925,
      "descripcion": "Bono DL (sin cupón) - vto. 06/2027"
     },
     {
      "ticker": "TZV28",
      "familia": "DOLAR-LINKED",
      "vencimiento": "2028-06-30",
-     "tna": 11.3106,
-     "tir": 11.9157,
-     "duration": 1.4382,
+     "tna": 11.6313,
+     "tir": 12.2719,
+     "duration": 1.4239,
      "precio": 129500,
-     "paridad": 0.8343,
+     "paridad": 0.8311,
      "descripcion": "Bono DL (sin cupón) - vto. 06/2028"
     },
     {
      "ticker": "TZVD8",
      "familia": "DOLAR-LINKED",
      "vencimiento": "2028-12-15",
-     "tna": 12.4261,
-     "tir": 13.1588,
-     "duration": 1.8281,
+     "tna": 12.6814,
+     "tir": 13.4451,
+     "duration": 1.8138,
      "precio": 120200,
-     "paridad": 0.7744,
+     "paridad": 0.7714,
      "descripcion": "Bono DL (sin cupón) - vto. 12/2028"
     }
    ]
@@ -463,7 +452,7 @@
   "soberanos": {
    "nombre": "Bonos soberanos ley argentina y BOPREAL (en dólares)",
    "unidad": "TIR en dólares en %",
-   "fecha": "2026-11-19",
+   "fecha": "2026-11-20",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -471,75 +460,75 @@
      "ticker": "AO27D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2027-10-29",
-     "tna": 3.7346,
-     "tir": 3.7992,
-     "duration": 0.9103,
+     "tna": 3.7801,
+     "tir": 3.8463,
+     "duration": 0.8994,
      "precio": 102.45,
-     "paridad": 1.0211,
+     "paridad": 1.0204,
      "descripcion": "Bono USD Ley Arg. - 6.00% - vto. 10/2027"
     },
     {
      "ticker": "BPC7D",
      "familia": "BOPREAL",
      "vencimiento": "2027-10-31",
-     "tna": 1.2614,
-     "tir": 1.2687,
-     "duration": 0.6863,
+     "tna": 1.2818,
+     "tir": 1.2893,
+     "duration": 0.6753,
      "precio": 102.85,
-     "paridad": 1.0257,
+     "paridad": 1.0251,
      "descripcion": "BOPREAL USD - vto. 10/2027"
     },
     {
      "ticker": "BPD7D",
      "familia": "BOPREAL",
      "vencimiento": "2027-10-31",
-     "tna": 1.0502,
-     "tir": 1.0553,
-     "duration": 0.6872,
+     "tna": 1.0672,
+     "tir": 1.0724,
+     "duration": 0.6762,
      "precio": 103,
-     "paridad": 1.0271,
+     "paridad": 1.0266,
      "descripcion": "BOPREAL USD - vto. 10/2027"
     },
     {
      "ticker": "AO28D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2028-10-31",
-     "tna": 16.6043,
-     "tir": 17.9281,
-     "duration": 1.7928,
+     "tna": 16.7056,
+     "tir": 18.046,
+     "duration": 1.7817,
      "precio": 82.83,
-     "paridad": 0.8255,
+     "paridad": 0.825,
      "descripcion": "Bono USD Ley Arg. - 6.00% - vto. 10/2028"
     },
     {
      "ticker": "BPB8D",
      "familia": "BOPREAL",
      "vencimiento": "2028-10-31",
-     "tna": 11.8254,
-     "tir": 12.4879,
-     "duration": 1.7857,
+     "tna": 11.8945,
+     "tir": 12.5648,
+     "duration": 1.7747,
      "precio": 84.76,
-     "paridad": 0.8462,
+     "paridad": 0.8459,
      "descripcion": "BOPREAL USD - vto. 10/2028"
     },
     {
      "ticker": "AL29D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2029-07-09",
-     "tna": 13.3558,
-     "tir": 14.2044,
-     "duration": 1.2004,
+     "tna": 13.4713,
+     "tir": 14.3349,
+     "duration": 1.1887,
      "precio": 51.14,
-     "paridad": 0.8492,
+     "paridad": 0.8491,
      "descripcion": "Bono USD Ley Arg. - 1.00% - vto. 07/2029"
     },
     {
      "ticker": "AL30D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2030-07-09",
-     "tna": 15.915,
-     "tir": 17.1288,
-     "duration": 1.5438,
+     "tna": 16.0205,
+     "tir": 17.2508,
+     "duration": 1.5317,
      "precio": 49.77,
      "paridad": 0.7755,
      "descripcion": "Bono USD Ley Arg. - vto. 07/2030"
@@ -548,33 +537,33 @@
      "ticker": "AL35D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2035-07-09",
-     "tna": 14.0094,
-     "tir": 14.9448,
-     "duration": 4.6865,
+     "tna": 14.0401,
+     "tir": 14.9797,
+     "duration": 4.6741,
      "precio": 62.8,
-     "paridad": 0.6187,
+     "paridad": 0.6184,
      "descripcion": "Bono USD Ley Arg. - vto. 07/2035"
     },
     {
      "ticker": "AE38D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2038-01-09",
-     "tna": 14.7661,
-     "tir": 15.8076,
-     "duration": 3.7041,
+     "tna": 14.807,
+     "tir": 15.8544,
+     "duration": 3.6899,
      "precio": 66.1,
-     "paridad": 0.6492,
+     "paridad": 0.6488,
      "descripcion": "Bono USD Ley Arg. - vto. 01/2038"
     },
     {
      "ticker": "AL41D",
      "familia": "BONO-USD-LDA",
      "vencimiento": "2041-07-09",
-     "tna": 13.6296,
-     "tir": 14.5141,
-     "duration": 4.8301,
+     "tna": 13.6587,
+     "tir": 14.5471,
+     "duration": 4.8157,
      "precio": 59.09,
-     "paridad": 0.5835,
+     "paridad": 0.5832,
      "descripcion": "Bono USD Ley Arg. - vto. 07/2041"
     }
    ]
@@ -685,55 +674,55 @@
    "nombre": "Dólar mayorista (Comunicación A 3500)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 1558.2427,
+   "fecha": "2026-11-19",
+   "valor": 1562.9893,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 1523.3466
+    "fecha": "2026-10-20",
+    "valor": 1524.8401
    }
   },
   "dolar_oficial": {
    "nombre": "Dólar oficial minorista (BNA, promedio)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 1582.68,
+   "fecha": "2026-11-19",
+   "valor": 1589.35,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 1541.09
+    "fecha": "2026-10-20",
+    "valor": 1545.01
    }
   },
   "dolar_mep": {
    "nombre": "Dólar MEP (bolsa)",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-19",
-   "valor": 1628.8,
+   "fecha": "2026-11-20",
+   "valor": 1649.8,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 1544.1
+    "fecha": "2026-10-21",
+    "valor": 1548.8
    }
   },
   "dolar_ccl": {
    "nombre": "Dólar contado con liquidación",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-19",
-   "valor": 1724.1,
+   "fecha": "2026-11-20",
+   "valor": 1748.2,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 1625.6
+    "fecha": "2026-10-21",
+    "valor": 1630.9
    }
   },
   "riesgo_pais": {
    "nombre": "Riesgo país (EMBI, JP Morgan)",
    "unidad": "puntos básicos",
    "fuente": "ArgentinaDatos (JP Morgan EMBI)",
-   "fecha": "2026-11-18",
-   "valor": 848.0,
+   "fecha": "2026-11-19",
+   "valor": 931.0,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 675.0
+    "fecha": "2026-10-20",
+    "valor": 672.0
    }
   },
   "macro_rem_ipc_12m": {
@@ -751,66 +740,66 @@
    "nombre": "Tasa BADLAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 23.25,
+   "fecha": "2026-11-18",
+   "valor": 22.125,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 23.625
+    "fecha": "2026-10-19",
+    "valor": 22.0625
    }
   },
   "macro_tasa_tamar": {
    "nombre": "Tasa TAMAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 24,
+   "fecha": "2026-11-18",
+   "valor": 23.4375,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 24.625
+    "fecha": "2026-10-19",
+    "valor": 24
    }
   },
   "macro_tasa_plazo_fijo": {
    "nombre": "Tasa de plazo fijo a 30 días",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 21.18,
+   "fecha": "2026-11-18",
+   "valor": 21.03,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 22.66
+    "fecha": "2026-10-19",
+    "valor": 21.23
    }
   },
   "tasa_adelantos_cc": {
    "nombre": "Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 25.55,
+   "fecha": "2026-11-18",
+   "valor": 25.52,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 26.27
+    "fecha": "2026-10-19",
+    "valor": 25.84
    }
   },
   "tasa_pases_terceros_1d": {
    "nombre": "Tasa de pases entre terceros a 1 día",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 20.52,
+   "fecha": "2026-11-18",
+   "valor": 20.56,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 21.62
+    "fecha": "2026-10-19",
+    "valor": 20.89
    }
   },
   "tasa_badlar_privados": {
    "nombre": "Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-17",
-   "valor": 23.25,
+   "fecha": "2026-11-18",
+   "valor": 22.125,
    "hace_un_mes": {
-    "fecha": "2026-10-16",
-    "valor": 23.625
+    "fecha": "2026-10-19",
+    "valor": 22.0625
    }
   }
  }

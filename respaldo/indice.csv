@@ -1,30 +1,30 @@
 id,nombre,unidad,frecuencia,fuente,desde,hasta,ultimo_valor,hoja,nota,archivo
-dolar_blue,Dólar blue,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-19,1630.0,Dolar,,dolar.csv
-dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-19,1724.1,Dolar,,dolar.csv
-dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-18,1558.2427,Dolar,,dolar.csv
-dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-19,1628.8,Dolar,,dolar.csv
-dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-18,1582.68,Dolar,,dolar.csv
+dolar_blue,Dólar blue,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-20,1640.0,Dolar,,dolar.csv
+dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-20,1748.2,Dolar,,dolar.csv
+dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-19,1562.9893,Dolar,,dolar.csv
+dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-20,1649.8,Dolar,,dolar.csv
+dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-19,1589.35,Dolar,,dolar.csv
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-19,73.754639,Dolar,,dolar.csv
 macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-19,79.465149,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,6.671,Dolar,,dolar.csv
-macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-21,2026-11-17,23.25,Tasas,,tasas.csv
-macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-21,2026-11-17,2.03049,Tasas,,tasas.csv
-macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-21,2026-11-17,61.94,Tasas,,tasas.csv
-macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-21,2026-11-17,21.18,Tasas,,tasas.csv
-macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-21,2026-11-17,-0.022729,Tasas,,tasas.csv
-macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-17,24,Tasas,,tasas.csv
-tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-17,25.55,Tasas,,tasas.csv
-tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-17,23.25,Tasas,,tasas.csv
-tasa_pases_terceros_1d,Tasa de pases entre terceros a 1 día,TNA en %,D,BCRA,2017-01-02,2026-11-17,20.52,Tasas,,tasas.csv
-bcra_depositos_gobierno_usd,Depósitos del gobierno en el BCRA en moneda extranjera,millones de USD,D,BCRA,2024-01-02,2026-11-16,83.4,Reservas y BCRA,,reservas_y_bcra.csv
-depositos_privados_usd,Depósitos del sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-13,42962.0,Reservas y BCRA,,reservas_y_bcra.csv
-encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-02,2026-11-16,17179.5023,Reservas y BCRA,,reservas_y_bcra.csv
+macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-21,2026-11-18,22.125,Tasas,,tasas.csv
+macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-21,2026-11-18,0.877636,Tasas,,tasas.csv
+macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-21,2026-11-18,62.36,Tasas,,tasas.csv
+macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-21,2026-11-18,21.03,Tasas,,tasas.csv
+macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-21,2026-11-18,-0.201907,Tasas,,tasas.csv
+macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-18,23.4375,Tasas,,tasas.csv
+tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-18,25.52,Tasas,,tasas.csv
+tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-18,22.125,Tasas,,tasas.csv
+tasa_pases_terceros_1d,Tasa de pases entre terceros a 1 día,TNA en %,D,BCRA,2017-01-02,2026-11-18,20.56,Tasas,,tasas.csv
+bcra_depositos_gobierno_usd,Depósitos del gobierno en el BCRA en moneda extranjera,millones de USD,D,BCRA,2024-01-02,2026-11-17,158.4,Reservas y BCRA,,reservas_y_bcra.csv
+depositos_privados_usd,Depósitos del sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-16,42940.0,Reservas y BCRA,,reservas_y_bcra.csv
+encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-02,2026-11-17,17306.433,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-15,26535841.718,Reservas y BCRA,,reservas_y_bcra.csv
-macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-17,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
-macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-17,4964927.0406,Reservas y BCRA,,reservas_y_bcra.csv
-macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-21,2026-11-16,49474,Reservas y BCRA,,reservas_y_bcra.csv
-prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-16,26152.0,Reservas y BCRA,,reservas_y_bcra.csv
-riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-18,848.0,Reservas y BCRA,,reservas_y_bcra.csv
+macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-18,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
+macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-18,4855464.587,Reservas y BCRA,,reservas_y_bcra.csv
+macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-21,2026-11-17,49741,Reservas y BCRA,,reservas_y_bcra.csv
+prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-17,26251.0,Reservas y BCRA,,reservas_y_bcra.csv
+riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-19,931.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_mensual,IPC var. mensual,pct,M,INDEC,2017-01-01,2026-10-01,2.171792,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_nivel_general,IPC nivel general,indice,M,INDEC,2017-01-01,2026-10-01,12785.9321,Precios y salarios,,precios_y_salarios.csv
@@ -91,7 +91,7 @@ brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-
 nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-18,24429.88,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-21,2026-11-18,7323.63,Internacional diario,,internacional_diario.csv
 usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,122.6503,Internacional diario,,internacional_diario.csv
-ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,5.1,Internacional diario,,internacional_diario.csv
+ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-18,5.07,Internacional diario,,internacional_diario.csv
 copper,Cobre (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,14473.05590909091,Internacional mensual,,internacional_mensual.csv
 soybean,Soja (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,481.7223363582059,Internacional mensual,,internacional_mensual.csv
 pizarra_bahia_blanca_girasol_usd,Pizarra Bahía Blanca - girasol,USD por tonelada,D,Cámara Arbitral de Bahía Blanca (vía Bolsa de Cereales de Córdoba),2026-11-18,2026-11-19,470.0,Granos pizarra,,granos_pizarra.csv
@@ -124,25 +124,25 @@ usda_mani_runner,Maní Runner - precio nacional de referencia USDA,USD por tonel
 usda_mani_spanish,Maní Spanish - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,457.99,Granos FOB y FAS,,granos_fob_y_fas.csv
 usda_mani_valencia,Maní Valencia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 usda_mani_virginia,Maní Virginia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-17,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
-futuros_maiz_a3,Maíz dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-05,2026-11-18,183.6,Granos futuros ref,,granos_futuros_ref.csv
+futuros_maiz_a3,Maíz dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-05,2026-11-19,185.0,Granos futuros ref,,granos_futuros_ref.csv
 futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-19,172.83,Granos futuros ref,,granos_futuros_ref.csv
-futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-21,2026-11-18,340.5,Granos futuros ref,,granos_futuros_ref.csv
+futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-21,2026-11-19,339.7,Granos futuros ref,,granos_futuros_ref.csv
 futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-19,448.19,Granos futuros ref,,granos_futuros_ref.csv
-futuros_trigo_a3,Trigo dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2025-12-04,2026-11-18,195.9,Granos futuros ref,,granos_futuros_ref.csv
+futuros_trigo_a3,Trigo dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2025-12-04,2026-11-19,196.7,Granos futuros ref,,granos_futuros_ref.csv
 futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-19,212.47,Granos futuros ref,,granos_futuros_ref.csv
-hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,4005.0,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,3643.75,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,27600,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillitos,"Mercado Agroganadero: novillitos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,4183.42,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillitos_kg,"Mercado Agroganadero: novillitos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,393035,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillos,"Mercado Agroganadero: novillos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,3592.67,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillos_kg,"Mercado Agroganadero: novillos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,149205,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_toros,"Mercado Agroganadero: toros, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,3259.67,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_toros_kg,"Mercado Agroganadero: toros, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,92905,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vacas,"Mercado Agroganadero: vacas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,2721.38,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vacas_kg,"Mercado Agroganadero: vacas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,782030,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,3893.83,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vaquillonas_kg,"Mercado Agroganadero: vaquillonas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-18,314975,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,2002.0,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,3566.58,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,28465,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillitos,"Mercado Agroganadero: novillitos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,4465.39,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillitos_kg,"Mercado Agroganadero: novillitos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,224855,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillos,"Mercado Agroganadero: novillos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,4299.82,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillos_kg,"Mercado Agroganadero: novillos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,134800,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_toros,"Mercado Agroganadero: toros, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,3540.31,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_toros_kg,"Mercado Agroganadero: toros, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,14750,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vacas,"Mercado Agroganadero: vacas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,2856.28,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vacas_kg,"Mercado Agroganadero: vacas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,329455,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,4214.72,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vaquillonas_kg,"Mercado Agroganadero: vaquillonas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-19,141555,Hacienda diario,,hacienda_diario.csv
 hacienda_rosgan_novillos_1a2,"Rosgan: novillos_1a2, precio del remate",ARS por kg,M,Rosgan (remates televisados),2009-09-10,2026-09-09,5329.43,Hacienda mensual,,hacienda_mensual.csv
 hacienda_rosgan_piri,Rosgan: índice PIRI,índice,M,Rosgan (remates televisados),2009-09-10,2026-09-09,5537.82,Hacienda mensual,,hacienda_mensual.csv
 hacienda_rosgan_terneras,"Rosgan: terneras, precio del remate",ARS por kg,M,Rosgan (remates televisados),2009-09-10,2026-09-09,5813.33,Hacienda mensual,,hacienda_mensual.csv
@@ -158,12 +158,12 @@ ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en de
 ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras mensual,,otras_mensual.csv
 ph_gastos_importaciones,Personas humanas: compras de dólares usadas en pagos de importaciones y otros,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,100,Otras mensual,,otras_mensual.csv
 ph_gastos_turismo,Personas humanas: compras de dólares usadas en gastos de turismo (tarjetas y otros débitos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,700,Otras mensual,,otras_mensual.csv
-bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonistas.com,2026-11-16,2026-11-19,8.0892,Bonos CER,una columna por instrumento (tir),bonos_cer.csv
-bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-19,11.8488,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
-bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-19,0.6134,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
-bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-19,14.3592,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
-bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-19,25.2724,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
+bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonistas.com,2026-11-16,2026-11-20,8.3621,Bonos CER,una columna por instrumento (tir),bonos_cer.csv
+bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-20,11.9042,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
+bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-20,1.2746,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
+bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-20,14.441,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
+bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-20,27.8265,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
 dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-19,1573.0,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
-futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-18,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
+futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-19,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
 futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-19,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
