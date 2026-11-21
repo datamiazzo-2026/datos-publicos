@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-20T20:52:37+00:00",
+ "actualizado": "2026-11-21T04:24:21+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
@@ -707,33 +707,33 @@
    "nombre": "Dólar MEP (bolsa)",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-20",
-   "valor": 1649.8,
+   "fecha": "2026-11-21",
+   "valor": 1743.1,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 1548.8
+    "fecha": "2026-10-22",
+    "valor": 1553.8
    }
   },
   "dolar_ccl": {
    "nombre": "Dólar contado con liquidación",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-20",
-   "valor": 1748.2,
+   "fecha": "2026-11-21",
+   "valor": 1806.2,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 1630.9
+    "fecha": "2026-10-22",
+    "valor": 1638.0
    }
   },
   "riesgo_pais": {
    "nombre": "Riesgo país (EMBI, JP Morgan)",
    "unidad": "puntos básicos",
    "fuente": "ArgentinaDatos (JP Morgan EMBI)",
-   "fecha": "2026-11-19",
-   "valor": 931.0,
+   "fecha": "2026-11-20",
+   "valor": 1070.0,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 672.0
+    "fecha": "2026-10-21",
+    "valor": 674.0
    }
   },
   "macro_rem_ipc_12m": {
@@ -751,33 +751,33 @@
    "nombre": "Tasa BADLAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 22.125,
+   "fecha": "2026-11-19",
+   "valor": 22.625,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 22.0625
+    "fecha": "2026-10-20",
+    "valor": 23.25
    }
   },
   "macro_tasa_tamar": {
    "nombre": "Tasa TAMAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 23.4375,
+   "fecha": "2026-11-19",
+   "valor": 23.6875,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 24
+    "fecha": "2026-10-20",
+    "valor": 24.375
    }
   },
   "macro_tasa_plazo_fijo": {
    "nombre": "Tasa de plazo fijo a 30 días",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-18",
-   "valor": 21.03,
+   "fecha": "2026-11-19",
+   "valor": 21.93,
    "hace_un_mes": {
-    "fecha": "2026-10-19",
-    "valor": 21.23
+    "fecha": "2026-10-20",
+    "valor": 22.41
    }
   },
   "tasa_adelantos_cc": {
