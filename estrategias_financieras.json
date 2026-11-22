@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-21T19:55:18+00:00",
+ "actualizado": "2026-11-22T03:36:27+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
@@ -696,22 +696,22 @@
    "nombre": "Dólar MEP (bolsa)",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "valor": 1743.1,
    "hace_un_mes": {
-    "fecha": "2026-10-22",
-    "valor": 1553.8
+    "fecha": "2026-10-23",
+    "valor": 1553.6
    }
   },
   "dolar_ccl": {
    "nombre": "Dólar contado con liquidación",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-21",
+   "fecha": "2026-11-22",
    "valor": 1806.2,
    "hace_un_mes": {
-    "fecha": "2026-10-22",
-    "valor": 1638.0
+    "fecha": "2026-10-23",
+    "valor": 1639.5
    }
   },
   "riesgo_pais": {
