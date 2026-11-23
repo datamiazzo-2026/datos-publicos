@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-22T20:06:55+00:00",
+ "actualizado": "2026-11-23T04:07:10+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
@@ -150,7 +150,7 @@
   "tasa_fija": {
    "nombre": "Bonos en pesos a tasa fija (LECAP y BONCAP)",
    "unidad": "TNA en %",
-   "fecha": "2026-11-20",
+   "fecha": "2026-11-23",
    "fuente": "bonistas.com",
    "tasa": "tna",
    "instrumentos": [
@@ -164,6 +164,17 @@
      "precio": 129.4,
      "paridad": 1.0002,
      "descripcion": "Bono Tasa Fija ARS - 31.37% - vto. 11/2026"
+    },
+    {
+     "ticker": "TTD26_CAP",
+     "familia": "BONO-FIJA",
+     "vencimiento": "2026-12-15",
+     "tna": -162.7257,
+     "tir": -82.6,
+     "duration": 0.3307,
+     "precio": 178.2,
+     "paridad": 1.119,
+     "descripcion": "Bono Tasa Fija ARS - 28.93% - vto. 12/2026"
     },
     {
      "ticker": "T15E7",
@@ -214,7 +225,7 @@
   "cer": {
    "nombre": "Bonos en pesos que ajustan por CER",
    "unidad": "TIR real (sobre CER) en %",
-   "fecha": "2026-11-20",
+   "fecha": "2026-11-23",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -388,7 +399,7 @@
   "dollar_linked": {
    "nombre": "Bonos dollar linked",
    "unidad": "TIR en %",
-   "fecha": "2026-11-20",
+   "fecha": "2026-11-23",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -452,7 +463,7 @@
   "soberanos": {
    "nombre": "Bonos soberanos ley argentina y BOPREAL (en dólares)",
    "unidad": "TIR en dólares en %",
-   "fecha": "2026-11-20",
+   "fecha": "2026-11-23",
    "fuente": "bonistas.com",
    "tasa": "tir",
    "instrumentos": [
@@ -696,22 +707,22 @@
    "nombre": "Dólar MEP (bolsa)",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-23",
    "valor": 1743.1,
    "hace_un_mes": {
-    "fecha": "2026-10-23",
-    "valor": 1553.6
+    "fecha": "2026-10-24",
+    "valor": 1563.9
    }
   },
   "dolar_ccl": {
    "nombre": "Dólar contado con liquidación",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-22",
+   "fecha": "2026-11-23",
    "valor": 1806.2,
    "hace_un_mes": {
-    "fecha": "2026-10-23",
-    "valor": 1639.5
+    "fecha": "2026-10-24",
+    "valor": 1654.0
    }
   },
   "riesgo_pais": {
