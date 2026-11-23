@@ -263,15 +263,6 @@
    "unidad": "TNA en %",
    "fecha": "2026-11-23"
   },
-  "TTD26_CAP": {
-   "tir": -162.7257,
-   "tasa": "tna",
-   "duration": 0.3307,
-   "vencimiento": "2026-12-15",
-   "serie": "tasa_fija",
-   "unidad": "TNA en %",
-   "fecha": "2026-11-23"
-  },
   "T15E7": {
    "tir": 25.5242,
    "tasa": "tna",

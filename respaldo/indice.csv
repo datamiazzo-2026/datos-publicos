@@ -89,7 +89,7 @@ macro_resultado_primario,Resultado primario,mmars,M,Secretaría de Hacienda (IMI
 macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2017-01-01,2026-04-01,1.157687,Fiscal,,fiscal.csv
 brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,92.94,Internacional diario,,internacional_diario.csv
 nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,23879.2,Internacional diario,,internacional_diario.csv
-sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-21,2026-11-19,7175.83,Internacional diario,,internacional_diario.csv
+sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-25,2026-11-20,6910.39,Internacional diario,,internacional_diario.csv
 usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,122.6503,Internacional diario,,internacional_diario.csv
 ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,5.04,Internacional diario,,internacional_diario.csv
 copper,Cobre (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,14473.05590909091,Internacional mensual,,internacional_mensual.csv
@@ -162,7 +162,7 @@ bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonista
 bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-23,12.5358,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
 bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-23,-2.2949,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
 bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-23,15.9359,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
-bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-23,26.7885,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
+bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-23,28.0527,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
 dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-20,1584.5,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-20,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
