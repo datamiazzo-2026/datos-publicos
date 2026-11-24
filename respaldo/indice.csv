@@ -6,12 +6,12 @@ dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta)
 dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-20,1601.32,Dolar,,dolar.csv
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-20,73.969402,Dolar,,dolar.csv
 macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-20,80.109234,Dolar,,dolar.csv
-usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,6.671,Dolar,,dolar.csv
-macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-22,2026-11-19,22.625,Tasas,,tasas.csv
-macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-22,2026-11-19,1.341763,Tasas,,tasas.csv
-macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-22,2026-11-19,62.73,Tasas,,tasas.csv
-macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-22,2026-11-19,21.93,Tasas,,tasas.csv
-macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-22,2026-11-19,0.652457,Tasas,,tasas.csv
+usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,6.677,Dolar,,dolar.csv
+macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-26,2026-11-19,22.625,Tasas,,tasas.csv
+macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-19,1.341763,Tasas,,tasas.csv
+macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-26,2026-11-19,62.73,Tasas,,tasas.csv
+macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-26,2026-11-19,21.93,Tasas,,tasas.csv
+macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-19,0.652457,Tasas,,tasas.csv
 macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-19,23.6875,Tasas,,tasas.csv
 tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-19,25.46,Tasas,,tasas.csv
 tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-19,22.625,Tasas,,tasas.csv
@@ -22,7 +22,7 @@ encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-0
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-15,26535841.718,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-19,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-19,4548175.9528,Reservas y BCRA,,reservas_y_bcra.csv
-macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-22,2026-11-18,49553,Reservas y BCRA,,reservas_y_bcra.csv
+macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-26,2026-11-18,49553,Reservas y BCRA,,reservas_y_bcra.csv
 prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-18,26332.0,Reservas y BCRA,,reservas_y_bcra.csv
 riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-20,1070.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
@@ -90,8 +90,8 @@ macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría d
 brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,92.94,Internacional diario,,internacional_diario.csv
 nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,23879.2,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-25,2026-11-20,6910.39,Internacional diario,,internacional_diario.csv
-usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-13,122.6503,Internacional diario,,internacional_diario.csv
-ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,5.04,Internacional diario,,internacional_diario.csv
+usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,123.5978,Internacional diario,,internacional_diario.csv
+ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,4.92,Internacional diario,,internacional_diario.csv
 copper,Cobre (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,14473.05590909091,Internacional mensual,,internacional_mensual.csv
 soybean,Soja (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,481.7223363582059,Internacional mensual,,internacional_mensual.csv
 pizarra_bahia_blanca_girasol_usd,Pizarra Bahía Blanca - girasol,USD por tonelada,D,Cámara Arbitral de Bahía Blanca (vía Bolsa de Cereales de Córdoba),2026-11-18,2026-11-19,470.0,Granos pizarra,,granos_pizarra.csv
