@@ -1,13 +1,13 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-24T21:26:46+00:00",
+ "actualizado": "2026-11-24T22:32:58+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
   "fuente": {
    "nombre": "A3 Mercados (Matba-Rofex)",
    "web": "https://www.a3mercados.com.ar/",
-   "via": "Google Sheet pública de DATA (rezago ~24 hs)"
+   "via": "API pública de A3 (apicem.matbarofex.com.ar)"
   },
   "spot_a3500": {
    "fecha": "2026-11-20",
