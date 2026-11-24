@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-24T07:13:34+00:00",
+ "actualizado": "2026-11-24T10:56:12+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
@@ -164,6 +164,17 @@
      "precio": 129.4,
      "paridad": 0.9996,
      "descripcion": "Bono Tasa Fija ARS - 31.37% - vto. 11/2026"
+    },
+    {
+     "ticker": "TTD26_CAP",
+     "familia": "BONO-FIJA",
+     "vencimiento": "2026-12-15",
+     "tna": -170.2561,
+     "tir": -84.0568,
+     "duration": 0.3437,
+     "precio": 178.2,
+     "paridad": 1.1184,
+     "descripcion": "Bono Tasa Fija ARS - 28.93% - vto. 12/2026"
     },
     {
      "ticker": "T15E7",

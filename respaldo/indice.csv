@@ -141,7 +141,7 @@ hacienda_mag_toros,"Mercado Agroganadero: toros, promedio ponderado del día",AR
 hacienda_mag_toros_kg,"Mercado Agroganadero: toros, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,195410,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_vacas,"Mercado Agroganadero: vacas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,2709.29,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_vacas_kg,"Mercado Agroganadero: vacas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,762335,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,3944.45,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,3944.5,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_vaquillonas_kg,"Mercado Agroganadero: vaquillonas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,334115,Hacienda diario,,hacienda_diario.csv
 hacienda_rosgan_novillos_1a2,"Rosgan: novillos_1a2, precio del remate",ARS por kg,M,Rosgan (remates televisados),2009-09-10,2026-09-09,5329.43,Hacienda mensual,,hacienda_mensual.csv
 hacienda_rosgan_piri,Rosgan: índice PIRI,índice,M,Rosgan (remates televisados),2009-09-10,2026-09-09,5537.82,Hacienda mensual,,hacienda_mensual.csv
@@ -162,7 +162,7 @@ bonos_cer,Bonos en pesos que ajustan por CER,TIR real (sobre CER) en %,D,bonista
 bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real (sobre CER) en %,D,bonistas.com,2026-11-19,2026-11-24,12.5486,bonos_cer_largos,una columna por instrumento (tir),bonos_cer_largos.csv
 bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-24,-1.8043,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
 bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-24,15.9452,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
-bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-24,28.2346,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
+bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-24,28.0215,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
 dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-20,1584.5,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-20,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
