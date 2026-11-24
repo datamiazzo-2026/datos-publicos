@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-24T18:26:45+00:00",
+ "actualizado": "2026-11-24T21:26:46+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-20",
@@ -674,22 +674,22 @@
    "nombre": "Dólar mayorista (Comunicación A 3500)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-20",
-   "valor": 1575.9572,
+   "fecha": "2026-11-24",
+   "valor": 1592.0227,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 1526.6664
+    "fecha": "2026-10-23",
+    "valor": 1528.263
    }
   },
   "dolar_oficial": {
    "nombre": "Dólar oficial minorista (BNA, promedio)",
    "unidad": "ARS por USD",
    "fuente": "BCRA",
-   "fecha": "2026-11-20",
-   "valor": 1601.32,
+   "fecha": "2026-11-24",
+   "valor": 1619.1,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 1546.15
+    "fecha": "2026-10-23",
+    "valor": 1549.77
    }
   },
   "dolar_mep": {
@@ -740,66 +740,66 @@
    "nombre": "Tasa BADLAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 22.625,
+   "fecha": "2026-11-20",
+   "valor": 22.5,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 23.25
+    "fecha": "2026-10-21",
+    "valor": 22.375
    }
   },
   "macro_tasa_tamar": {
    "nombre": "Tasa TAMAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 23.6875,
+   "fecha": "2026-11-20",
+   "valor": 23.75,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 24.375
+    "fecha": "2026-10-21",
+    "valor": 24.1875
    }
   },
   "macro_tasa_plazo_fijo": {
    "nombre": "Tasa de plazo fijo a 30 días",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 21.93,
+   "fecha": "2026-11-20",
+   "valor": 21.06,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 22.41
+    "fecha": "2026-10-21",
+    "valor": 21
    }
   },
   "tasa_adelantos_cc": {
    "nombre": "Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 25.46,
+   "fecha": "2026-11-20",
+   "valor": 25.7,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 25.46
+    "fecha": "2026-10-21",
+    "valor": 25.18
    }
   },
   "tasa_pases_terceros_1d": {
    "nombre": "Tasa de pases entre terceros a 1 día",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 20.48,
+   "fecha": "2026-11-20",
+   "valor": 21.11,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 20.85
+    "fecha": "2026-10-21",
+    "valor": 20.88
    }
   },
   "tasa_badlar_privados": {
    "nombre": "Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",
    "unidad": "TNA en %",
    "fuente": "BCRA",
-   "fecha": "2026-11-19",
-   "valor": 22.625,
+   "fecha": "2026-11-20",
+   "valor": 22.5,
    "hace_un_mes": {
-    "fecha": "2026-10-20",
-    "valor": 23.25
+    "fecha": "2026-10-21",
+    "valor": 22.375
    }
   }
  }

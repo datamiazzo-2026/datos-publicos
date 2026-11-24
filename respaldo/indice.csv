@@ -1,30 +1,30 @@
 id,nombre,unidad,frecuencia,fuente,desde,hasta,ultimo_valor,hoja,nota,archivo
 dolar_blue,Dólar blue,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-24,1675.0,Dolar,,dolar.csv
 dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-24,1806.2,Dolar,,dolar.csv
-dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-20,1575.9572,Dolar,,dolar.csv
+dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-24,1592.0227,Dolar,,dolar.csv
 dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-24,1743.1,Dolar,,dolar.csv
-dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-20,1601.32,Dolar,,dolar.csv
-itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-20,73.969402,Dolar,,dolar.csv
-macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-20,80.109234,Dolar,,dolar.csv
+dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-24,1619.1,Dolar,,dolar.csv
+itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-24,74.948231,Dolar,,dolar.csv
+macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-24,80.674658,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,6.677,Dolar,,dolar.csv
-macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-26,2026-11-19,22.625,Tasas,,tasas.csv
-macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-19,1.341763,Tasas,,tasas.csv
-macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-26,2026-11-19,62.73,Tasas,,tasas.csv
-macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-26,2026-11-19,21.93,Tasas,,tasas.csv
-macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-19,0.652457,Tasas,,tasas.csv
-macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-19,23.6875,Tasas,,tasas.csv
-tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-19,25.46,Tasas,,tasas.csv
-tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-19,22.625,Tasas,,tasas.csv
-tasa_pases_terceros_1d,Tasa de pases entre terceros a 1 día,TNA en %,D,BCRA,2017-01-02,2026-11-19,20.48,Tasas,,tasas.csv
-bcra_compras_divisas,Compras netas de divisas del BCRA (variación de reservas por compra de divisas),millones de USD,D,BCRA,2017-01-02,2026-11-17,74.0,Reservas y BCRA,,reservas_y_bcra.csv
-bcra_depositos_gobierno_usd,Depósitos del gobierno en el BCRA en moneda extranjera,millones de USD,D,BCRA,2024-01-02,2026-11-18,158.4,Reservas y BCRA,,reservas_y_bcra.csv
-depositos_privados_usd,Depósitos del sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-17,43079.0,Reservas y BCRA,,reservas_y_bcra.csv
-encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-02,2026-11-18,17279.6411,Reservas y BCRA,,reservas_y_bcra.csv
+macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-26,2026-11-20,22.5,Tasas,,tasas.csv
+macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-20,1.185147,Tasas,,tasas.csv
+macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-26,2026-11-20,62.16,Tasas,,tasas.csv
+macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-26,2026-11-20,21.06,Tasas,,tasas.csv
+macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-20,-0.236217,Tasas,,tasas.csv
+macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-20,23.75,Tasas,,tasas.csv
+tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-20,25.7,Tasas,,tasas.csv
+tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-20,22.5,Tasas,,tasas.csv
+tasa_pases_terceros_1d,Tasa de pases entre terceros a 1 día,TNA en %,D,BCRA,2017-01-02,2026-11-20,21.11,Tasas,,tasas.csv
+bcra_compras_divisas,Compras netas de divisas del BCRA (variación de reservas por compra de divisas),millones de USD,D,BCRA,2017-01-02,2026-11-18,11.0,Reservas y BCRA,,reservas_y_bcra.csv
+bcra_depositos_gobierno_usd,Depósitos del gobierno en el BCRA en moneda extranjera,millones de USD,D,BCRA,2024-01-02,2026-11-19,153.3,Reservas y BCRA,,reservas_y_bcra.csv
+depositos_privados_usd,Depósitos del sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-18,43203.0,Reservas y BCRA,,reservas_y_bcra.csv
+encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-02,2026-11-19,17310.6755,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-15,26535841.718,Reservas y BCRA,,reservas_y_bcra.csv
-macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-19,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
-macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-19,4548175.9528,Reservas y BCRA,,reservas_y_bcra.csv
-macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-26,2026-11-18,49553,Reservas y BCRA,,reservas_y_bcra.csv
-prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-18,26332.0,Reservas y BCRA,,reservas_y_bcra.csv
+macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-20,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
+macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-20,5229097.7526,Reservas y BCRA,,reservas_y_bcra.csv
+macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-26,2026-11-19,49442,Reservas y BCRA,,reservas_y_bcra.csv
+prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-19,26415.0,Reservas y BCRA,,reservas_y_bcra.csv
 riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-23,1035.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_mensual,IPC var. mensual,pct,M,INDEC,2017-01-01,2026-10-01,2.171792,Precios y salarios,,precios_y_salarios.csv
@@ -47,8 +47,8 @@ icc_gba,Índice de Confianza del Consumidor - GBA,índice (0 a 100),M,Universida
 icc_interior,Índice de Confianza del Consumidor - Interior,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-11-01,47.5184,Actividad y empleo,,actividad_y_empleo.csv
 icc_nacional,Índice de Confianza del Consumidor - Nacional,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-11-01,40.9885,Actividad y empleo,,actividad_y_empleo.csv
 macro_desocupacion,Tasa de desocupación,tasa,Q,INDEC — EPH,2017-01-01,2026-04-01,7.9,Actividad y empleo,,actividad_y_empleo.csv
-macro_emae_desest,EMAE desestacionalizado,indice,M,INDEC,2017-01-01,2026-08-01,149.890735,Actividad y empleo,,actividad_y_empleo.csv
-macro_emae_interanual,EMAE var. interanual,pct,M,INDEC,2017-01-01,2026-08-01,-1.744291,Actividad y empleo,,actividad_y_empleo.csv
+macro_emae_desest,EMAE desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,152.174023,Actividad y empleo,,actividad_y_empleo.csv
+macro_emae_interanual,EMAE var. interanual,pct,M,INDEC,2017-01-01,2026-09-01,-1.199983,Actividad y empleo,,actividad_y_empleo.csv
 macro_empleo_privado_desest,Asalariados privados registrados desestacionalizado,miles,M,Secretaría de Trabajo — SIPA,2017-01-01,2026-08-01,6098.175,Actividad y empleo,,actividad_y_empleo.csv
 macro_empleo_privado_interanual,Asalariados privados registrados var. interanual,pct,M,Secretaría de Trabajo — SIPA,2017-01-01,2026-08-01,-2.127469,Actividad y empleo,,actividad_y_empleo.csv
 macro_ipi_desest,IPI manufacturero desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,115.070504,Actividad y empleo,,actividad_y_empleo.csv
@@ -92,7 +92,7 @@ brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-
 nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,23879.2,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-25,2026-11-23,7237.17,Internacional diario,,internacional_diario.csv
 usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,123.5978,Internacional diario,,internacional_diario.csv
-ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,4.92,Internacional diario,,internacional_diario.csv
+ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-23,4.92,Internacional diario,,internacional_diario.csv
 copper,Cobre (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,14473.05590909091,Internacional mensual,,internacional_mensual.csv
 soybean,Soja (FMI),USD por tonelada,M,FRED (Reserva Federal de St. Louis),2015-01-01,2026-09-01,481.7223363582059,Internacional mensual,,internacional_mensual.csv
 pizarra_bahia_blanca_girasol_usd,Pizarra Bahía Blanca - girasol,USD por tonelada,D,Cámara Arbitral de Bahía Blanca (vía Bolsa de Cereales de Córdoba),2026-11-18,2026-11-19,470.0,Granos pizarra,,granos_pizarra.csv
@@ -126,11 +126,11 @@ usda_mani_spanish,Maní Spanish - precio nacional de referencia USDA,USD por ton
 usda_mani_valencia,Maní Valencia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-24,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 usda_mani_virginia,Maní Virginia - precio nacional de referencia USDA,USD por tonelada corta,W,USDA Farm Service Agency (Weekly National Posted Prices for Peanuts),2024-06-06,2026-11-24,478.24,Granos FOB y FAS,,granos_fob_y_fas.csv
 futuros_maiz_a3,Maíz dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-05,2026-11-20,182.2,Granos futuros ref,,granos_futuros_ref.csv
-futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-20,171.06,Granos futuros ref,,granos_futuros_ref.csv
+futuros_maiz_cbot,Maíz dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-01,2026-11-24,170.86,Granos futuros ref,,granos_futuros_ref.csv
 futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2026-01-21,2026-11-20,342.5,Granos futuros ref,,granos_futuros_ref.csv
-futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-20,452.14,Granos futuros ref,,granos_futuros_ref.csv
+futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-24,456.73,Granos futuros ref,,granos_futuros_ref.csv
 futuros_trigo_a3,Trigo dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2025-12-04,2026-11-20,196.5,Granos futuros ref,,granos_futuros_ref.csv
-futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-20,211.0,Granos futuros ref,,granos_futuros_ref.csv
+futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-24,209.35,Granos futuros ref,,granos_futuros_ref.csv
 hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,4695.0,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,4007.46,Hacienda diario,,hacienda_diario.csv
 hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,26720,Hacienda diario,,hacienda_diario.csv
@@ -152,15 +152,36 @@ hacienda_rosgan_vientres_prenez,"Rosgan: vientres_prenez, precio del remate",ARS
 cot_maiz_neto,"Posición neta de fondos (Managed Money) en Maíz, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-17,-33862,Fondos CFTC,,fondos_cftc.csv
 cot_soja_neto,"Posición neta de fondos (Managed Money) en Soja, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-17,113630,Fondos CFTC,,fondos_cftc.csv
 cot_trigo_neto,"Posición neta de fondos (Managed Money) en Trigo, Chicago",contratos,W,CFTC — Commitments of Traders (disaggregated),2006-06-13,2026-11-17,-84836,Fondos CFTC,,fondos_cftc.csv
-merval,S&P Merval (en pesos),puntos,D,Rava Bursátil (cierre diario del índice de BYMA),2021-11-18,2026-11-24,82517.2,Otras diario,,otras_diario.csv
-merval_usd,S&P Merval en dólares (Merval / dólar CCL),puntos en USD,D,Cálculo de la central: Merval (Rava) / dólar CCL (ArgentinaDatos),2021-11-18,2026-11-24,45.6855,Otras diario,,otras_diario.csv
+brl,Reales por dólar,BRL por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,5.9488,Otras diario,,otras_diario.csv
+merval,S&P Merval (en pesos),puntos,D,Rava Bursátil (cierre diario del índice de BYMA),2021-11-18,2026-11-24,81261.1,Otras diario,,otras_diario.csv
+merval_usd,S&P Merval en dólares (Merval / dólar CCL),puntos en USD,D,Cálculo de la central: Merval (Rava) / dólar CCL (ArgentinaDatos),2021-11-18,2026-11-24,44.9901,Otras diario,,otras_diario.csv
+cf_deuda_neto,"Préstamos financieros, títulos de deuda y líneas de crédito (neto) · balance cambiario",millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,1248.3837,Otras mensual,,otras_mensual.csv
+cf_fmi_neto,Operaciones con el FMI (neto) · balance cambiario,millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,-794.2,Otras mensual,,otras_mensual.csv
+cf_ied_neto,Inversión directa de no residentes (neto) · balance cambiario,millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,132.0148,Otras mensual,,otras_mensual.csv
+cf_ooii_neto,Préstamos de otros organismos internacionales y bilaterales (neto) · balance cambiario,millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,-388.6262,Otras mensual,,otras_mensual.csv
+cf_portafolio_neto,Inversión de portafolio de no residentes (neto) · balance cambiario,millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,-96.1326,Otras mensual,,otras_mensual.csv
 deuda_vencimientos_me,Vencimientos de deuda en moneda extranjera de la Administración Central (capital + interés),millones de USD,Q,Secretaría de Finanzas (Ministerio de Economía),2026-06-30,2026-06-30,22858.4,Otras mensual,,otras_mensual.csv
+emae_act_adm_publica,EMAE · Administración pública y defensa,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,158.4498,Otras mensual,,otras_mensual.csv
+emae_act_agro,"EMAE · Agricultura, ganadería, caza y silvicultura",índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,73.9431,Otras mensual,,otras_mensual.csv
+emae_act_comercio,"EMAE · Comercio mayorista, minorista y reparaciones",índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,150.9502,Otras mensual,,otras_mensual.csv
+emae_act_construccion,EMAE · Construcción,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,143.6272,Otras mensual,,otras_mensual.csv
+emae_act_electricidad,"EMAE · Electricidad, gas y agua",índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,144.4922,Otras mensual,,otras_mensual.csv
+emae_act_ensenanza,EMAE · Enseñanza,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,173.5025,Otras mensual,,otras_mensual.csv
+emae_act_finanzas,EMAE · Intermediación financiera,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,198.2312,Otras mensual,,otras_mensual.csv
+emae_act_hoteles,EMAE · Hoteles y restaurantes,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,172.2219,Otras mensual,,otras_mensual.csv
+emae_act_industria,EMAE · Industria manufacturera,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,121.6461,Otras mensual,,otras_mensual.csv
+emae_act_inmobiliarias,"EMAE · Actividades inmobiliarias, empresariales y de alquiler",índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,160.5786,Otras mensual,,otras_mensual.csv
+emae_act_mineria,EMAE · Explotación de minas y canteras,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,139.0634,Otras mensual,,otras_mensual.csv
+emae_act_otros_servicios,"EMAE · Otras actividades de servicios comunitarios, sociales y personales",índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,120.2687,Otras mensual,,otras_mensual.csv
+emae_act_pesca,EMAE · Pesca,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,148.1875,Otras mensual,,otras_mensual.csv
+emae_act_salud,EMAE · Servicios sociales y de salud,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,183.6482,Otras mensual,,otras_mensual.csv
+emae_act_transporte,EMAE · Transporte y comunicaciones,índice 2004 = 100,M,"INDEC — Estimador mensual de actividad económica, por actividad",2004-01-01,2026-09-01,184.6,Otras mensual,,otras_mensual.csv
 macro_base_monetaria_prom,"Base monetaria, promedio mensual",mars,M,BCRA,2018-12-01,2026-10-01,46641100.677419,Otras mensual,,otras_mensual.csv
-macro_depositos_privados_pesos_m,Depósitos en pesos del sector privado (promedio mensual),mars,M,BCRA,2018-11-01,2026-10-01,125352141.761905,Otras mensual,,otras_mensual.csv
-macro_m2_privado_prom,"M2 privado, promedio mensual",mars,M,BCRA,2018-12-01,2026-10-01,78570354.774194,Otras mensual,,otras_mensual.csv
+macro_depositos_privados_pesos_m,Depósitos en pesos del sector privado (promedio mensual),mars,M,BCRA,2018-11-01,2026-10-01,125354551.571429,Otras mensual,,otras_mensual.csv
+macro_m2_privado_prom,"M2 privado, promedio mensual",mars,M,BCRA,2018-12-01,2026-10-01,78574032.645161,Otras mensual,,otras_mensual.csv
 macro_pbi_nominal_12m,PBI de los últimos doce meses,mars,M,INDEC — Cuentas nacionales,2017-01-01,2026-11-01,1117382418.44711,Otras mensual,,otras_mensual.csv
-macro_prestamos_privados_pesos_m,Préstamos al sector privado en pesos (promedio mensual),mars,M,BCRA,2017-01-01,2026-10-01,108216816.380952,Otras mensual,,otras_mensual.csv
-macro_prestamos_privados_usd_m,Préstamos en dólares (promedio mensual),musd,M,BCRA,2017-01-01,2026-10-01,26083.333333,Otras mensual,,otras_mensual.csv
+macro_prestamos_privados_pesos_m,Préstamos al sector privado en pesos (promedio mensual),mars,M,BCRA,2017-01-01,2026-10-01,108215702.761905,Otras mensual,,otras_mensual.csv
+macro_prestamos_privados_usd_m,Préstamos en dólares (promedio mensual),musd,M,BCRA,2017-01-01,2026-10-01,26083.285714,Otras mensual,,otras_mensual.csv
 ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras mensual,,otras_mensual.csv
@@ -174,4 +195,4 @@ bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.
 dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-20,1584.5,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-20,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
-futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-20,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
+futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-24,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
