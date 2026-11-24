@@ -5112,7 +5112,7 @@
   "disponible_runner_ars": 1056278.0,
   "disponible_runner_usd": 681.0,
   "usda": {
-   "fecha": "2026-11-17",
+   "fecha": "2026-11-24",
    "runner": 466.39,
    "spanish": 457.99,
    "valencia": 478.24,
@@ -6182,6 +6182,6 @@
   ],
   "industria_estimado": true
  },
- "actualizado": "2026-11-24T14:35:39+00:00",
+ "actualizado": "2026-11-24T14:45:36+00:00",
  "fuente": "Central de datos DATA Miazzo (BCR, Cámara Arbitral de Rosario, Bolsa de Cereales de Córdoba, BCRA, USDA)"
 }
