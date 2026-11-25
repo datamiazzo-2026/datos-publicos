@@ -1,8 +1,8 @@
 id,nombre,unidad,frecuencia,fuente,desde,hasta,ultimo_valor,hoja,nota,archivo
-dolar_blue,Dólar blue,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-24,1675.0,Dolar,,dolar.csv
-dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-24,1806.2,Dolar,,dolar.csv
+dolar_blue,Dólar blue,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-25,1700.0,Dolar,,dolar.csv
+dolar_ccl,Dólar contado con liquidación,ARS por USD,D,ArgentinaDatos (cotización de venta),2017-01-01,2026-11-25,1797.1,Dolar,,dolar.csv
 dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-01-02,2026-11-24,1592.0227,Dolar,,dolar.csv
-dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-24,1743.1,Dolar,,dolar.csv
+dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-25,1695.1,Dolar,,dolar.csv
 dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-24,1619.1,Dolar,,dolar.csv
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-24,74.948231,Dolar,,dolar.csv
 macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2001-01-01,2026-11-24,80.674658,Dolar,,dolar.csv
@@ -25,7 +25,7 @@ macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Infor
 macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-20,5229097.7526,Reservas y BCRA,,reservas_y_bcra.csv
 macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-26,2026-11-19,49442,Reservas y BCRA,,reservas_y_bcra.csv
 prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-19,26415.0,Reservas y BCRA,,reservas_y_bcra.csv
-riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-23,1035.0,Reservas y BCRA,,reservas_y_bcra.csv
+riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-24,1094.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_mensual,IPC var. mensual,pct,M,INDEC,2017-01-01,2026-10-01,2.171792,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_nivel_general,IPC nivel general,indice,M,INDEC,2016-12-01,2026-10-01,12785.9321,Precios y salarios,,precios_y_salarios.csv
@@ -89,7 +89,7 @@ macro_resultado_financiero_pbi,"Resultado financiero, % del PBI",pct,Q,Secretar�
 macro_resultado_primario,Resultado primario,mmars,M,Secretaría de Hacienda (IMIG),2016-01-01,2026-10-01,1931.1563,Fiscal,,fiscal.csv
 macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2016-10-01,2026-04-01,1.157687,Fiscal,,fiscal.csv
 brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,92.94,Internacional diario,,internacional_diario.csv
-nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,23879.2,Internacional diario,,internacional_diario.csv
+nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-24,23733.54,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-25,2026-11-23,7237.17,Internacional diario,,internacional_diario.csv
 usd_index,Índice dólar amplio (Fed),índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,123.5978,Internacional diario,,internacional_diario.csv
 ust10y,Bono del Tesoro de EE. UU. a 10 años,%,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-23,4.92,Internacional diario,,internacional_diario.csv

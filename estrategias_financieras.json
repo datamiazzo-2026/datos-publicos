@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-25T00:39:18+00:00",
+ "actualizado": "2026-11-25T05:46:59+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-24",
@@ -696,10 +696,10 @@
    "nombre": "Dólar MEP (bolsa)",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-24",
-   "valor": 1743.1,
+   "fecha": "2026-11-25",
+   "valor": 1695.1,
    "hace_un_mes": {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "valor": 1563.9
    }
   },
@@ -707,10 +707,10 @@
    "nombre": "Dólar contado con liquidación",
    "unidad": "ARS por USD",
    "fuente": "ArgentinaDatos (cotización de venta)",
-   "fecha": "2026-11-24",
-   "valor": 1806.2,
+   "fecha": "2026-11-25",
+   "valor": 1797.1,
    "hace_un_mes": {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "valor": 1654.0
    }
   },
@@ -718,8 +718,8 @@
    "nombre": "Riesgo país (EMBI, JP Morgan)",
    "unidad": "puntos básicos",
    "fuente": "ArgentinaDatos (JP Morgan EMBI)",
-   "fecha": "2026-11-23",
-   "valor": 1035.0,
+   "fecha": "2026-11-24",
+   "valor": 1094.0,
    "hace_un_mes": {
     "fecha": "2026-10-23",
     "valor": 707.0
