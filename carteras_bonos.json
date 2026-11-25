@@ -499,5 +499,13 @@
    "ticker_mercado": "AL41D"
   }
  },
- "faltan": []
+ "faltan": [],
+ "mep": {
+  "valor": 1669.14,
+  "fecha": "2026-11-25",
+  "hora": "2026-11-25 15:25",
+  "fuente": "Dólar MEP implícito en bonos (AL30 / AL30D)",
+  "liquidacion": "24hs",
+  "control_gd30": 1668.72
+ }
 }
