@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-25T22:05:31+00:00",
+ "actualizado": "2026-11-25T22:27:09+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-24",
@@ -740,11 +740,11 @@
    "nombre": "Tasa BADLAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-20",
-   "valor": 22.5,
+   "fecha": "2026-11-24",
+   "valor": 22.1875,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 22.375
+    "fecha": "2026-10-23",
+    "valor": 23.0625
    }
   },
   "macro_tasa_tamar": {
@@ -762,11 +762,11 @@
    "nombre": "Tasa de plazo fijo a 30 días",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-20",
-   "valor": 21.06,
+   "fecha": "2026-11-24",
+   "valor": 20.84,
    "hace_un_mes": {
-    "fecha": "2026-10-21",
-    "valor": 21
+    "fecha": "2026-10-23",
+    "valor": 22.22
    }
   },
   "tasa_adelantos_cc": {
