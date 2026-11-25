@@ -30,36 +30,36 @@
  },
  "bonos": {
   "TZXD6": {
-   "tir": 3.9777,
+   "tir": 3.3551,
    "tasa": "tir",
-   "duration": 0.0501,
+   "duration": 0.0504,
    "vencimiento": "2026-12-15",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXM7": {
-   "tir": 3.85,
+   "tir": 4.3628,
    "tasa": "tir",
-   "duration": 0.3298,
+   "duration": 0.3281,
    "vencimiento": "2027-03-31",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXA7": {
-   "tir": 4.3545,
+   "tir": 5.9684,
    "tasa": "tir",
-   "duration": 0.4069,
+   "duration": 0.4007,
    "vencimiento": "2027-04-30",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXY7": {
-   "tir": 4.0229,
+   "tir": 4.34,
    "tasa": "tir",
-   "duration": 0.4899,
+   "duration": 0.4884,
    "vencimiento": "2027-05-31",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
@@ -75,18 +75,18 @@
    "fecha": "2026-11-25"
   },
   "TZXS7": {
-   "tir": 7.0711,
+   "tir": 7.5204,
    "tasa": "tir",
-   "duration": 0.7881,
+   "duration": 0.7848,
    "vencimiento": "2027-09-30",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXO7": {
-   "tir": 7.332,
+   "tir": 7.9003,
    "tasa": "tir",
-   "duration": 0.8602,
+   "duration": 0.8557,
    "vencimiento": "2027-10-29",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
@@ -111,63 +111,63 @@
    "fecha": "2026-11-25"
   },
   "TZX28": {
-   "tir": 12.0969,
+   "tir": 12.0872,
    "tasa": "tir",
-   "duration": 1.4212,
+   "duration": 1.4214,
    "vencimiento": "2028-06-30",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXS8": {
-   "tir": 11.7509,
+   "tir": 11.9373,
    "tasa": "tir",
-   "duration": 1.6481,
+   "duration": 1.6454,
    "vencimiento": "2028-09-29",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TX28": {
-   "tir": 10.4902,
+   "tir": 11.6499,
    "tasa": "tir",
-   "duration": 1.1065,
+   "duration": 1.0974,
    "vencimiento": "2028-11-09",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXD8": {
-   "tir": 11.5436,
+   "tir": 12.0743,
    "tasa": "tir",
-   "duration": 1.8398,
+   "duration": 1.8311,
    "vencimiento": "2028-12-15",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TZXM9": {
-   "tir": 11.9205,
+   "tir": 12.108,
    "tasa": "tir",
-   "duration": 2.0856,
+   "duration": 2.0821,
    "vencimiento": "2029-03-28",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "TX31": {
-   "tir": 13.5492,
+   "tir": 13.3067,
    "tasa": "tir",
-   "duration": 2.2605,
+   "duration": 2.2672,
    "vencimiento": "2031-11-30",
    "serie": "cer",
    "unidad": "TIR real (sobre CER) en %",
    "fecha": "2026-11-25"
   },
   "DICP": {
-   "tir": 12.8357,
+   "tir": 13.0681,
    "tasa": "tir",
-   "duration": 2.6655,
+   "duration": 2.6543,
    "vencimiento": "2033-12-31",
    "serie": "cer_largos",
    "unidad": "TIR real (sobre CER) en %",
@@ -210,9 +210,9 @@
    "fecha": "2026-11-25"
   },
   "D31M7": {
-   "tir": -0.0079,
+   "tir": 0.1776,
    "tasa": "tir",
-   "duration": 0.3425,
+   "duration": 0.3419,
    "vencimiento": "2027-03-31",
    "serie": "dollar_linked",
    "unidad": "TIR en %",
@@ -228,9 +228,9 @@
    "fecha": "2026-11-25"
   },
   "TZV27": {
-   "tir": -0.9622,
+   "tir": -3.5469,
    "tasa": "tir",
-   "duration": 0.5975,
+   "duration": 0.6135,
    "vencimiento": "2027-06-30",
    "serie": "dollar_linked",
    "unidad": "TIR en %",
@@ -255,18 +255,18 @@
    "fecha": "2026-11-25"
   },
   "S30N6": {
-   "tir": 27.6281,
+   "tir": 25.6115,
    "tasa": "tna",
-   "duration": 0.0083,
+   "duration": 0.0085,
    "vencimiento": "2026-11-30",
    "serie": "tasa_fija",
    "unidad": "TNA en %",
    "fecha": "2026-11-25"
   },
   "T15E7": {
-   "tir": 26.2156,
+   "tir": 25.6451,
    "tasa": "tna",
-   "duration": 0.1057,
+   "duration": 0.1063,
    "vencimiento": "2027-01-15",
    "serie": "tasa_fija",
    "unidad": "TNA en %",
@@ -282,36 +282,36 @@
    "fecha": "2026-11-25"
   },
   "T31Y7": {
-   "tir": 29.8786,
+   "tir": 30.4966,
    "tasa": "tna",
-   "duration": 0.3794,
+   "duration": 0.3771,
    "vencimiento": "2027-05-31",
    "serie": "tasa_fija",
    "unidad": "TNA en %",
    "fecha": "2026-11-25"
   },
   "T30J7": {
-   "tir": 29.4594,
+   "tir": 29.6586,
    "tasa": "tna",
-   "duration": 0.4423,
+   "duration": 0.4415,
    "vencimiento": "2027-06-30",
    "serie": "tasa_fija",
    "unidad": "TNA en %",
    "fecha": "2026-11-25"
   },
   "AO27D": {
-   "tir": 5.9441,
+   "tir": 5.5347,
    "tasa": "tir",
-   "duration": 0.892,
+   "duration": 0.8924,
    "vencimiento": "2027-10-29",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AO27": {
-   "tir": 5.9441,
+   "tir": 5.5347,
    "tasa": "tir",
-   "duration": 0.892,
+   "duration": 0.8924,
    "vencimiento": "2027-10-29",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -319,18 +319,18 @@
    "ticker_mercado": "AO27D"
   },
   "BPC7D": {
-   "tir": 2.4806,
+   "tir": 3.1555,
    "tasa": "tir",
-   "duration": 0.6652,
+   "duration": 0.6626,
    "vencimiento": "2027-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "BPC7": {
-   "tir": 2.4806,
+   "tir": 3.1555,
    "tasa": "tir",
-   "duration": 0.6652,
+   "duration": 0.6626,
    "vencimiento": "2027-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -357,18 +357,18 @@
    "ticker_mercado": "BPD7D"
   },
   "AO28D": {
-   "tir": 23.7107,
+   "tir": 24.6708,
    "tasa": "tir",
-   "duration": 1.7608,
+   "duration": 1.7582,
    "vencimiento": "2028-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AO28": {
-   "tir": 23.7107,
+   "tir": 24.6708,
    "tasa": "tir",
-   "duration": 1.7608,
+   "duration": 1.7582,
    "vencimiento": "2028-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -376,18 +376,18 @@
    "ticker_mercado": "AO28D"
   },
   "BPB8D": {
-   "tir": 16.5077,
+   "tir": 16.1969,
    "tasa": "tir",
-   "duration": 1.7355,
+   "duration": 1.7382,
    "vencimiento": "2028-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "BPB8": {
-   "tir": 16.5077,
+   "tir": 16.1969,
    "tasa": "tir",
-   "duration": 1.7355,
+   "duration": 1.7382,
    "vencimiento": "2028-10-31",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -414,18 +414,18 @@
    "ticker_mercado": "AL29D"
   },
   "AL30D": {
-   "tir": 20.6223,
+   "tir": 21.6872,
    "tasa": "tir",
-   "duration": 1.4708,
+   "duration": 1.4538,
    "vencimiento": "2030-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AL30": {
-   "tir": 20.6223,
+   "tir": 21.6872,
    "tasa": "tir",
-   "duration": 1.4708,
+   "duration": 1.4538,
    "vencimiento": "2030-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -433,18 +433,18 @@
    "ticker_mercado": "AL30D"
   },
   "AL35D": {
-   "tir": 16.1653,
+   "tir": 16.4378,
    "tasa": "tir",
-   "duration": 4.5958,
+   "duration": 4.5791,
    "vencimiento": "2035-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AL35": {
-   "tir": 16.1653,
+   "tir": 16.4378,
    "tasa": "tir",
-   "duration": 4.5958,
+   "duration": 4.5791,
    "vencimiento": "2035-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -452,18 +452,18 @@
    "ticker_mercado": "AL35D"
   },
   "AE38D": {
-   "tir": 17.4113,
+   "tir": 17.8177,
    "tasa": "tir",
-   "duration": 3.5557,
+   "duration": 3.523,
    "vencimiento": "2038-01-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AE38": {
-   "tir": 17.4113,
+   "tir": 17.8177,
    "tasa": "tir",
-   "duration": 3.5557,
+   "duration": 3.523,
    "vencimiento": "2038-01-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
@@ -471,18 +471,18 @@
    "ticker_mercado": "AE38D"
   },
   "AL41D": {
-   "tir": 15.7131,
+   "tir": 16.5406,
    "tasa": "tir",
-   "duration": 4.6635,
+   "duration": 4.5629,
    "vencimiento": "2041-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
    "fecha": "2026-11-25"
   },
   "AL41": {
-   "tir": 15.7131,
+   "tir": 16.5406,
    "tasa": "tir",
-   "duration": 4.6635,
+   "duration": 4.5629,
    "vencimiento": "2041-07-09",
    "serie": "soberanos",
    "unidad": "TIR en dólares en %",
