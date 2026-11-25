@@ -5,7 +5,7 @@ dolar_mayorista,Dólar mayorista (Comunicación A 3500),ARS por USD,D,BCRA,2017-
 dolar_mep,Dólar MEP (bolsa),ARS por USD,D,ArgentinaDatos (cotización de venta),2018-10-29,2026-11-24,1743.1,Dolar,,dolar.csv
 dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017-01-02,2026-11-24,1619.1,Dolar,,dolar.csv
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-24,74.948231,Dolar,,dolar.csv
-macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2017-01-02,2026-11-24,80.674658,Dolar,,dolar.csv
+macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2001-01-01,2026-11-24,80.674658,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,6.677,Dolar,,dolar.csv
 macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-26,2026-11-20,22.5,Tasas,,tasas.csv
 macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-26,2026-11-20,1.185147,Tasas,,tasas.csv
@@ -21,73 +21,73 @@ bcra_depositos_gobierno_usd,Depósitos del gobierno en el BCRA en moneda extranj
 depositos_privados_usd,Depósitos del sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-18,43203.0,Reservas y BCRA,,reservas_y_bcra.csv
 encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-02,2026-11-19,17310.6755,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-15,26535841.718,Reservas y BCRA,,reservas_y_bcra.csv
-macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2017-01-02,2026-11-20,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
+macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2003-01-02,2026-11-20,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-20,5229097.7526,Reservas y BCRA,,reservas_y_bcra.csv
 macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-26,2026-11-19,49442,Reservas y BCRA,,reservas_y_bcra.csv
 prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-19,26415.0,Reservas y BCRA,,reservas_y_bcra.csv
 riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-23,1035.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_mensual,IPC var. mensual,pct,M,INDEC,2017-01-01,2026-10-01,2.171792,Precios y salarios,,precios_y_salarios.csv
-macro_ipc_nivel_general,IPC nivel general,indice,M,INDEC,2017-01-01,2026-10-01,12785.9321,Precios y salarios,,precios_y_salarios.csv
+macro_ipc_nivel_general,IPC nivel general,indice,M,INDEC,2016-12-01,2026-10-01,12785.9321,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_nucleo_interanual,IPC núcleo var. interanual,pct,M,INDEC — archivo publicado,2017-12-01,2026-10-01,30.705779,Precios y salarios,,precios_y_salarios.csv
 macro_ipc_nucleo_mensual,IPC núcleo var. mensual,pct,M,INDEC,2017-01-01,2026-10-01,1.503105,Precios y salarios,,precios_y_salarios.csv
-macro_rem_ipc_12m,REM — inflación esperada a 12 meses,pct,M,BCRA — REM,2017-01-01,2026-10-01,21.8,Precios y salarios,,precios_y_salarios.csv
-macro_rem_ipc_1m,REM — IPC esperado a 1 mes,pct,M,BCRA — REM,2017-01-01,2026-11-01,1.7,Precios y salarios,,precios_y_salarios.csv
-macro_rem_ipc_2m,REM — IPC esperado a 2 meses,pct,M,BCRA — REM,2017-01-01,2026-12-01,1.84,Precios y salarios,,precios_y_salarios.csv
-macro_rem_ipc_3m,REM — IPC esperado a 3 meses,pct,M,BCRA — REM,2017-01-01,2027-01-01,1.7,Precios y salarios,,precios_y_salarios.csv
+macro_rem_ipc_12m,REM — inflación esperada a 12 meses,pct,M,BCRA — REM,2016-06-01,2026-10-01,21.8,Precios y salarios,,precios_y_salarios.csv
+macro_rem_ipc_1m,REM — IPC esperado a 1 mes,pct,M,BCRA — REM,2016-07-01,2026-11-01,1.7,Precios y salarios,,precios_y_salarios.csv
+macro_rem_ipc_2m,REM — IPC esperado a 2 meses,pct,M,BCRA — REM,2016-08-01,2026-12-01,1.84,Precios y salarios,,precios_y_salarios.csv
+macro_rem_ipc_3m,REM — IPC esperado a 3 meses,pct,M,BCRA — REM,2016-09-01,2027-01-01,1.7,Precios y salarios,,precios_y_salarios.csv
 macro_rem_ipc_nucleo_proximo_mes,REM — IPC núcleo esperado del mes,pct,M,BCRA — REM,2019-01-01,2026-10-01,1.687448,Precios y salarios,,precios_y_salarios.csv
 macro_rem_ipc_proximo_mes,REM — IPC esperado del mes,pct,M,BCRA — REM,2019-01-01,2026-10-01,1.8,Precios y salarios,,precios_y_salarios.csv
-macro_ripte_real,RIPTE reales,ars,M,Secretaría de Seguridad Social (RIPTE) · deflactado por IPC,2017-01-01,2026-09-01,16159.658952,Precios y salarios,,precios_y_salarios.csv
+macro_ripte_real,RIPTE reales,ars,M,Secretaría de Seguridad Social (RIPTE) · deflactado por IPC,2016-12-01,2026-09-01,16159.658952,Precios y salarios,,precios_y_salarios.csv
 macro_ripte_real_interanual,RIPTE reales var. interanual,pct,M,Secretaría de Seguridad Social (RIPTE) · deflactado por IPC,2017-12-01,2026-09-01,-2.280818,Precios y salarios,,precios_y_salarios.csv
-macro_salarios_privados_real,Salarios privados registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2017-01-01,2026-09-01,82.763427,Precios y salarios,,precios_y_salarios.csv
+macro_salarios_privados_real,Salarios privados registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2016-12-01,2026-09-01,82.763427,Precios y salarios,,precios_y_salarios.csv
 macro_salarios_privados_real_interanual,Salarios privados registrados reales var. interanual,pct,M,INDEC — Índice de salarios · deflactado por IPC,2017-12-01,2026-09-01,-1.650062,Precios y salarios,,precios_y_salarios.csv
-macro_salarios_publicos_real,Salarios públicos registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2017-01-01,2026-09-01,67.580614,Precios y salarios,,precios_y_salarios.csv
+macro_salarios_publicos_real,Salarios públicos registrados reales,indice,M,INDEC — Índice de salarios · deflactado por IPC,2016-12-01,2026-09-01,67.580614,Precios y salarios,,precios_y_salarios.csv
 icc_capital,Índice de Confianza del Consumidor - Capital,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),1998-07-01,2026-11-01,43.4119,Actividad y empleo,,actividad_y_empleo.csv
 icc_gba,Índice de Confianza del Consumidor - GBA,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-11-01,36.5117,Actividad y empleo,,actividad_y_empleo.csv
 icc_interior,Índice de Confianza del Consumidor - Interior,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-11-01,47.5184,Actividad y empleo,,actividad_y_empleo.csv
 icc_nacional,Índice de Confianza del Consumidor - Nacional,índice (0 a 100),M,Universidad Torcuato Di Tella (Centro de Investigación en Finanzas),2001-03-01,2026-11-01,40.9885,Actividad y empleo,,actividad_y_empleo.csv
-macro_desocupacion,Tasa de desocupación,tasa,Q,INDEC — EPH,2017-01-01,2026-04-01,7.9,Actividad y empleo,,actividad_y_empleo.csv
-macro_emae_desest,EMAE desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,152.174023,Actividad y empleo,,actividad_y_empleo.csv
-macro_emae_interanual,EMAE var. interanual,pct,M,INDEC,2017-01-01,2026-09-01,-1.199983,Actividad y empleo,,actividad_y_empleo.csv
-macro_empleo_privado_desest,Asalariados privados registrados desestacionalizado,miles,M,Secretaría de Trabajo — SIPA,2017-01-01,2026-08-01,6098.175,Actividad y empleo,,actividad_y_empleo.csv
-macro_empleo_privado_interanual,Asalariados privados registrados var. interanual,pct,M,Secretaría de Trabajo — SIPA,2017-01-01,2026-08-01,-2.127469,Actividad y empleo,,actividad_y_empleo.csv
-macro_ipi_desest,IPI manufacturero desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,115.070504,Actividad y empleo,,actividad_y_empleo.csv
+macro_desocupacion,Tasa de desocupación,tasa,Q,INDEC — EPH,2016-04-01,2026-04-01,7.9,Actividad y empleo,,actividad_y_empleo.csv
+macro_emae_desest,EMAE desestacionalizado,indice,M,INDEC,2004-01-01,2026-09-01,152.174023,Actividad y empleo,,actividad_y_empleo.csv
+macro_emae_interanual,EMAE var. interanual,pct,M,INDEC,2005-01-01,2026-09-01,-1.199983,Actividad y empleo,,actividad_y_empleo.csv
+macro_empleo_privado_desest,Asalariados privados registrados desestacionalizado,miles,M,Secretaría de Trabajo — SIPA,2012-01-01,2026-08-01,6098.175,Actividad y empleo,,actividad_y_empleo.csv
+macro_empleo_privado_interanual,Asalariados privados registrados var. interanual,pct,M,Secretaría de Trabajo — SIPA,2013-01-01,2026-08-01,-2.127469,Actividad y empleo,,actividad_y_empleo.csv
+macro_ipi_desest,IPI manufacturero desestacionalizado,indice,M,INDEC,2016-01-01,2026-09-01,115.070504,Actividad y empleo,,actividad_y_empleo.csv
 macro_ipi_interanual,IPI manufacturero var. interanual,pct,M,INDEC,2017-01-01,2026-09-01,-1.780207,Actividad y empleo,,actividad_y_empleo.csv
 macro_ipi_minero_desest,IPI minero desestacionalizado,indice,M,INDEC — IPI minero,2017-01-01,2026-09-01,146.121162,Actividad y empleo,,actividad_y_empleo.csv
 macro_ipi_minero_interanual,IPI minero var. interanual,pct,M,INDEC — IPI minero,2018-01-01,2026-09-01,7.131437,Actividad y empleo,,actividad_y_empleo.csv
-macro_isac_desest,ISAC desestacionalizado,indice,M,INDEC,2017-01-01,2026-09-01,152.963675,Actividad y empleo,,actividad_y_empleo.csv
-macro_isac_interanual,ISAC var. interanual,pct,M,INDEC,2017-01-01,2026-09-01,5.077504,Actividad y empleo,,actividad_y_empleo.csv
+macro_isac_desest,ISAC desestacionalizado,indice,M,INDEC,2012-01-01,2026-09-01,152.963675,Actividad y empleo,,actividad_y_empleo.csv
+macro_isac_interanual,ISAC var. interanual,pct,M,INDEC,2013-01-01,2026-09-01,5.077504,Actividad y empleo,,actividad_y_empleo.csv
 atesoramiento_divisas,Atesoramiento: compra neta de billetes y divisas sin fines específicos (sector privado no financiero),millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2003-01-01,2026-09-01,2537.5031,Sector externo,,sector_externo.csv
-macro_bp_bienes,Balance de bienes,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,9293.030534,Sector externo,,sector_externo.csv
-macro_bp_servicios,Balance de servicios,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,-2102.304408,Sector externo,,sector_externo.csv
-macro_cobros_expo,Cobros de exportaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2017-01-01,2026-09-01,9534.169,Sector externo,,sector_externo.csv
-macro_cuenta_corriente,Cuenta corriente,musd,Q,INDEC — Balanza de pagos,2017-01-01,2026-04-01,2213.980945,Sector externo,,sector_externo.csv
-macro_expo_combustibles,Exportaciones de combustibles y energía,musd,M,INDEC — ICA,2017-01-01,2026-10-01,1734,Sector externo,,sector_externo.csv
-macro_expo_moa,Exportaciones de manufacturas de origen agropecuario (MOA),musd,M,INDEC — ICA,2017-01-01,2026-10-01,3314,Sector externo,,sector_externo.csv
-macro_expo_moi,Exportaciones de manufacturas de origen industrial (MOI),musd,M,INDEC — ICA,2017-01-01,2026-10-01,2685,Sector externo,,sector_externo.csv
-macro_expo_primarios,Exportaciones de productos primarios,musd,M,INDEC — ICA,2017-01-01,2026-10-01,2328,Sector externo,,sector_externo.csv
-macro_exportaciones,Exportaciones,musd,M,INDEC — ICA,2017-01-01,2026-10-01,10061.313931,Sector externo,,sector_externo.csv
-macro_importaciones,Importaciones,musd,M,INDEC — ICA,2017-01-01,2026-10-01,6667.75304,Sector externo,,sector_externo.csv
-macro_pagos_impo,Pagos de importaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2017-01-01,2026-09-01,6216.8062,Sector externo,,sector_externo.csv
-macro_saldo_comercial,Saldo comercial,musd,M,INDEC — ICA,2017-01-01,2026-10-01,3393.560892,Sector externo,,sector_externo.csv
+macro_bp_bienes,Balance de bienes,musd,Q,INDEC — Balanza de pagos,2006-01-01,2026-04-01,9293.030534,Sector externo,,sector_externo.csv
+macro_bp_servicios,Balance de servicios,musd,Q,INDEC — Balanza de pagos,2006-01-01,2026-04-01,-2102.304408,Sector externo,,sector_externo.csv
+macro_cobros_expo,Cobros de exportaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2003-01-01,2026-09-01,9534.169,Sector externo,,sector_externo.csv
+macro_cuenta_corriente,Cuenta corriente,musd,Q,INDEC — Balanza de pagos,2006-01-01,2026-04-01,2213.980945,Sector externo,,sector_externo.csv
+macro_expo_combustibles,Exportaciones de combustibles y energía,musd,M,INDEC — ICA,2001-01-01,2026-10-01,1734,Sector externo,,sector_externo.csv
+macro_expo_moa,Exportaciones de manufacturas de origen agropecuario (MOA),musd,M,INDEC — ICA,2001-01-01,2026-10-01,3314,Sector externo,,sector_externo.csv
+macro_expo_moi,Exportaciones de manufacturas de origen industrial (MOI),musd,M,INDEC — ICA,2001-01-01,2026-10-01,2685,Sector externo,,sector_externo.csv
+macro_expo_primarios,Exportaciones de productos primarios,musd,M,INDEC — ICA,2001-01-01,2026-10-01,2328,Sector externo,,sector_externo.csv
+macro_exportaciones,Exportaciones,musd,M,INDEC — ICA,2001-01-01,2026-10-01,10061.313931,Sector externo,,sector_externo.csv
+macro_importaciones,Importaciones,musd,M,INDEC — ICA,2001-01-01,2026-10-01,6667.75304,Sector externo,,sector_externo.csv
+macro_pagos_impo,Pagos de importaciones de bienes (MLC),musd,M,BCRA — Balance cambiario,2003-01-01,2026-09-01,6216.8062,Sector externo,,sector_externo.csv
+macro_saldo_comercial,Saldo comercial,musd,M,INDEC — ICA,2001-01-01,2026-10-01,3393.560892,Sector externo,,sector_externo.csv
 macro_turismo_saldo,Saldo de turistas,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,-180.848,Sector externo,,sector_externo.csv
 macro_turistas_no_residentes,Llegadas de turistas no residentes,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,432.206,Sector externo,,sector_externo.csv
 macro_turistas_residentes,Salidas de turistas residentes,miles,M,INDEC — Estadísticas de turismo internacional,2022-01-01,2026-09-01,613.054,Sector externo,,sector_externo.csv
 tarjetas_viajes_12m,"Consumos con tarjetas, viajes y pasajes (neto), suma de 12 meses",millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2016-12-01,2026-09-01,-9627.0992,Sector externo,,sector_externo.csv
 tarjetas_viajes_mensual,"Consumos con tarjetas, viajes y pasajes (neto)",millones de USD,M,BCRA — Anexo estadístico del mercado de cambios y balance cambiario,2016-01-01,2026-09-01,-874.3746,Sector externo,,sector_externo.csv
-macro_presion_tributaria,Presión tributaria nacional,tasa,Q,ARCA e INDEC,2017-01-01,2026-04-01,20.875232,Fiscal,,fiscal.csv
-macro_recaudacion,Recaudación tributaria,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,21608.201316,Fiscal,,fiscal.csv
-macro_recaudacion_debitos_creditos,Recaudación de Débitos y créditos,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,1631.977424,Fiscal,,fiscal.csv
-macro_recaudacion_derechos_exportacion,Recaudación de Derechos de exportación,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,870.052188,Fiscal,,fiscal.csv
-macro_recaudacion_ganancias,Recaudación de Ganancias,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,5085.492197,Fiscal,,fiscal.csv
-macro_recaudacion_iva,Recaudación de IVA,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,7032.74321,Fiscal,,fiscal.csv
-macro_recaudacion_real,Recaudación tributaria real,mmars,M,Ministerio de Economía / ARCA · deflactada por IPC,2017-01-01,2026-10-01,168.999813,Fiscal,,fiscal.csv
+macro_presion_tributaria,Presión tributaria nacional,tasa,Q,ARCA e INDEC,2004-10-01,2026-04-01,20.875232,Fiscal,,fiscal.csv
+macro_recaudacion,Recaudación tributaria,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,21608.201316,Fiscal,,fiscal.csv
+macro_recaudacion_debitos_creditos,Recaudación de Débitos y créditos,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,1631.977424,Fiscal,,fiscal.csv
+macro_recaudacion_derechos_exportacion,Recaudación de Derechos de exportación,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,870.052188,Fiscal,,fiscal.csv
+macro_recaudacion_ganancias,Recaudación de Ganancias,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,5085.492197,Fiscal,,fiscal.csv
+macro_recaudacion_iva,Recaudación de IVA,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,7032.74321,Fiscal,,fiscal.csv
+macro_recaudacion_real,Recaudación tributaria real,mmars,M,Ministerio de Economía / ARCA · deflactada por IPC,2016-12-01,2026-10-01,168.999813,Fiscal,,fiscal.csv
 macro_recaudacion_real_interanual,Recaudación tributaria real var. interanual,pct,M,Ministerio de Economía / ARCA · deflactada por IPC,2017-12-01,2026-10-01,0.400648,Fiscal,,fiscal.csv
-macro_recaudacion_seguridad_social,Recaudación de Seguridad social,mmars,M,Ministerio de Economía / ARCA,2017-01-01,2026-10-01,5033.06386,Fiscal,,fiscal.csv
-macro_resultado_financiero,Resultado financiero,mmars,M,Secretaría de Hacienda (IMIG),2017-01-01,2026-10-01,1578.6268,Fiscal,,fiscal.csv
-macro_resultado_financiero_pbi,"Resultado financiero, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2017-01-01,2026-04-01,-0.018785,Fiscal,,fiscal.csv
-macro_resultado_primario,Resultado primario,mmars,M,Secretaría de Hacienda (IMIG),2017-01-01,2026-10-01,1931.1563,Fiscal,,fiscal.csv
-macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2017-01-01,2026-04-01,1.157687,Fiscal,,fiscal.csv
+macro_recaudacion_seguridad_social,Recaudación de Seguridad social,mmars,M,Ministerio de Economía / ARCA,2001-01-01,2026-10-01,5033.06386,Fiscal,,fiscal.csv
+macro_resultado_financiero,Resultado financiero,mmars,M,Secretaría de Hacienda (IMIG),2016-01-01,2026-10-01,1578.6268,Fiscal,,fiscal.csv
+macro_resultado_financiero_pbi,"Resultado financiero, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2016-10-01,2026-04-01,-0.018785,Fiscal,,fiscal.csv
+macro_resultado_primario,Resultado primario,mmars,M,Secretaría de Hacienda (IMIG),2016-01-01,2026-10-01,1931.1563,Fiscal,,fiscal.csv
+macro_resultado_primario_pbi,"Resultado primario, % del PBI",pct,Q,Secretaría de Hacienda (IMIG) e INDEC,2016-10-01,2026-04-01,1.157687,Fiscal,,fiscal.csv
 brent,Petróleo Brent,USD por barril,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-17,92.94,Internacional diario,,internacional_diario.csv
 nasdaq,Nasdaq Composite,índice,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-19,23879.2,Internacional diario,,internacional_diario.csv
 sp500,S&P 500,índice,D,FRED (Reserva Federal de St. Louis),2016-11-25,2026-11-23,7237.17,Internacional diario,,internacional_diario.csv
@@ -131,19 +131,19 @@ futuros_soja_a3,Soja may-27 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; hi
 futuros_soja_cbot,Soja may-27 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-28,2026-11-24,456.73,Granos futuros ref,,granos_futuros_ref.csv
 futuros_trigo_a3,Trigo dic-26 A3,USD/t,D,A3 Mercados (ajuste diario de A3 Info; historia previa sembrada con Agrofy),2025-12-04,2026-11-20,196.5,Granos futuros ref,,granos_futuros_ref.csv
 futuros_trigo_cbot,Trigo dic-26 Chicago (CBOT),USD/t,D,Bolsa de Comercio de Rosario (cierres de CBOT en USD/t; historia previa sembrada con Agrofy) y CME,2025-01-03,2026-11-24,209.35,Granos futuros ref,,granos_futuros_ref.csv
-hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,4695.0,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,4007.46,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,26720,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillitos,"Mercado Agroganadero: novillitos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,4107.66,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillitos_kg,"Mercado Agroganadero: novillitos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,412670,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillos,"Mercado Agroganadero: novillos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,3948.61,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_novillos_kg,"Mercado Agroganadero: novillos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,393440,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_toros,"Mercado Agroganadero: toros, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,3311.06,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_toros_kg,"Mercado Agroganadero: toros, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,195410,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vacas,"Mercado Agroganadero: vacas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,2709.29,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vacas_kg,"Mercado Agroganadero: vacas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,762335,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,3944.5,Hacienda diario,,hacienda_diario.csv
-hacienda_mag_vaquillonas_kg,"Mercado Agroganadero: vaquillonas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-20,334115,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_cabezas,Mercado Agroganadero: cabezas ingresadas en el día,cabezas,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,5610.0,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_mej,"Mercado Agroganadero: mej, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,4123.79,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_mej_kg,"Mercado Agroganadero: mej, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,56075,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillitos,"Mercado Agroganadero: novillitos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,4434.03,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillitos_kg,"Mercado Agroganadero: novillitos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,465685,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillos,"Mercado Agroganadero: novillos, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,4091.35,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_novillos_kg,"Mercado Agroganadero: novillos, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,311905,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_toros,"Mercado Agroganadero: toros, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,3255.66,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_toros_kg,"Mercado Agroganadero: toros, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,156100,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vacas,"Mercado Agroganadero: vacas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,2765.08,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vacas_kg,"Mercado Agroganadero: vacas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,982025,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vaquillonas,"Mercado Agroganadero: vaquillonas, promedio ponderado del día",ARS por kg vivo,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,4110.85,Hacienda diario,,hacienda_diario.csv
+hacienda_mag_vaquillonas_kg,"Mercado Agroganadero: vaquillonas, kilos vivos vendidos en el día",kg vivos,D,Mercado Agroganadero (Cañuelas),2025-09-24,2026-11-24,494170,Hacienda diario,,hacienda_diario.csv
 hacienda_rosgan_novillos_1a2,"Rosgan: novillos_1a2, precio del remate",ARS por kg,M,Rosgan (remates televisados),2009-09-10,2026-11-01,4791.57,Hacienda mensual,,hacienda_mensual.csv
 hacienda_rosgan_piri,Rosgan: índice PIRI,índice,M,Rosgan (remates televisados),2009-09-10,2026-11-01,5259.76,Hacienda mensual,,hacienda_mensual.csv
 hacienda_rosgan_terneras,"Rosgan: terneras, precio del remate",ARS por kg,M,Rosgan (remates televisados),2009-09-10,2026-11-01,5169.13,Hacienda mensual,,hacienda_mensual.csv
@@ -179,9 +179,9 @@ emae_act_transporte,EMAE · Transporte y comunicaciones,índice 2004 = 100,M,"IN
 macro_base_monetaria_prom,"Base monetaria, promedio mensual",mars,M,BCRA,2018-12-01,2026-10-01,46641100.677419,Otras mensual,,otras_mensual.csv
 macro_depositos_privados_pesos_m,Depósitos en pesos del sector privado (promedio mensual),mars,M,BCRA,2018-11-01,2026-10-01,125354551.571429,Otras mensual,,otras_mensual.csv
 macro_m2_privado_prom,"M2 privado, promedio mensual",mars,M,BCRA,2018-12-01,2026-10-01,78574032.645161,Otras mensual,,otras_mensual.csv
-macro_pbi_nominal_12m,PBI de los últimos doce meses,mars,M,INDEC — Cuentas nacionales,2017-01-01,2026-11-01,1117382418.44711,Otras mensual,,otras_mensual.csv
-macro_prestamos_privados_pesos_m,Préstamos al sector privado en pesos (promedio mensual),mars,M,BCRA,2017-01-01,2026-10-01,108215702.761905,Otras mensual,,otras_mensual.csv
-macro_prestamos_privados_usd_m,Préstamos en dólares (promedio mensual),musd,M,BCRA,2017-01-01,2026-10-01,26083.285714,Otras mensual,,otras_mensual.csv
+macro_pbi_nominal_12m,PBI de los últimos doce meses,mars,M,INDEC — Cuentas nacionales,2004-12-01,2026-11-01,1117382418.44711,Otras mensual,,otras_mensual.csv
+macro_prestamos_privados_pesos_m,Préstamos al sector privado en pesos (promedio mensual),mars,M,BCRA,2016-12-01,2026-10-01,108215702.761905,Otras mensual,,otras_mensual.csv
+macro_prestamos_privados_usd_m,Préstamos en dólares (promedio mensual),musd,M,BCRA,2016-12-01,2026-10-01,26083.285714,Otras mensual,,otras_mensual.csv
 ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
 ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras mensual,,otras_mensual.csv
@@ -192,7 +192,7 @@ bonos_cer_largos,"Bonos CER largos en pesos (Discount, Par y Cuasipar)",TIR real
 bonos_dollar_linked,Bonos dollar linked,TIR en %,D,bonistas.com,2026-11-16,2026-11-24,-1.8043,Bonos dollar linked,una columna por instrumento (tir),bonos_dollar_linked.csv
 bonos_soberanos,Bonos soberanos ley argentina y BOPREAL (en dólares),TIR en dólares en %,D,bonistas.com,2026-11-16,2026-11-24,16.3704,Bonos soberanos USD,una columna por instrumento (tir),bonos_soberanos_usd.csv
 bonos_tasa_fija,Bonos en pesos a tasa fija (LECAP y BONCAP),TNA en %,D,bonistas.com,2026-11-16,2026-11-24,28.7841,Bonos tasa fija,una columna por instrumento (tna),bonos_tasa_fija.csv
-dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-20,1584.5,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
+dolar_futuro_curva,Curva de dólar futuro (A3),pesos por dólar (precio de ajuste),D,A3 Mercados (Matba-Rofex),2026-11-16,2026-11-24,1594.5,Dolar futuro,una columna por instrumento (ajuste),dolar_futuro.csv
 tasas_financiamiento,Tasas de financiamiento (carga manual por informe),TNA en %,M,DATA Miazzo (carga manual),2026-09-14,2026-10-12,28.75,Tasas financiamiento,una columna por instrumento (tna),tasas_financiamiento.csv
 futuros_a3_hist,Futuros A3 por contrato,USD/t,D,A3 Mercados (ajustes),2023-11-01,2026-11-20,,Futuros A3 por contrato,"104 contratos, una columna por contrato",futuros_a3_por_contrato.csv
 futuros_cbot_hist,Futuros Chicago por contrato,USD/t,D,BCR (cierres CBOT en USD/t),2023-11-01,2026-11-24,,Futuros Chicago por contrato,"170 contratos, una columna por contrato",futuros_chicago_por_contrato.csv
