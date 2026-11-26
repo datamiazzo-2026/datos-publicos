@@ -8,11 +8,11 @@ dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-25,76.541135,Dolar,,dolar.csv
 macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2001-01-01,2026-11-25,81.474776,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,6.677,Dolar,,dolar.csv
-macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-27,2026-11-24,22.1875,Tasas,,tasas.csv
-macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-27,2026-11-24,0.746336,Tasas,,tasas.csv
-macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-27,2026-11-24,65.29,Tasas,,tasas.csv
-macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-27,2026-11-24,20.84,Tasas,,tasas.csv
-macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-27,2026-11-24,-0.57884,Tasas,,tasas.csv
+macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-28,2026-11-24,22.1875,Tasas,,tasas.csv
+macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-28,2026-11-24,0.746336,Tasas,,tasas.csv
+macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-28,2026-11-24,65.29,Tasas,,tasas.csv
+macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-28,2026-11-24,20.84,Tasas,,tasas.csv
+macro_tasa_plazo_fijo_real_ex_post,Plazo fijo a 30 días real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-28,2026-11-24,-0.57884,Tasas,,tasas.csv
 macro_tasa_tamar,Tasa TAMAR (bancos privados),tasa,D,BCRA,2024-10-01,2026-11-24,23.4375,Tasas,,tasas.csv
 tasa_adelantos_cc,"Tasa de adelantos en cuenta corriente a empresas (1 a 7 días, $10 M o más)",TNA en %,D,BCRA,2017-01-02,2026-11-24,24.85,Tasas,,tasas.csv
 tasa_badlar_privados,"Tasa BADLAR de bancos privados (depósitos a plazo de $1 M o más, 30 a 35 días)",TNA en %,D,BCRA,2017-01-02,2026-11-24,22.1875,Tasas,,tasas.csv
@@ -24,7 +24,7 @@ encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-0
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-15,26535841.718,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2003-01-02,2026-11-24,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-24,4519622.9804,Reservas y BCRA,,reservas_y_bcra.csv
-macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-27,2026-11-20,49367,Reservas y BCRA,,reservas_y_bcra.csv
+macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-28,2026-11-20,49367,Reservas y BCRA,,reservas_y_bcra.csv
 prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-20,26439.0,Reservas y BCRA,,reservas_y_bcra.csv
 riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-25,1067.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
