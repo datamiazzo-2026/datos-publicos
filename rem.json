@@ -1,7 +1,7 @@
 {
   "fuente": "BCRA - REM (relevamiento-expectativas-mercado-historico.xlsx, hoja Base de Datos Completa, promedio de todos los participantes)",
   "fecha_relevamiento": "2026-10-30",
-  "actualizado": "2026-11-26T17:57:05.116692+00:00",
+  "actualizado": "2026-11-26T21:56:56.928837+00:00",
   "variables": {
     "inflacion": {
       "nombre": "Precios minoristas (IPC nivel general; INDEC)",
