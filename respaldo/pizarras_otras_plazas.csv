@@ -82,3 +82,15 @@ fecha,plaza,producto,ars,usd,estimado
 2026-11-26,quequen,maiz,,175.0,no
 2026-11-26,quequen,soja,,330.0,sí
 2026-11-26,quequen,trigo,,220.0,sí
+2026-11-27,bahia_blanca,girasol,,470.0,sí
+2026-11-27,bahia_blanca,maiz,,172.0,no
+2026-11-27,bahia_blanca,trigo,,210.0,sí
+2026-11-27,cordoba,mani_industria,752750.0,,sí
+2026-11-27,cordoba,mani_runner,1076375.0,681.0,no
+2026-11-27,darsena,girasol,,520.0,sí
+2026-11-27,darsena,soja,340000.0,,sí
+2026-11-27,darsena,trigo,330000.0,,sí
+2026-11-27,quequen,girasol,,470.0,no
+2026-11-27,quequen,maiz,,175.0,no
+2026-11-27,quequen,soja,,330.0,sí
+2026-11-27,quequen,trigo,,210.0,sí
