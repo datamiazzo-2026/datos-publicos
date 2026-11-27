@@ -4,7 +4,7 @@
   "disponible_rosario_ars": 796855.0,
   "fob_oficial_usd": 593.0,
   "fob_posicion": "spot",
-  "internacional_usd": 1315.0,
+  "internacional_usd": 1310.0,
   "internacional_label": "Aceite de girasol FOB (BCR)",
   "hist_usd": [
    {
@@ -5106,9 +5106,13 @@
    {
     "fecha": "2026-11-20",
     "valor": 593.0
+   },
+   {
+    "fecha": "2026-11-25",
+    "valor": 593.0
    }
   ],
-  "fecha_fob": "2026-11-20"
+  "fecha_fob": "2026-11-25"
  },
  "mani": {
   "fecha": "2026-11-27",
@@ -6186,6 +6190,6 @@
   ],
   "industria_estimado": true
  },
- "actualizado": "2026-11-27T14:19:18+00:00",
+ "actualizado": "2026-11-27T17:06:04+00:00",
  "fuente": "Central de datos DATA Miazzo (BCR, Cámara Arbitral de Rosario, Bolsa de Cereales de Córdoba, BCRA, USDA)"
 }

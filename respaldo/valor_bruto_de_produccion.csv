@@ -1,0 +1,3601 @@
+cultivo,campana,ambito,territorio,vbp_millones_usd,precio_usd_t
+soja,1995/96,nacional,Argentina,3386.035,272.01
+soja,1996/97,nacional,Argentina,3202.973,291.05
+soja,1997/98,nacional,Argentina,3968.223,211.84
+soja,1998/99,nacional,Argentina,3334.0,166.7
+soja,1999/00,nacional,Argentina,3626.49,180.14
+soja,2000/01,nacional,Argentina,4619.176,169.41
+soja,2001/02,nacional,Argentina,4524.891,151.02
+soja,2002/03,nacional,Argentina,6152.444,176.87
+soja,2003/04,nacional,Argentina,6104.048,193.41
+soja,2004/05,nacional,Argentina,6487.367,169.44
+soja,2005/06,nacional,Argentina,7098.173,175.31
+soja,2006/07,nacional,Argentina,10303.454,217.23
+soja,2007/08,nacional,Argentina,12969.717,281.03
+soja,2008/09,nacional,Argentina,7856.729,253.89
+soja,2009/10,nacional,Argentina,13979.562,262.54
+soja,2010/11,nacional,Argentina,15469.071,316.69
+soja,2011/12,nacional,Argentina,14535.396,362.5
+soja,2012/13,nacional,Argentina,16351.059,332.9
+soja,2013/14,nacional,Argentina,16374.717,306.65
+soja,2014/15,nacional,Argentina,14660.066,238.77
+soja,2015/16,nacional,Argentina,14690.487,248.59
+soja,2016/17,nacional,Argentina,13797.01,250.98
+soja,2017/18,nacional,Argentina,10326.138,273.28
+soja,2018/19,nacional,Argentina,12956.619,234.45
+soja,2019/20,nacional,Argentina,12618.029,258.67
+soja,2020/21,nacional,Argentina,15658.166,338.79
+soja,2021/22,nacional,Argentina,18808.064,428.81
+soja,2022/23,nacional,Argentina,11215.894,447.83
+soja,2023/24,nacional,Argentina,14695.87,304.81
+soja,2024/25,nacional,Argentina,15384.993,301.03
+soja,1995/96,provincia,Buenos Aires,646.785,272.01
+soja,1996/97,provincia,Buenos Aires,736.88,291.05
+soja,1997/98,provincia,Buenos Aires,817.635,211.84
+soja,1998/99,provincia,Buenos Aires,763.363,166.7
+soja,1999/00,provincia,Buenos Aires,680.407,180.14
+soja,2000/01,provincia,Buenos Aires,969.968,169.41
+soja,2001/02,provincia,Buenos Aires,872.412,151.02
+soja,2002/03,provincia,Buenos Aires,1263.252,176.87
+soja,2003/04,provincia,Buenos Aires,1518.655,193.41
+soja,2004/05,provincia,Buenos Aires,1695.083,169.44
+soja,2005/06,provincia,Buenos Aires,1845.438,175.31
+soja,2006/07,provincia,Buenos Aires,2531.441,217.23
+soja,2007/08,provincia,Buenos Aires,3441.437,281.03
+soja,2008/09,provincia,Buenos Aires,1709.541,253.89
+soja,2009/10,provincia,Buenos Aires,4201.577,262.54
+soja,2010/11,provincia,Buenos Aires,4897.682,316.69
+soja,2011/12,provincia,Buenos Aires,5581.094,362.5
+soja,2012/13,provincia,Buenos Aires,5859.649,332.9
+soja,2013/14,provincia,Buenos Aires,5257.016,306.65
+soja,2014/15,provincia,Buenos Aires,4678.071,238.77
+soja,2015/16,provincia,Buenos Aires,5457.033,248.59
+soja,2016/17,provincia,Buenos Aires,4362.888,250.98
+soja,2017/18,provincia,Buenos Aires,3236.909,273.28
+soja,2018/19,provincia,Buenos Aires,4142.04,234.45
+soja,2019/20,provincia,Buenos Aires,3921.669,258.67
+soja,2020/21,provincia,Buenos Aires,4584.809,338.79
+soja,2021/22,provincia,Buenos Aires,5804.848,428.81
+soja,2022/23,provincia,Buenos Aires,3802.492,447.83
+soja,2023/24,provincia,Buenos Aires,4541.504,304.81
+soja,2024/25,provincia,Buenos Aires,4676.078,301.03
+soja,1995/96,provincia,Catamarca,4.243,272.01
+soja,1996/97,provincia,Catamarca,10.041,291.05
+soja,1997/98,provincia,Catamarca,8.897,211.84
+soja,1998/99,provincia,Catamarca,8.702,166.7
+soja,1999/00,provincia,Catamarca,6.359,180.14
+soja,2000/01,provincia,Catamarca,10.91,169.41
+soja,2001/02,provincia,Catamarca,14.8,151.02
+soja,2002/03,provincia,Catamarca,19.809,176.87
+soja,2003/04,provincia,Catamarca,20.753,193.41
+soja,2004/05,provincia,Catamarca,15.295,169.44
+soja,2005/06,provincia,Catamarca,22.138,175.31
+soja,2006/07,provincia,Catamarca,27.979,217.23
+soja,2007/08,provincia,Catamarca,42.154,281.03
+soja,2008/09,provincia,Catamarca,29.197,253.89
+soja,2009/10,provincia,Catamarca,34.787,262.54
+soja,2010/11,provincia,Catamarca,36.926,316.69
+soja,2011/12,provincia,Catamarca,25.484,362.5
+soja,2012/13,provincia,Catamarca,8.015,332.9
+soja,2013/14,provincia,Catamarca,7.78,306.65
+soja,2014/15,provincia,Catamarca,14.057,238.77
+soja,2015/16,provincia,Catamarca,40.189,248.59
+soja,2016/17,provincia,Catamarca,18.379,250.98
+soja,2017/18,provincia,Catamarca,24.326,273.28
+soja,2018/19,provincia,Catamarca,31.838,234.45
+soja,2019/20,provincia,Catamarca,23.957,258.67
+soja,2020/21,provincia,Catamarca,35.997,338.79
+soja,2021/22,provincia,Catamarca,36.294,428.81
+soja,2022/23,provincia,Catamarca,28.638,447.83
+soja,2023/24,provincia,Catamarca,40.901,304.81
+soja,2024/25,provincia,Catamarca,30.635,301.03
+soja,1995/96,provincia,Córdoba,946.432,272.01
+soja,1996/97,provincia,Córdoba,845.85,291.05
+soja,1997/98,provincia,Córdoba,1233.057,211.84
+soja,1998/99,provincia,Córdoba,877.392,166.7
+soja,1999/00,provincia,Córdoba,1248.12,180.14
+soja,2000/01,provincia,Córdoba,1381.403,169.41
+soja,2001/02,provincia,Córdoba,1458.596,151.02
+soja,2002/03,provincia,Córdoba,1742.364,176.87
+soja,2003/04,provincia,Córdoba,1620.041,193.41
+soja,2004/05,provincia,Córdoba,1896.181,169.44
+soja,2005/06,provincia,Córdoba,1950.002,175.31
+soja,2006/07,provincia,Córdoba,3078.807,217.23
+soja,2007/08,provincia,Córdoba,3587.033,281.03
+soja,2008/09,provincia,Córdoba,2835.636,253.89
+soja,2009/10,provincia,Córdoba,3416.119,262.54
+soja,2010/11,provincia,Córdoba,3873.174,316.69
+soja,2011/12,provincia,Córdoba,3546.664,362.5
+soja,2012/13,provincia,Córdoba,4387.883,332.9
+soja,2013/14,provincia,Córdoba,4574.504,306.65
+soja,2014/15,provincia,Córdoba,4445.675,238.77
+soja,2015/16,provincia,Córdoba,4455.471,248.59
+soja,2016/17,provincia,Córdoba,3930.294,250.98
+soja,2017/18,provincia,Córdoba,2933.083,273.28
+soja,2018/19,provincia,Córdoba,3600.11,234.45
+soja,2019/20,provincia,Córdoba,3483.685,258.67
+soja,2020/21,provincia,Córdoba,4616.065,338.79
+soja,2021/22,provincia,Córdoba,5107.353,428.81
+soja,2022/23,provincia,Córdoba,2805.213,447.83
+soja,2023/24,provincia,Córdoba,3859.618,304.81
+soja,2024/25,provincia,Córdoba,4403.646,301.03
+soja,1995/96,provincia,Corrientes,0.898,272.01
+soja,1996/97,provincia,Corrientes,1.63,291.05
+soja,1997/98,provincia,Corrientes,1.07,211.84
+soja,1998/99,provincia,Corrientes,1.434,166.7
+soja,1999/00,provincia,Corrientes,1.423,180.14
+soja,2000/01,provincia,Corrientes,0.989,169.41
+soja,2001/02,provincia,Corrientes,0.725,151.02
+soja,2002/03,provincia,Corrientes,3.293,176.87
+soja,2003/04,provincia,Corrientes,4.122,193.41
+soja,2004/05,provincia,Corrientes,5.44,169.44
+soja,2005/06,provincia,Corrientes,5.997,175.31
+soja,2006/07,provincia,Corrientes,7.299,217.23
+soja,2007/08,provincia,Corrientes,12.873,281.03
+soja,2008/09,provincia,Corrientes,6.116,253.89
+soja,2009/10,provincia,Corrientes,9.148,262.54
+soja,2010/11,provincia,Corrientes,9.206,316.69
+soja,2011/12,provincia,Corrientes,9.062,362.5
+soja,2012/13,provincia,Corrientes,5.992,332.9
+soja,2013/14,provincia,Corrientes,15.332,306.65
+soja,2014/15,provincia,Corrientes,9.551,238.77
+soja,2015/16,provincia,Corrientes,10.292,248.59
+soja,2016/17,provincia,Corrientes,10.039,250.98
+soja,2017/18,provincia,Corrientes,10.931,273.28
+soja,2018/19,provincia,Corrientes,3.215,234.45
+soja,2019/20,provincia,Corrientes,3.382,258.67
+soja,2020/21,provincia,Corrientes,4.429,338.79
+soja,2021/22,provincia,Corrientes,3.189,428.81
+soja,2022/23,provincia,Corrientes,3.807,447.83
+soja,2023/24,provincia,Corrientes,4.846,304.81
+soja,2024/25,provincia,Corrientes,2.411,301.03
+soja,1995/96,provincia,Chaco,28.18,272.01
+soja,1996/97,provincia,Chaco,71.598,291.05
+soja,1997/98,provincia,Chaco,33.81,211.84
+soja,1998/99,provincia,Chaco,71.681,166.7
+soja,1999/00,provincia,Chaco,113.344,180.14
+soja,2000/01,provincia,Chaco,140.746,169.41
+soja,2001/02,provincia,Chaco,174.425,151.02
+soja,2002/03,provincia,Chaco,278.14,176.87
+soja,2003/04,provincia,Chaco,159.485,193.41
+soja,2004/05,provincia,Chaco,146.091,169.44
+soja,2005/06,provincia,Chaco,236.384,175.31
+soja,2006/07,provincia,Chaco,272.615,217.23
+soja,2007/08,provincia,Chaco,463.103,281.03
+soja,2008/09,provincia,Chaco,163.86,253.89
+soja,2009/10,provincia,Chaco,406.022,262.54
+soja,2010/11,provincia,Chaco,520.107,316.69
+soja,2011/12,provincia,Chaco,105.863,362.5
+soja,2012/13,provincia,Chaco,184.358,332.9
+soja,2013/14,provincia,Chaco,424.568,306.65
+soja,2014/15,provincia,Chaco,284.456,238.77
+soja,2015/16,provincia,Chaco,253.598,248.59
+soja,2016/17,provincia,Chaco,355.051,250.98
+soja,2017/18,provincia,Chaco,291.021,273.28
+soja,2018/19,provincia,Chaco,243.553,234.45
+soja,2019/20,provincia,Chaco,363.25,258.67
+soja,2020/21,provincia,Chaco,368.934,338.79
+soja,2021/22,provincia,Chaco,707.293,428.81
+soja,2022/23,provincia,Chaco,473.488,447.83
+soja,2023/24,provincia,Chaco,202.286,304.81
+soja,2024/25,provincia,Chaco,121.417,301.03
+soja,1995/96,provincia,Entre Ríos,83.839,272.01
+soja,1996/97,provincia,Entre Ríos,81.916,291.05
+soja,1997/98,provincia,Entre Ríos,154.05,211.84
+soja,1998/99,provincia,Entre Ríos,127.442,166.7
+soja,1999/00,provincia,Entre Ríos,96.375,180.14
+soja,2000/01,provincia,Entre Ríos,280.882,169.41
+soja,2001/02,provincia,Entre Ríos,289.188,151.02
+soja,2002/03,provincia,Entre Ríos,496.828,176.87
+soja,2003/04,provincia,Entre Ríos,446.268,193.41
+soja,2004/05,provincia,Entre Ríos,517.447,169.44
+soja,2005/06,provincia,Entre Ríos,491.17,175.31
+soja,2006/07,provincia,Entre Ríos,853.166,217.23
+soja,2007/08,provincia,Entre Ríos,924.326,281.03
+soja,2008/09,provincia,Entre Ríos,290.425,253.89
+soja,2009/10,provincia,Entre Ríos,1060.19,262.54
+soja,2010/11,provincia,Entre Ríos,1139.232,316.69
+soja,2011/12,provincia,Entre Ríos,1123.573,362.5
+soja,2012/13,provincia,Entre Ríos,1174.756,332.9
+soja,2013/14,provincia,Entre Ríos,1218.812,306.65
+soja,2014/15,provincia,Entre Ríos,1032.655,238.77
+soja,2015/16,provincia,Entre Ríos,636.676,248.59
+soja,2016/17,provincia,Entre Ríos,929.025,250.98
+soja,2017/18,provincia,Entre Ríos,373.902,273.28
+soja,2018/19,provincia,Entre Ríos,762.496,234.45
+soja,2019/20,provincia,Entre Ríos,643.912,258.67
+soja,2020/21,provincia,Entre Ríos,668.947,338.79
+soja,2021/22,provincia,Entre Ríos,1100.221,428.81
+soja,2022/23,provincia,Entre Ríos,284.351,447.83
+soja,2023/24,provincia,Entre Ríos,826.689,304.81
+soja,2024/25,provincia,Entre Ríos,1015.138,301.03
+soja,1995/96,provincia,Formosa,0.544,272.01
+soja,1996/97,provincia,Formosa,0.291,291.05
+soja,1997/98,provincia,Formosa,0.254,211.84
+soja,1998/99,provincia,Formosa,0.95,166.7
+soja,1999/00,provincia,Formosa,0.234,180.14
+soja,2000/01,provincia,Formosa,0.203,169.41
+soja,2001/02,provincia,Formosa,2.779,151.02
+soja,2002/03,provincia,Formosa,2.671,176.87
+soja,2003/04,provincia,Formosa,4.171,193.41
+soja,2004/05,provincia,Formosa,7.005,169.44
+soja,2005/06,provincia,Formosa,4.416,175.31
+soja,2006/07,provincia,Formosa,10.496,217.23
+soja,2007/08,provincia,Formosa,3.409,281.03
+soja,2008/09,provincia,Formosa,1.181,253.89
+soja,2009/10,provincia,Formosa,1.221,262.54
+soja,2010/11,provincia,Formosa,1.473,316.69
+soja,2011/12,provincia,Formosa,4.133,362.5
+soja,2012/13,provincia,Formosa,3.995,332.9
+soja,2013/14,provincia,Formosa,9.2,306.65
+soja,2014/15,provincia,Formosa,8.548,238.77
+soja,2015/16,provincia,Formosa,8.9,248.59
+soja,2016/17,provincia,Formosa,11.325,250.98
+soja,2017/18,provincia,Formosa,16.738,273.28
+soja,2018/19,provincia,Formosa,14.184,234.45
+soja,2019/20,provincia,Formosa,4.527,258.67
+soja,2020/21,provincia,Formosa,2.876,338.79
+soja,2021/22,provincia,Formosa,12.312,428.81
+soja,2022/23,provincia,Formosa,13.457,447.83
+soja,2023/24,provincia,Formosa,5.033,304.81
+soja,2024/25,provincia,Formosa,11.68,301.03
+soja,1995/96,provincia,Jujuy,0.0,272.01
+soja,1996/97,provincia,Jujuy,0.0,291.05
+soja,1997/98,provincia,Jujuy,0.0,211.84
+soja,1998/99,provincia,Jujuy,3.334,166.7
+soja,1999/00,provincia,Jujuy,0.0,180.14
+soja,2000/01,provincia,Jujuy,0.0,169.41
+soja,2001/02,provincia,Jujuy,0.272,151.02
+soja,2002/03,provincia,Jujuy,0.345,176.87
+soja,2003/04,provincia,Jujuy,3.675,193.41
+soja,2004/05,provincia,Jujuy,1.738,169.44
+soja,2005/06,provincia,Jujuy,1.592,175.31
+soja,2006/07,provincia,Jujuy,3.508,217.23
+soja,2007/08,provincia,Jujuy,4.637,281.03
+soja,2008/09,provincia,Jujuy,5.005,253.89
+soja,2009/10,provincia,Jujuy,7.582,262.54
+soja,2010/11,provincia,Jujuy,10.969,316.69
+soja,2011/12,provincia,Jujuy,11.118,362.5
+soja,2012/13,provincia,Jujuy,3.85,332.9
+soja,2013/14,provincia,Jujuy,5.181,306.65
+soja,2014/15,provincia,Jujuy,4.412,238.77
+soja,2015/16,provincia,Jujuy,3.617,248.59
+soja,2016/17,provincia,Jujuy,3.016,250.98
+soja,2017/18,provincia,Jujuy,4.032,273.28
+soja,2018/19,provincia,Jujuy,4.753,234.45
+soja,2019/20,provincia,Jujuy,4.352,258.67
+soja,2020/21,provincia,Jujuy,12.767,338.79
+soja,2021/22,provincia,Jujuy,9.916,428.81
+soja,2022/23,provincia,Jujuy,5.239,447.83
+soja,2023/24,provincia,Jujuy,6.982,304.81
+soja,2024/25,provincia,Jujuy,4.334,301.03
+soja,1995/96,provincia,La Pampa,1.801,272.01
+soja,1996/97,provincia,La Pampa,1.991,291.05
+soja,1997/98,provincia,La Pampa,5.818,211.84
+soja,1998/99,provincia,La Pampa,4.824,166.7
+soja,1999/00,provincia,La Pampa,14.195,180.14
+soja,2000/01,provincia,La Pampa,43.021,169.41
+soja,2001/02,provincia,La Pampa,22.306,151.02
+soja,2002/03,provincia,La Pampa,36.435,176.87
+soja,2003/04,provincia,La Pampa,57.23,193.41
+soja,2004/05,provincia,La Pampa,80.735,169.44
+soja,2005/06,provincia,La Pampa,68.997,175.31
+soja,2006/07,provincia,La Pampa,110.809,217.23
+soja,2007/08,provincia,La Pampa,122.529,281.03
+soja,2008/09,provincia,La Pampa,67.043,253.89
+soja,2009/10,provincia,La Pampa,206.45,262.54
+soja,2010/11,provincia,La Pampa,189.982,316.69
+soja,2011/12,provincia,La Pampa,373.616,362.5
+soja,2012/13,provincia,La Pampa,270.531,332.9
+soja,2013/14,provincia,La Pampa,313.51,306.65
+soja,2014/15,provincia,La Pampa,303.661,238.77
+soja,2015/16,provincia,La Pampa,449.274,248.59
+soja,2016/17,provincia,La Pampa,319.214,250.98
+soja,2017/18,provincia,La Pampa,306.352,273.28
+soja,2018/19,provincia,La Pampa,371.193,234.45
+soja,2019/20,provincia,La Pampa,418.95,258.67
+soja,2020/21,provincia,La Pampa,380.71,338.79
+soja,2021/22,provincia,La Pampa,489.148,428.81
+soja,2022/23,provincia,La Pampa,340.091,447.83
+soja,2023/24,provincia,La Pampa,492.503,304.81
+soja,2024/25,provincia,La Pampa,303.722,301.03
+soja,1995/96,provincia,Mendoza,0.0,272.01
+soja,1996/97,provincia,Mendoza,0.0,291.05
+soja,1997/98,provincia,Mendoza,0.0,211.84
+soja,1998/99,provincia,Mendoza,0.0,166.7
+soja,1999/00,provincia,Mendoza,0.0,180.14
+soja,2000/01,provincia,Mendoza,0.0,169.41
+soja,2001/02,provincia,Mendoza,0.0,151.02
+soja,2002/03,provincia,Mendoza,0.0,176.87
+soja,2003/04,provincia,Mendoza,0.0,193.41
+soja,2004/05,provincia,Mendoza,0.0,169.44
+soja,2005/06,provincia,Mendoza,0.0,175.31
+soja,2006/07,provincia,Mendoza,0.0,217.23
+soja,2007/08,provincia,Mendoza,0.0,281.03
+soja,2008/09,provincia,Mendoza,0.0,253.89
+soja,2009/10,provincia,Mendoza,0.0,262.54
+soja,2010/11,provincia,Mendoza,0.0,316.69
+soja,2011/12,provincia,Mendoza,0.0,362.5
+soja,2012/13,provincia,Mendoza,0.0,332.9
+soja,2013/14,provincia,Mendoza,0.0,306.65
+soja,2014/15,provincia,Mendoza,0.0,238.77
+soja,2015/16,provincia,Mendoza,0.0,248.59
+soja,2016/17,provincia,Mendoza,0.0,250.98
+soja,2017/18,provincia,Mendoza,0.0,273.28
+soja,2018/19,provincia,Mendoza,0.0,234.45
+soja,2019/20,provincia,Mendoza,0.0,258.67
+soja,2020/21,provincia,Mendoza,0.0,338.79
+soja,2021/22,provincia,Mendoza,0.0,428.81
+soja,2022/23,provincia,Mendoza,0.0,447.83
+soja,2023/24,provincia,Mendoza,0.0,304.81
+soja,2024/25,provincia,Mendoza,0.0,301.03
+soja,1995/96,provincia,Misiones,0.044,272.01
+soja,1996/97,provincia,Misiones,0.611,291.05
+soja,1997/98,provincia,Misiones,0.0,211.84
+soja,1998/99,provincia,Misiones,0.55,166.7
+soja,1999/00,provincia,Misiones,1.585,180.14
+soja,2000/01,provincia,Misiones,1.423,169.41
+soja,2001/02,provincia,Misiones,0.848,151.02
+soja,2002/03,provincia,Misiones,0.251,176.87
+soja,2003/04,provincia,Misiones,0.967,193.41
+soja,2004/05,provincia,Misiones,0.049,169.44
+soja,2005/06,provincia,Misiones,0.217,175.31
+soja,2006/07,provincia,Misiones,0.393,217.23
+soja,2007/08,provincia,Misiones,0.482,281.03
+soja,2008/09,provincia,Misiones,0.056,253.89
+soja,2009/10,provincia,Misiones,0.581,262.54
+soja,2010/11,provincia,Misiones,1.424,316.69
+soja,2011/12,provincia,Misiones,0.204,362.5
+soja,2012/13,provincia,Misiones,0.946,332.9
+soja,2013/14,provincia,Misiones,1.01,306.65
+soja,2014/15,provincia,Misiones,0.879,238.77
+soja,2015/16,provincia,Misiones,1.129,248.59
+soja,2016/17,provincia,Misiones,1.392,250.98
+soja,2017/18,provincia,Misiones,2.152,273.28
+soja,2018/19,provincia,Misiones,2.542,234.45
+soja,2019/20,provincia,Misiones,2.519,258.67
+soja,2020/21,provincia,Misiones,3.987,338.79
+soja,2021/22,provincia,Misiones,1.313,428.81
+soja,2022/23,provincia,Misiones,4.107,447.83
+soja,2023/24,provincia,Misiones,5.254,304.81
+soja,2024/25,provincia,Misiones,4.556,301.03
+soja,1995/96,provincia,Salta,40.502,272.01
+soja,1996/97,provincia,Salta,99.859,291.05
+soja,1997/98,provincia,Salta,50.227,211.84
+soja,1998/99,provincia,Salta,110.022,166.7
+soja,1999/00,provincia,Salta,96.501,180.14
+soja,2000/01,provincia,Salta,113.708,169.41
+soja,2001/02,provincia,Salta,113.265,151.02
+soja,2002/03,provincia,Salta,131.414,176.87
+soja,2003/04,provincia,Salta,158.828,193.41
+soja,2004/05,provincia,Salta,124.327,169.44
+soja,2005/06,provincia,Salta,239.708,175.31
+soja,2006/07,provincia,Salta,295.65,217.23
+soja,2007/08,provincia,Salta,407.493,281.03
+soja,2008/09,provincia,Salta,332.925,253.89
+soja,2009/10,provincia,Salta,436.581,262.54
+soja,2010/11,provincia,Salta,562.28,316.69
+soja,2011/12,provincia,Salta,242.163,362.5
+soja,2012/13,provincia,Salta,89.086,332.9
+soja,2013/14,provincia,Salta,266.482,306.65
+soja,2014/15,provincia,Salta,273.615,238.77
+soja,2015/16,provincia,Salta,216.89,248.59
+soja,2016/17,provincia,Salta,279.676,250.98
+soja,2017/18,provincia,Salta,284.677,273.28
+soja,2018/19,provincia,Salta,278.218,234.45
+soja,2019/20,provincia,Salta,247.226,258.67
+soja,2020/21,provincia,Salta,303.412,338.79
+soja,2021/22,provincia,Salta,230.714,428.81
+soja,2022/23,provincia,Salta,234.07,447.83
+soja,2023/24,provincia,Salta,213.446,304.81
+soja,2024/25,provincia,Salta,223.007,301.03
+soja,1995/96,provincia,San Luis,0.0,272.01
+soja,1996/97,provincia,San Luis,0.0,291.05
+soja,1997/98,provincia,San Luis,0.0,211.84
+soja,1998/99,provincia,San Luis,0.7,166.7
+soja,1999/00,provincia,San Luis,2.306,180.14
+soja,2000/01,provincia,San Luis,1.83,169.41
+soja,2001/02,provincia,San Luis,6.131,151.02
+soja,2002/03,provincia,San Luis,7.959,176.87
+soja,2003/04,provincia,San Luis,11.169,193.41
+soja,2004/05,provincia,San Luis,8.691,169.44
+soja,2005/06,provincia,San Luis,8.552,175.31
+soja,2006/07,provincia,San Luis,38.237,217.23
+soja,2007/08,provincia,San Luis,72.492,281.03
+soja,2008/09,provincia,San Luis,75.126,253.89
+soja,2009/10,provincia,San Luis,70.439,262.54
+soja,2010/11,provincia,San Luis,127.442,316.69
+soja,2011/12,provincia,San Luis,107.623,362.5
+soja,2012/13,provincia,San Luis,225.854,332.9
+soja,2013/14,provincia,San Luis,260.289,306.65
+soja,2014/15,provincia,San Luis,229.904,238.77
+soja,2015/16,provincia,San Luis,305.351,248.59
+soja,2016/17,provincia,San Luis,210.186,250.98
+soja,2017/18,provincia,San Luis,191.7,273.28
+soja,2018/19,provincia,San Luis,156.767,234.45
+soja,2019/20,provincia,San Luis,98.099,258.67
+soja,2020/21,provincia,San Luis,159.665,338.79
+soja,2021/22,provincia,San Luis,208.938,428.81
+soja,2022/23,provincia,San Luis,140.672,447.83
+soja,2023/24,provincia,San Luis,125.004,304.81
+soja,2024/25,provincia,San Luis,123.45,301.03
+soja,1995/96,provincia,Santa Fe,1552.062,272.01
+soja,1996/97,provincia,Santa Fe,1211.903,291.05
+soja,1997/98,provincia,Santa Fe,1548.656,211.84
+soja,1998/99,provincia,Santa Fe,1216.91,166.7
+soja,1999/00,provincia,Santa Fe,1195.679,180.14
+soja,2000/01,provincia,Santa Fe,1466.701,169.41
+soja,2001/02,provincia,Santa Fe,1261.062,151.02
+soja,2002/03,provincia,Santa Fe,1808.23,176.87
+soja,2003/04,provincia,Santa Fe,1768.145,193.41
+soja,2004/05,provincia,Santa Fe,1770.342,169.44
+soja,2005/06,provincia,Santa Fe,1801.383,175.31
+soja,2006/07,provincia,Santa Fe,2453.773,217.23
+soja,2007/08,provincia,Santa Fe,3226.224,281.03
+soja,2008/09,provincia,Santa Fe,2046.834,253.89
+soja,2009/10,provincia,Santa Fe,3159.026,262.54
+soja,2010/11,provincia,Santa Fe,3084.988,316.69
+soja,2011/12,provincia,Santa Fe,2964.028,362.5
+soja,2012/13,provincia,Santa Fe,3456.806,332.9
+soja,2013/14,provincia,Santa Fe,3053.876,306.65
+soja,2014/15,provincia,Santa Fe,2818.472,238.77
+soja,2015/16,provincia,Santa Fe,2067.577,248.59
+soja,2016/17,provincia,Santa Fe,2450.137,250.98
+soja,2017/18,provincia,Santa Fe,1872.625,273.28
+soja,2018/19,provincia,Santa Fe,2466.435,234.45
+soja,2019/20,provincia,Santa Fe,2431.489,258.67
+soja,2020/21,provincia,Santa Fe,3143.982,338.79
+soja,2021/22,provincia,Santa Fe,3547.254,428.81
+soja,2022/23,provincia,Santa Fe,1715.041,447.83
+soja,2023/24,provincia,Santa Fe,3290.951,304.81
+soja,2024/25,provincia,Santa Fe,3450.963,301.03
+soja,1995/96,provincia,Santiago del Estero,42.352,272.01
+soja,1996/97,provincia,Santiago del Estero,81.64,291.05
+soja,1997/98,provincia,Santiago del Estero,59.294,211.84
+soja,1998/99,provincia,Santiago del Estero,86.684,166.7
+soja,1999/00,provincia,Santiago del Estero,113.74,180.14
+soja,2000/01,provincia,Santiago del Estero,151.588,169.41
+soja,2001/02,provincia,Santiago del Estero,208.408,151.02
+soja,2002/03,provincia,Santiago del Estero,260.636,176.87
+soja,2003/04,provincia,Santiago del Estero,235.941,193.41
+soja,2004/05,provincia,Santiago del Estero,120.967,169.44
+soja,2005/06,provincia,Santiago del Estero,275.637,175.31
+soja,2006/07,provincia,Santiago del Estero,428.986,217.23
+soja,2007/08,provincia,Santiago del Estero,435.596,281.03
+soja,2008/09,provincia,Santiago del Estero,100.053,253.89
+soja,2009/10,provincia,Santiago del Estero,774.397,262.54
+soja,2010/11,provincia,Santiago del Estero,781.528,316.69
+soja,2011/12,provincia,Santiago del Estero,316.466,362.5
+soja,2012/13,provincia,Santiago del Estero,588.627,332.9
+soja,2013/14,provincia,Santiago del Estero,839.591,306.65
+soja,2014/15,provincia,Santiago del Estero,457.319,238.77
+soja,2015/16,provincia,Santiago del Estero,621.011,248.59
+soja,2016/17,provincia,Santiago del Estero,793.062,250.98
+soja,2017/18,provincia,Santiago del Estero,643.245,273.28
+soja,2018/19,provincia,Santiago del Estero,736.769,234.45
+soja,2019/20,provincia,Santiago del Estero,873.779,258.67
+soja,2020/21,provincia,Santiago del Estero,1220.738,338.79
+soja,2021/22,provincia,Santiago del Estero,1432.648,428.81
+soja,2022/23,provincia,Santiago del Estero,1264.418,447.83
+soja,2023/24,provincia,Santiago del Estero,923.871,304.81
+soja,2024/25,provincia,Santiago del Estero,871.553,301.03
+soja,1995/96,provincia,Tucumán,38.353,272.01
+soja,1996/97,provincia,Tucumán,58.763,291.05
+soja,1997/98,provincia,Tucumán,55.455,211.84
+soja,1998/99,provincia,Tucumán,60.012,166.7
+soja,1999/00,provincia,Tucumán,56.222,180.14
+soja,2000/01,provincia,Tucumán,55.804,169.41
+soja,2001/02,provincia,Tucumán,99.673,151.02
+soja,2002/03,provincia,Tucumán,100.816,176.87
+soja,2003/04,provincia,Tucumán,94.597,193.41
+soja,2004/05,provincia,Tucumán,97.977,169.44
+soja,2005/06,provincia,Tucumán,146.542,175.31
+soja,2006/07,provincia,Tucumán,190.295,217.23
+soja,2007/08,provincia,Tucumán,225.927,281.03
+soja,2008/09,provincia,Tucumán,193.73,253.89
+soja,2009/10,provincia,Tucumán,195.442,262.54
+soja,2010/11,provincia,Tucumán,232.66,316.69
+soja,2011/12,provincia,Tucumán,124.305,362.5
+soja,2012/13,provincia,Tucumán,90.712,332.9
+soja,2013/14,provincia,Tucumán,127.567,306.65
+soja,2014/15,provincia,Tucumán,98.791,238.77
+soja,2015/16,provincia,Tucumán,163.479,248.59
+soja,2016/17,provincia,Tucumán,123.325,250.98
+soja,2017/18,provincia,Tucumán,134.443,273.28
+soja,2018/19,provincia,Tucumán,142.505,234.45
+soja,2019/20,provincia,Tucumán,97.233,258.67
+soja,2020/21,provincia,Tucumán,150.848,338.79
+soja,2021/22,provincia,Tucumán,116.623,428.81
+soja,2022/23,provincia,Tucumán,100.81,447.83
+soja,2023/24,provincia,Tucumán,156.984,304.81
+soja,2024/25,provincia,Tucumán,142.404,301.03
+maiz,1995/96,nacional,Argentina,1625.92,154.59
+maiz,1996/97,nacional,Argentina,1786.654,115.0
+maiz,1997/98,nacional,Argentina,1972.076,101.86
+maiz,1998/99,nacional,Argentina,1260.137,93.32
+maiz,1999/00,nacional,Argentina,1472.67,87.76
+maiz,2000/01,nacional,Argentina,1348.709,87.81
+maiz,2001/02,nacional,Argentina,1437.664,97.72
+maiz,2002/03,nacional,Argentina,1503.672,100.23
+maiz,2003/04,nacional,Argentina,1668.151,112.57
+maiz,2004/05,nacional,Argentina,1738.561,84.88
+maiz,2005/06,nacional,Argentina,1572.975,108.89
+maiz,2006/07,nacional,Argentina,3474.767,159.72
+maiz,2007/08,nacional,Argentina,4528.931,205.61
+maiz,2008/09,nacional,Argentina,2211.182,168.35
+maiz,2009/10,nacional,Argentina,4045.363,178.5
+maiz,2010/11,nacional,Argentina,7084.971,297.69
+maiz,2011/12,nacional,Argentina,5533.594,261.06
+maiz,2012/13,nacional,Argentina,8564.547,267.26
+maiz,2013/14,nacional,Argentina,6575.743,198.74
+maiz,2014/15,nacional,Argentina,5723.265,169.24
+maiz,2015/16,nacional,Argentina,6912.019,173.7
+maiz,2016/17,nacional,Argentina,8017.433,162.0
+maiz,2017/18,nacional,Argentina,7586.348,174.55
+maiz,2018/19,nacional,Argentina,9385.428,165.06
+maiz,2019/20,nacional,Argentina,10299.269,176.37
+maiz,2020/21,nacional,Argentina,14829.427,245.01
+maiz,2021/22,nacional,Argentina,17185.132,291.09
+maiz,2022/23,nacional,Argentina,10235.587,247.18
+maiz,2023/24,nacional,Argentina,11213.727,195.04
+maiz,2024/25,nacional,Argentina,10713.467,207.26
+maiz,1995/96,provincia,Buenos Aires,694.653,154.59
+maiz,1996/97,provincia,Buenos Aires,944.877,115.0
+maiz,1997/98,provincia,Buenos Aires,919.928,101.86
+maiz,1998/99,provincia,Buenos Aires,532.176,93.32
+maiz,1999/00,provincia,Buenos Aires,578.417,87.76
+maiz,2000/01,provincia,Buenos Aires,485.206,87.81
+maiz,2001/02,provincia,Buenos Aires,395.549,97.72
+maiz,2002/03,provincia,Buenos Aires,427.727,100.23
+maiz,2003/04,provincia,Buenos Aires,562.694,112.57
+maiz,2004/05,provincia,Buenos Aires,531.933,84.88
+maiz,2005/06,provincia,Buenos Aires,468.712,108.89
+maiz,2006/07,provincia,Buenos Aires,973.533,159.72
+maiz,2007/08,provincia,Buenos Aires,1455.155,205.61
+maiz,2008/09,provincia,Buenos Aires,609.999,168.35
+maiz,2009/10,provincia,Buenos Aires,1451.0,178.5
+maiz,2010/11,provincia,Buenos Aires,2534.726,297.69
+maiz,2011/12,provincia,Buenos Aires,1991.773,261.06
+maiz,2012/13,provincia,Buenos Aires,2616.576,267.26
+maiz,2013/14,provincia,Buenos Aires,1429.316,198.74
+maiz,2014/15,provincia,Buenos Aires,1505.125,169.24
+maiz,2015/16,provincia,Buenos Aires,1762.652,173.7
+maiz,2016/17,provincia,Buenos Aires,2098.792,162.0
+maiz,2017/18,provincia,Buenos Aires,2229.161,174.55
+maiz,2018/19,provincia,Buenos Aires,2768.204,165.06
+maiz,2019/20,provincia,Buenos Aires,2750.553,176.37
+maiz,2020/21,provincia,Buenos Aires,3931.263,245.01
+maiz,2021/22,provincia,Buenos Aires,4704.504,291.09
+maiz,2022/23,provincia,Buenos Aires,2954.999,247.18
+maiz,2023/24,provincia,Buenos Aires,3483.315,195.04
+maiz,2024/25,provincia,Buenos Aires,3564.109,207.26
+maiz,1995/96,provincia,Catamarca,5.565,154.59
+maiz,1996/97,provincia,Catamarca,4.14,115.0
+maiz,1997/98,provincia,Catamarca,4.584,101.86
+maiz,1998/99,provincia,Catamarca,3.444,93.32
+maiz,1999/00,provincia,Catamarca,3.554,87.76
+maiz,2000/01,provincia,Catamarca,3.556,87.81
+maiz,2001/02,provincia,Catamarca,3.958,97.72
+maiz,2002/03,provincia,Catamarca,4.059,100.23
+maiz,2003/04,provincia,Catamarca,2.28,112.57
+maiz,2004/05,provincia,Catamarca,2.674,84.88
+maiz,2005/06,provincia,Catamarca,3.43,108.89
+maiz,2006/07,provincia,Catamarca,5.031,159.72
+maiz,2007/08,provincia,Catamarca,8.224,205.61
+maiz,2008/09,provincia,Catamarca,6.734,168.35
+maiz,2009/10,provincia,Catamarca,7.14,178.5
+maiz,2010/11,provincia,Catamarca,12.327,297.69
+maiz,2011/12,provincia,Catamarca,10.651,261.06
+maiz,2012/13,provincia,Catamarca,1.626,267.26
+maiz,2013/14,provincia,Catamarca,3.701,198.74
+maiz,2014/15,provincia,Catamarca,8.286,169.24
+maiz,2015/16,provincia,Catamarca,16.187,173.7
+maiz,2016/17,provincia,Catamarca,8.108,162.0
+maiz,2017/18,provincia,Catamarca,14.767,174.55
+maiz,2018/19,provincia,Catamarca,23.549,165.06
+maiz,2019/20,provincia,Catamarca,16.107,176.37
+maiz,2020/21,provincia,Catamarca,30.597,245.01
+maiz,2021/22,provincia,Catamarca,30.151,291.09
+maiz,2022/23,provincia,Catamarca,23.218,247.18
+maiz,2023/24,provincia,Catamarca,5.746,195.04
+maiz,2024/25,provincia,Catamarca,7.666,207.26
+maiz,1995/96,provincia,Córdoba,313.493,154.59
+maiz,1996/97,provincia,Córdoba,299.817,115.0
+maiz,1997/98,provincia,Córdoba,450.435,101.86
+maiz,1998/99,provincia,Córdoba,261.277,93.32
+maiz,1999/00,provincia,Córdoba,418.247,87.76
+maiz,2000/01,provincia,Córdoba,368.899,87.81
+maiz,2001/02,provincia,Córdoba,552.711,97.72
+maiz,2002/03,provincia,Córdoba,617.431,100.23
+maiz,2003/04,provincia,Córdoba,443.661,112.57
+maiz,2004/05,provincia,Córdoba,599.406,84.88
+maiz,2005/06,provincia,Córdoba,566.713,108.89
+maiz,2006/07,provincia,Córdoba,1424.563,159.72
+maiz,2007/08,provincia,Córdoba,1798.802,205.61
+maiz,2008/09,provincia,Córdoba,1073.283,168.35
+maiz,2009/10,provincia,Córdoba,1206.708,178.5
+maiz,2010/11,provincia,Córdoba,1763.906,297.69
+maiz,2011/12,provincia,Córdoba,1251.663,261.06
+maiz,2012/13,provincia,Córdoba,2883.519,267.26
+maiz,2013/14,provincia,Córdoba,2353.052,198.74
+maiz,2014/15,provincia,Córdoba,1974.54,169.24
+maiz,2015/16,provincia,Córdoba,2128.786,173.7
+maiz,2016/17,provincia,Córdoba,2619.585,162.0
+maiz,2017/18,provincia,Córdoba,2317.561,174.55
+maiz,2018/19,provincia,Córdoba,3135.558,165.06
+maiz,2019/20,provincia,Córdoba,3385.733,176.37
+maiz,2020/21,provincia,Córdoba,5314.351,245.01
+maiz,2021/22,provincia,Córdoba,5955.575,291.09
+maiz,2022/23,provincia,Córdoba,3342.349,247.18
+maiz,2023/24,provincia,Córdoba,4020.524,195.04
+maiz,2024/25,provincia,Córdoba,3724.786,207.26
+maiz,1995/96,provincia,Corrientes,1.268,154.59
+maiz,1996/97,provincia,Corrientes,1.667,115.0
+maiz,1997/98,provincia,Corrientes,1.018,101.86
+maiz,1998/99,provincia,Corrientes,1.381,93.32
+maiz,1999/00,provincia,Corrientes,1.101,87.76
+maiz,2000/01,provincia,Corrientes,1.018,87.81
+maiz,2001/02,provincia,Corrientes,0.871,97.72
+maiz,2002/03,provincia,Corrientes,1.081,100.23
+maiz,2003/04,provincia,Corrientes,1.37,112.57
+maiz,2004/05,provincia,Corrientes,1.836,84.88
+maiz,2005/06,provincia,Corrientes,3.161,108.89
+maiz,2006/07,provincia,Corrientes,3.69,159.72
+maiz,2007/08,provincia,Corrientes,7.082,205.61
+maiz,2008/09,provincia,Corrientes,2.198,168.35
+maiz,2009/10,provincia,Corrientes,4.405,178.5
+maiz,2010/11,provincia,Corrientes,8.794,297.69
+maiz,2011/12,provincia,Corrientes,9.398,261.06
+maiz,2012/13,provincia,Corrientes,5.612,267.26
+maiz,2013/14,provincia,Corrientes,8.618,198.74
+maiz,2014/15,provincia,Corrientes,4.739,169.24
+maiz,2015/16,provincia,Corrientes,8.685,173.7
+maiz,2016/17,provincia,Corrientes,5.511,162.0
+maiz,2017/18,provincia,Corrientes,6.982,174.55
+maiz,2018/19,provincia,Corrientes,10.285,165.06
+maiz,2019/20,provincia,Corrientes,12.223,176.37
+maiz,2020/21,provincia,Corrientes,14.823,245.01
+maiz,2021/22,provincia,Corrientes,14.409,291.09
+maiz,2022/23,provincia,Corrientes,7.731,247.18
+maiz,2023/24,provincia,Corrientes,8.582,195.04
+maiz,2024/25,provincia,Corrientes,11.478,207.26
+maiz,1995/96,provincia,Chaco,50.443,154.59
+maiz,1996/97,provincia,Chaco,37.478,115.0
+maiz,1997/98,provincia,Chaco,21.696,101.86
+maiz,1998/99,provincia,Chaco,18.972,93.32
+maiz,1999/00,provincia,Chaco,42.142,87.76
+maiz,2000/01,provincia,Chaco,16.789,87.81
+maiz,2001/02,provincia,Chaco,36.078,97.72
+maiz,2002/03,provincia,Chaco,33.276,100.23
+maiz,2003/04,provincia,Chaco,37.154,112.57
+maiz,2004/05,provincia,Chaco,18.782,84.88
+maiz,2005/06,provincia,Chaco,39.526,108.89
+maiz,2006/07,provincia,Chaco,76.298,159.72
+maiz,2007/08,provincia,Chaco,86.778,205.61
+maiz,2008/09,provincia,Chaco,16.123,168.35
+maiz,2009/10,provincia,Chaco,56.003,178.5
+maiz,2010/11,provincia,Chaco,143.653,297.69
+maiz,2011/12,provincia,Chaco,43.117,261.06
+maiz,2012/13,provincia,Chaco,58.436,267.26
+maiz,2013/14,provincia,Chaco,214.621,198.74
+maiz,2014/15,provincia,Chaco,97.662,169.24
+maiz,2015/16,provincia,Chaco,206.175,173.7
+maiz,2016/17,provincia,Chaco,323.981,162.0
+maiz,2017/18,provincia,Chaco,280.04,174.55
+maiz,2018/19,provincia,Chaco,196.128,165.06
+maiz,2019/20,provincia,Chaco,230.468,176.37
+maiz,2020/21,provincia,Chaco,218.675,245.01
+maiz,2021/22,provincia,Chaco,349.523,291.09
+maiz,2022/23,provincia,Chaco,196.347,247.18
+maiz,2023/24,provincia,Chaco,47.644,195.04
+maiz,2024/25,provincia,Chaco,47.016,207.26
+maiz,1995/96,provincia,Chubut,0.0,154.59
+maiz,1996/97,provincia,Chubut,0.0,115.0
+maiz,1997/98,provincia,Chubut,0.0,101.86
+maiz,1998/99,provincia,Chubut,0.0,93.32
+maiz,1999/00,provincia,Chubut,0.0,87.76
+maiz,2000/01,provincia,Chubut,0.0,87.81
+maiz,2001/02,provincia,Chubut,0.0,97.72
+maiz,2002/03,provincia,Chubut,0.0,100.23
+maiz,2003/04,provincia,Chubut,0.0,112.57
+maiz,2004/05,provincia,Chubut,0.0,84.88
+maiz,2005/06,provincia,Chubut,0.0,108.89
+maiz,2006/07,provincia,Chubut,0.0,159.72
+maiz,2007/08,provincia,Chubut,0.0,205.61
+maiz,2008/09,provincia,Chubut,0.0,168.35
+maiz,2009/10,provincia,Chubut,0.0,178.5
+maiz,2010/11,provincia,Chubut,0.0,297.69
+maiz,2011/12,provincia,Chubut,0.0,261.06
+maiz,2012/13,provincia,Chubut,0.0,267.26
+maiz,2013/14,provincia,Chubut,0.0,198.74
+maiz,2014/15,provincia,Chubut,0.0,169.24
+maiz,2015/16,provincia,Chubut,0.0,173.7
+maiz,2016/17,provincia,Chubut,0.0,162.0
+maiz,2017/18,provincia,Chubut,0.0,174.55
+maiz,2018/19,provincia,Chubut,0.0,165.06
+maiz,2019/20,provincia,Chubut,0.0,176.37
+maiz,2020/21,provincia,Chubut,0.0,245.01
+maiz,2021/22,provincia,Chubut,0.0,291.09
+maiz,2022/23,provincia,Chubut,0.0,247.18
+maiz,2023/24,provincia,Chubut,0.0,195.04
+maiz,2024/25,provincia,Chubut,0.0,207.26
+maiz,1995/96,provincia,Entre Ríos,89.539,154.59
+maiz,1996/97,provincia,Entre Ríos,102.603,115.0
+maiz,1997/98,provincia,Entre Ríos,119.787,101.86
+maiz,1998/99,provincia,Entre Ríos,95.205,93.32
+maiz,1999/00,provincia,Entre Ríos,55.368,87.76
+maiz,2000/01,provincia,Entre Ríos,112.009,87.81
+maiz,2001/02,provincia,Entre Ríos,89.096,97.72
+maiz,2002/03,provincia,Entre Ríos,118.513,100.23
+maiz,2003/04,provincia,Entre Ríos,163.376,112.57
+maiz,2004/05,provincia,Entre Ríos,137.981,84.88
+maiz,2005/06,provincia,Entre Ríos,103.575,108.89
+maiz,2006/07,provincia,Entre Ríos,218.376,159.72
+maiz,2007/08,provincia,Entre Ríos,232.058,205.61
+maiz,2008/09,provincia,Entre Ríos,37.598,168.35
+maiz,2009/10,provincia,Entre Ríos,216.326,178.5
+maiz,2010/11,provincia,Entre Ríos,279.126,297.69
+maiz,2011/12,provincia,Entre Ríos,305.299,261.06
+maiz,2012/13,provincia,Entre Ríos,444.469,267.26
+maiz,2013/14,provincia,Entre Ríos,279.007,198.74
+maiz,2014/15,provincia,Entre Ríos,260.68,169.24
+maiz,2015/16,provincia,Entre Ríos,271.426,173.7
+maiz,2016/17,provincia,Entre Ríos,372.312,162.0
+maiz,2017/18,provincia,Entre Ríos,300.874,174.55
+maiz,2018/19,provincia,Entre Ríos,456.218,165.06
+maiz,2019/20,provincia,Entre Ríos,506.576,176.37
+maiz,2020/21,provincia,Entre Ríos,527.435,245.01
+maiz,2021/22,provincia,Entre Ríos,543.063,291.09
+maiz,2022/23,provincia,Entre Ríos,202.283,247.18
+maiz,2023/24,provincia,Entre Ríos,500.503,195.04
+maiz,2024/25,provincia,Entre Ríos,467.322,207.26
+maiz,1995/96,provincia,Formosa,6.709,154.59
+maiz,1996/97,provincia,Formosa,7.027,115.0
+maiz,1997/98,provincia,Formosa,2.546,101.86
+maiz,1998/99,provincia,Formosa,5.954,93.32
+maiz,1999/00,provincia,Formosa,1.667,87.76
+maiz,2000/01,provincia,Formosa,5.479,87.81
+maiz,2001/02,provincia,Formosa,7.24,97.72
+maiz,2002/03,provincia,Formosa,5.452,100.23
+maiz,2003/04,provincia,Formosa,6.974,112.57
+maiz,2004/05,provincia,Formosa,5.246,84.88
+maiz,2005/06,provincia,Formosa,7.263,108.89
+maiz,2006/07,provincia,Formosa,8.725,159.72
+maiz,2007/08,provincia,Formosa,14.099,205.61
+maiz,2008/09,provincia,Formosa,4.795,168.35
+maiz,2009/10,provincia,Formosa,6.247,178.5
+maiz,2010/11,provincia,Formosa,12.324,297.69
+maiz,2011/12,provincia,Formosa,7.832,261.06
+maiz,2012/13,provincia,Formosa,4.677,267.26
+maiz,2013/14,provincia,Formosa,4.77,198.74
+maiz,2014/15,provincia,Formosa,12.862,169.24
+maiz,2015/16,provincia,Formosa,23.45,173.7
+maiz,2016/17,provincia,Formosa,24.786,162.0
+maiz,2017/18,provincia,Formosa,52.112,174.55
+maiz,2018/19,provincia,Formosa,19.721,165.06
+maiz,2019/20,provincia,Formosa,10.873,176.37
+maiz,2020/21,provincia,Formosa,16.171,245.01
+maiz,2021/22,provincia,Formosa,11.505,291.09
+maiz,2022/23,provincia,Formosa,14.866,247.18
+maiz,2023/24,provincia,Formosa,8.93,195.04
+maiz,2024/25,provincia,Formosa,9.466,207.26
+maiz,1995/96,provincia,Jujuy,2.464,154.59
+maiz,1996/97,provincia,Jujuy,2.185,115.0
+maiz,1997/98,provincia,Jujuy,1.956,101.86
+maiz,1998/99,provincia,Jujuy,1.764,93.32
+maiz,1999/00,provincia,Jujuy,1.782,87.76
+maiz,2000/01,provincia,Jujuy,2.094,87.81
+maiz,2001/02,provincia,Jujuy,2.736,97.72
+maiz,2002/03,provincia,Jujuy,2.806,100.23
+maiz,2003/04,provincia,Jujuy,1.758,112.57
+maiz,2004/05,provincia,Jujuy,1.316,84.88
+maiz,2005/06,provincia,Jujuy,2.319,108.89
+maiz,2006/07,provincia,Jujuy,3.426,159.72
+maiz,2007/08,provincia,Jujuy,4.478,205.61
+maiz,2008/09,provincia,Jujuy,3.052,168.35
+maiz,2009/10,provincia,Jujuy,3.552,178.5
+maiz,2010/11,provincia,Jujuy,6.892,297.69
+maiz,2011/12,provincia,Jujuy,6.84,261.06
+maiz,2012/13,provincia,Jujuy,2.336,267.26
+maiz,2013/14,provincia,Jujuy,8.407,198.74
+maiz,2014/15,provincia,Jujuy,6.125,169.24
+maiz,2015/16,provincia,Jujuy,4.84,173.7
+maiz,2016/17,provincia,Jujuy,2.432,162.0
+maiz,2017/18,provincia,Jujuy,3.261,174.55
+maiz,2018/19,provincia,Jujuy,3.09,165.06
+maiz,2019/20,provincia,Jujuy,5.02,176.37
+maiz,2020/21,provincia,Jujuy,9.62,245.01
+maiz,2021/22,provincia,Jujuy,7.419,291.09
+maiz,2022/23,provincia,Jujuy,8.708,247.18
+maiz,2023/24,provincia,Jujuy,9.783,195.04
+maiz,2024/25,provincia,Jujuy,5.474,207.26
+maiz,1995/96,provincia,La Pampa,20.483,154.59
+maiz,1996/97,provincia,La Pampa,28.934,115.0
+maiz,1997/98,provincia,La Pampa,38.299,101.86
+maiz,1998/99,provincia,La Pampa,23.489,93.32
+maiz,1999/00,provincia,La Pampa,42.327,87.76
+maiz,2000/01,provincia,La Pampa,54.138,87.81
+maiz,2001/02,provincia,La Pampa,52.692,97.72
+maiz,2002/03,provincia,La Pampa,38.162,100.23
+maiz,2003/04,provincia,La Pampa,66.567,112.57
+maiz,2004/05,provincia,La Pampa,106.103,84.88
+maiz,2005/06,provincia,La Pampa,63.545,108.89
+maiz,2006/07,provincia,La Pampa,151.063,159.72
+maiz,2007/08,provincia,La Pampa,160.982,205.61
+maiz,2008/09,provincia,La Pampa,44.402,168.35
+maiz,2009/10,provincia,La Pampa,80.093,178.5
+maiz,2010/11,provincia,La Pampa,155.01,297.69
+maiz,2011/12,provincia,La Pampa,120.38,261.06
+maiz,2012/13,provincia,La Pampa,126.601,267.26
+maiz,2013/14,provincia,La Pampa,158.163,198.74
+maiz,2014/15,provincia,La Pampa,146.003,169.24
+maiz,2015/16,provincia,La Pampa,373.189,173.7
+maiz,2016/17,provincia,La Pampa,177.652,162.0
+maiz,2017/18,provincia,La Pampa,232.424,174.55
+maiz,2018/19,provincia,La Pampa,326.62,165.06
+maiz,2019/20,provincia,La Pampa,417.076,176.37
+maiz,2020/21,provincia,La Pampa,621.668,245.01
+maiz,2021/22,provincia,La Pampa,1076.626,291.09
+maiz,2022/23,provincia,La Pampa,763.407,247.18
+maiz,2023/24,provincia,La Pampa,733.473,195.04
+maiz,2024/25,provincia,La Pampa,586.781,207.26
+maiz,1995/96,provincia,La Rioja,0.0,154.59
+maiz,1996/97,provincia,La Rioja,0.0,115.0
+maiz,1997/98,provincia,La Rioja,0.0,101.86
+maiz,1998/99,provincia,La Rioja,0.0,93.32
+maiz,1999/00,provincia,La Rioja,0.0,87.76
+maiz,2000/01,provincia,La Rioja,0.0,87.81
+maiz,2001/02,provincia,La Rioja,0.0,97.72
+maiz,2002/03,provincia,La Rioja,0.0,100.23
+maiz,2003/04,provincia,La Rioja,0.0,112.57
+maiz,2004/05,provincia,La Rioja,0.0,84.88
+maiz,2005/06,provincia,La Rioja,0.0,108.89
+maiz,2006/07,provincia,La Rioja,0.0,159.72
+maiz,2007/08,provincia,La Rioja,0.0,205.61
+maiz,2008/09,provincia,La Rioja,0.0,168.35
+maiz,2009/10,provincia,La Rioja,0.0,178.5
+maiz,2010/11,provincia,La Rioja,0.0,297.69
+maiz,2011/12,provincia,La Rioja,0.0,261.06
+maiz,2012/13,provincia,La Rioja,0.0,267.26
+maiz,2013/14,provincia,La Rioja,0.0,198.74
+maiz,2014/15,provincia,La Rioja,0.0,169.24
+maiz,2015/16,provincia,La Rioja,0.0,173.7
+maiz,2016/17,provincia,La Rioja,0.0,162.0
+maiz,2017/18,provincia,La Rioja,0.0,174.55
+maiz,2018/19,provincia,La Rioja,0.0,165.06
+maiz,2019/20,provincia,La Rioja,0.0,176.37
+maiz,2020/21,provincia,La Rioja,0.0,245.01
+maiz,2021/22,provincia,La Rioja,0.0,291.09
+maiz,2022/23,provincia,La Rioja,0.0,247.18
+maiz,2023/24,provincia,La Rioja,0.0,195.04
+maiz,2024/25,provincia,La Rioja,0.0,207.26
+maiz,1995/96,provincia,Mendoza,0.0,154.59
+maiz,1996/97,provincia,Mendoza,0.0,115.0
+maiz,1997/98,provincia,Mendoza,0.0,101.86
+maiz,1998/99,provincia,Mendoza,0.0,93.32
+maiz,1999/00,provincia,Mendoza,0.0,87.76
+maiz,2000/01,provincia,Mendoza,0.0,87.81
+maiz,2001/02,provincia,Mendoza,0.0,97.72
+maiz,2002/03,provincia,Mendoza,0.0,100.23
+maiz,2003/04,provincia,Mendoza,0.0,112.57
+maiz,2004/05,provincia,Mendoza,0.0,84.88
+maiz,2005/06,provincia,Mendoza,0.0,108.89
+maiz,2006/07,provincia,Mendoza,0.0,159.72
+maiz,2007/08,provincia,Mendoza,0.0,205.61
+maiz,2008/09,provincia,Mendoza,0.0,168.35
+maiz,2009/10,provincia,Mendoza,0.0,178.5
+maiz,2010/11,provincia,Mendoza,0.0,297.69
+maiz,2011/12,provincia,Mendoza,0.0,261.06
+maiz,2012/13,provincia,Mendoza,0.0,267.26
+maiz,2013/14,provincia,Mendoza,0.0,198.74
+maiz,2014/15,provincia,Mendoza,0.0,169.24
+maiz,2015/16,provincia,Mendoza,0.0,173.7
+maiz,2016/17,provincia,Mendoza,0.0,162.0
+maiz,2017/18,provincia,Mendoza,0.0,174.55
+maiz,2018/19,provincia,Mendoza,0.0,165.06
+maiz,2019/20,provincia,Mendoza,0.0,176.37
+maiz,2020/21,provincia,Mendoza,0.0,245.01
+maiz,2021/22,provincia,Mendoza,0.0,291.09
+maiz,2022/23,provincia,Mendoza,0.0,247.18
+maiz,2023/24,provincia,Mendoza,0.0,195.04
+maiz,2024/25,provincia,Mendoza,0.0,207.26
+maiz,1995/96,provincia,Misiones,2.662,154.59
+maiz,1996/97,provincia,Misiones,1.76,115.0
+maiz,1997/98,provincia,Misiones,0.373,101.86
+maiz,1998/99,provincia,Misiones,1.325,93.32
+maiz,1999/00,provincia,Misiones,2.146,87.76
+maiz,2000/01,provincia,Misiones,1.717,87.81
+maiz,2001/02,provincia,Misiones,0.86,97.72
+maiz,2002/03,provincia,Misiones,0.633,100.23
+maiz,2003/04,provincia,Misiones,5.596,112.57
+maiz,2004/05,provincia,Misiones,0.7,84.88
+maiz,2005/06,provincia,Misiones,4.321,108.89
+maiz,2006/07,provincia,Misiones,2.903,159.72
+maiz,2007/08,provincia,Misiones,3.195,205.61
+maiz,2008/09,provincia,Misiones,0.152,168.35
+maiz,2009/10,provincia,Misiones,12.202,178.5
+maiz,2010/11,provincia,Misiones,22.702,297.69
+maiz,2011/12,provincia,Misiones,2.623,261.06
+maiz,2012/13,provincia,Misiones,20.892,267.26
+maiz,2013/14,provincia,Misiones,17.654,198.74
+maiz,2014/15,provincia,Misiones,14.621,169.24
+maiz,2015/16,provincia,Misiones,11.429,173.7
+maiz,2016/17,provincia,Misiones,12.753,162.0
+maiz,2017/18,provincia,Misiones,15.189,174.55
+maiz,2018/19,provincia,Misiones,25.058,165.06
+maiz,2019/20,provincia,Misiones,26.422,176.37
+maiz,2020/21,provincia,Misiones,8.251,245.01
+maiz,2021/22,provincia,Misiones,15.323,291.09
+maiz,2022/23,provincia,Misiones,28.472,247.18
+maiz,2023/24,provincia,Misiones,18.896,195.04
+maiz,2024/25,provincia,Misiones,27.631,207.26
+maiz,1995/96,provincia,Neuquén,0.0,154.59
+maiz,1996/97,provincia,Neuquén,0.0,115.0
+maiz,1997/98,provincia,Neuquén,0.0,101.86
+maiz,1998/99,provincia,Neuquén,0.0,93.32
+maiz,1999/00,provincia,Neuquén,0.0,87.76
+maiz,2000/01,provincia,Neuquén,0.0,87.81
+maiz,2001/02,provincia,Neuquén,0.0,97.72
+maiz,2002/03,provincia,Neuquén,0.0,100.23
+maiz,2003/04,provincia,Neuquén,0.0,112.57
+maiz,2004/05,provincia,Neuquén,0.0,84.88
+maiz,2005/06,provincia,Neuquén,0.0,108.89
+maiz,2006/07,provincia,Neuquén,0.0,159.72
+maiz,2007/08,provincia,Neuquén,0.0,205.61
+maiz,2008/09,provincia,Neuquén,0.0,168.35
+maiz,2009/10,provincia,Neuquén,0.0,178.5
+maiz,2010/11,provincia,Neuquén,0.0,297.69
+maiz,2011/12,provincia,Neuquén,0.0,261.06
+maiz,2012/13,provincia,Neuquén,0.0,267.26
+maiz,2013/14,provincia,Neuquén,0.0,198.74
+maiz,2014/15,provincia,Neuquén,0.0,169.24
+maiz,2015/16,provincia,Neuquén,0.0,173.7
+maiz,2016/17,provincia,Neuquén,0.0,162.0
+maiz,2017/18,provincia,Neuquén,0.0,174.55
+maiz,2018/19,provincia,Neuquén,0.0,165.06
+maiz,2019/20,provincia,Neuquén,0.0,176.37
+maiz,2020/21,provincia,Neuquén,0.0,245.01
+maiz,2021/22,provincia,Neuquén,0.0,291.09
+maiz,2022/23,provincia,Neuquén,0.0,247.18
+maiz,2023/24,provincia,Neuquén,0.0,195.04
+maiz,2024/25,provincia,Neuquén,0.0,207.26
+maiz,1995/96,provincia,Río Negro,0.0,154.59
+maiz,1996/97,provincia,Río Negro,0.0,115.0
+maiz,1997/98,provincia,Río Negro,0.0,101.86
+maiz,1998/99,provincia,Río Negro,0.0,93.32
+maiz,1999/00,provincia,Río Negro,0.0,87.76
+maiz,2000/01,provincia,Río Negro,0.0,87.81
+maiz,2001/02,provincia,Río Negro,0.0,97.72
+maiz,2002/03,provincia,Río Negro,0.0,100.23
+maiz,2003/04,provincia,Río Negro,0.0,112.57
+maiz,2004/05,provincia,Río Negro,0.0,84.88
+maiz,2005/06,provincia,Río Negro,0.0,108.89
+maiz,2006/07,provincia,Río Negro,0.0,159.72
+maiz,2007/08,provincia,Río Negro,0.0,205.61
+maiz,2008/09,provincia,Río Negro,0.0,168.35
+maiz,2009/10,provincia,Río Negro,0.0,178.5
+maiz,2010/11,provincia,Río Negro,0.0,297.69
+maiz,2011/12,provincia,Río Negro,0.0,261.06
+maiz,2012/13,provincia,Río Negro,0.0,267.26
+maiz,2013/14,provincia,Río Negro,0.0,198.74
+maiz,2014/15,provincia,Río Negro,0.0,169.24
+maiz,2015/16,provincia,Río Negro,0.0,173.7
+maiz,2016/17,provincia,Río Negro,0.0,162.0
+maiz,2017/18,provincia,Río Negro,0.0,174.55
+maiz,2018/19,provincia,Río Negro,0.0,165.06
+maiz,2019/20,provincia,Río Negro,0.0,176.37
+maiz,2020/21,provincia,Río Negro,0.0,245.01
+maiz,2021/22,provincia,Río Negro,0.0,291.09
+maiz,2022/23,provincia,Río Negro,0.0,247.18
+maiz,2023/24,provincia,Río Negro,0.0,195.04
+maiz,2024/25,provincia,Río Negro,0.0,207.26
+maiz,1995/96,provincia,Salta,32.077,154.59
+maiz,1996/97,provincia,Salta,32.005,115.0
+maiz,1997/98,provincia,Salta,23.56,101.86
+maiz,1998/99,provincia,Salta,24.59,93.32
+maiz,1999/00,provincia,Salta,21.51,87.76
+maiz,2000/01,provincia,Salta,14.537,87.81
+maiz,2001/02,provincia,Salta,14.072,97.72
+maiz,2002/03,provincia,Salta,12.429,100.23
+maiz,2003/04,provincia,Salta,15.929,112.57
+maiz,2004/05,provincia,Salta,10.186,84.88
+maiz,2005/06,provincia,Salta,19.584,108.89
+maiz,2006/07,provincia,Salta,35.953,159.72
+maiz,2007/08,provincia,Salta,44.412,205.61
+maiz,2008/09,provincia,Salta,31.556,168.35
+maiz,2009/10,provincia,Salta,62.886,178.5
+maiz,2010/11,provincia,Salta,224.613,297.69
+maiz,2011/12,provincia,Salta,205.796,261.06
+maiz,2012/13,provincia,Salta,38.659,267.26
+maiz,2013/14,provincia,Salta,190.236,198.74
+maiz,2014/15,provincia,Salta,226.277,169.24
+maiz,2015/16,provincia,Salta,287.602,173.7
+maiz,2016/17,provincia,Salta,246.492,162.0
+maiz,2017/18,provincia,Salta,263.326,174.55
+maiz,2018/19,provincia,Salta,301.581,165.06
+maiz,2019/20,provincia,Salta,331.343,176.37
+maiz,2020/21,provincia,Salta,472.83,245.01
+maiz,2021/22,provincia,Salta,549.276,291.09
+maiz,2022/23,provincia,Salta,501.476,247.18
+maiz,2023/24,provincia,Salta,314.984,195.04
+maiz,2024/25,provincia,Salta,325.585,207.26
+maiz,1995/96,provincia,San Juan,0.0,154.59
+maiz,1996/97,provincia,San Juan,0.0,115.0
+maiz,1997/98,provincia,San Juan,0.0,101.86
+maiz,1998/99,provincia,San Juan,0.0,93.32
+maiz,1999/00,provincia,San Juan,0.0,87.76
+maiz,2000/01,provincia,San Juan,0.0,87.81
+maiz,2001/02,provincia,San Juan,0.0,97.72
+maiz,2002/03,provincia,San Juan,0.0,100.23
+maiz,2003/04,provincia,San Juan,0.0,112.57
+maiz,2004/05,provincia,San Juan,0.0,84.88
+maiz,2005/06,provincia,San Juan,0.0,108.89
+maiz,2006/07,provincia,San Juan,0.0,159.72
+maiz,2007/08,provincia,San Juan,0.0,205.61
+maiz,2008/09,provincia,San Juan,0.0,168.35
+maiz,2009/10,provincia,San Juan,0.0,178.5
+maiz,2010/11,provincia,San Juan,0.0,297.69
+maiz,2011/12,provincia,San Juan,0.0,261.06
+maiz,2012/13,provincia,San Juan,0.0,267.26
+maiz,2013/14,provincia,San Juan,0.0,198.74
+maiz,2014/15,provincia,San Juan,0.0,169.24
+maiz,2015/16,provincia,San Juan,0.0,173.7
+maiz,2016/17,provincia,San Juan,0.0,162.0
+maiz,2017/18,provincia,San Juan,0.0,174.55
+maiz,2018/19,provincia,San Juan,0.0,165.06
+maiz,2019/20,provincia,San Juan,0.0,176.37
+maiz,2020/21,provincia,San Juan,0.0,245.01
+maiz,2021/22,provincia,San Juan,0.0,291.09
+maiz,2022/23,provincia,San Juan,0.0,247.18
+maiz,2023/24,provincia,San Juan,0.0,195.04
+maiz,2024/25,provincia,San Juan,0.0,207.26
+maiz,1995/96,provincia,San Luis,7.25,154.59
+maiz,1996/97,provincia,San Luis,4.037,115.0
+maiz,1997/98,provincia,San Luis,10.38,101.86
+maiz,1998/99,provincia,San Luis,9.481,93.32
+maiz,1999/00,provincia,San Luis,18.509,87.76
+maiz,2000/01,provincia,San Luis,15.766,87.81
+maiz,2001/02,provincia,San Luis,28.964,97.72
+maiz,2002/03,provincia,San Luis,19.996,100.23
+maiz,2003/04,provincia,San Luis,29.268,112.57
+maiz,2004/05,provincia,San Luis,33.273,84.88
+maiz,2005/06,provincia,San Luis,13.72,108.89
+maiz,2006/07,provincia,San Luis,30.874,159.72
+maiz,2007/08,provincia,San Luis,52.176,205.61
+maiz,2008/09,provincia,San Luis,54.882,168.35
+maiz,2009/10,provincia,San Luis,58.803,178.5
+maiz,2010/11,provincia,San Luis,184.154,297.69
+maiz,2011/12,provincia,San Luis,126.768,261.06
+maiz,2012/13,provincia,San Luis,384.213,267.26
+maiz,2013/14,provincia,San Luis,168.683,198.74
+maiz,2014/15,provincia,San Luis,270.787,169.24
+maiz,2015/16,provincia,San Luis,314.907,173.7
+maiz,2016/17,provincia,San Luis,405.157,162.0
+maiz,2017/18,provincia,San Luis,241.337,174.55
+maiz,2018/19,provincia,San Luis,310.164,165.06
+maiz,2019/20,provincia,San Luis,234.091,176.37
+maiz,2020/21,provincia,San Luis,552.348,245.01
+maiz,2021/22,provincia,San Luis,546.434,291.09
+maiz,2022/23,provincia,San Luis,285.244,247.18
+maiz,2023/24,provincia,San Luis,394.895,195.04
+maiz,2024/25,provincia,San Luis,465.056,207.26
+maiz,1995/96,provincia,Santa Fe,354.49,154.59
+maiz,1996/97,provincia,Santa Fe,267.582,115.0
+maiz,1997/98,provincia,Santa Fe,319.188,101.86
+maiz,1998/99,provincia,Santa Fe,238.545,93.32
+maiz,1999/00,provincia,Santa Fe,221.318,87.76
+maiz,2000/01,provincia,Santa Fe,222.271,87.81
+maiz,2001/02,provincia,Santa Fe,203.587,97.72
+maiz,2002/03,provincia,Santa Fe,191.353,100.23
+maiz,2003/04,provincia,Santa Fe,288.051,112.57
+maiz,2004/05,provincia,Santa Fe,255.205,84.88
+maiz,2005/06,provincia,Santa Fe,216.116,108.89
+maiz,2006/07,provincia,Santa Fe,420.881,159.72
+maiz,2007/08,provincia,Santa Fe,521.978,205.61
+maiz,2008/09,provincia,Santa Fe,269.639,168.35
+maiz,2009/10,provincia,Santa Fe,715.101,178.5
+maiz,2010/11,provincia,Santa Fe,1088.599,297.69
+maiz,2011/12,provincia,Santa Fe,1000.113,261.06
+maiz,2012/13,provincia,Santa Fe,1460.301,267.26
+maiz,2013/14,provincia,Santa Fe,737.019,198.74
+maiz,2014/15,provincia,Santa Fe,739.656,169.24
+maiz,2015/16,provincia,Santa Fe,684.793,173.7
+maiz,2016/17,provincia,Santa Fe,940.018,162.0
+maiz,2017/18,provincia,Santa Fe,904.113,174.55
+maiz,2018/19,provincia,Santa Fe,975.582,165.06
+maiz,2019/20,provincia,Santa Fe,1299.998,176.37
+maiz,2020/21,provincia,Santa Fe,1745.069,245.01
+maiz,2021/22,provincia,Santa Fe,1680.948,291.09
+maiz,2022/23,provincia,Santa Fe,686.604,247.18
+maiz,2023/24,provincia,Santa Fe,1317.65,195.04
+maiz,2024/25,provincia,Santa Fe,1081.822,207.26
+maiz,1995/96,provincia,Santiago del Estero,34.54,154.59
+maiz,1996/97,provincia,Santiago del Estero,31.211,115.0
+maiz,1997/98,provincia,Santiago del Estero,34.062,101.86
+maiz,1998/99,provincia,Santiago del Estero,22.574,93.32
+maiz,1999/00,provincia,Santiago del Estero,40.989,87.76
+maiz,2000/01,provincia,Santiago del Estero,20.553,87.81
+maiz,2001/02,provincia,Santiago del Estero,24.625,97.72
+maiz,2002/03,provincia,Santiago del Estero,24.791,100.23
+maiz,2003/04,provincia,Santiago del Estero,31.092,112.57
+maiz,2004/05,provincia,Santiago del Estero,17.849,84.88
+maiz,2005/06,provincia,Santiago del Estero,46.431,108.89
+maiz,2006/07,provincia,Santiago del Estero,79.335,159.72
+maiz,2007/08,provincia,Santiago del Estero,99.269,205.61
+maiz,2008/09,provincia,Santiago del Estero,14.682,168.35
+maiz,2009/10,provincia,Santiago del Estero,111.736,178.5
+maiz,2010/11,provincia,Santiago del Estero,520.252,297.69
+maiz,2011/12,provincia,Santiago del Estero,407.614,261.06
+maiz,2012/13,provincia,Santiago del Estero,454.254,267.26
+maiz,2013/14,provincia,Santiago del Estero,920.983,198.74
+maiz,2014/15,provincia,Santiago del Estero,407.454,169.24
+maiz,2015/16,provincia,Santiago del Estero,740.392,173.7
+maiz,2016/17,provincia,Santiago del Estero,726.393,162.0
+maiz,2017/18,provincia,Santiago del Estero,639.161,174.55
+maiz,2018/19,provincia,Santiago del Estero,727.251,165.06
+maiz,2019/20,provincia,Santiago del Estero,997.024,176.37
+maiz,2020/21,provincia,Santiago del Estero,1259.069,245.01
+maiz,2021/22,provincia,Santiago del Estero,1568.087,291.09
+maiz,2022/23,provincia,Santiago del Estero,1124.499,247.18
+maiz,2023/24,provincia,Santiago del Estero,302.521,195.04
+maiz,2024/25,provincia,Santiago del Estero,334.153,207.26
+maiz,1995/96,provincia,Tucumán,10.283,154.59
+maiz,1996/97,provincia,Tucumán,21.332,115.0
+maiz,1997/98,provincia,Tucumán,24.263,101.86
+maiz,1998/99,provincia,Tucumán,19.961,93.32
+maiz,1999/00,provincia,Tucumán,23.593,87.76
+maiz,2000/01,provincia,Tucumán,24.675,87.81
+maiz,2001/02,provincia,Tucumán,24.625,97.72
+maiz,2002/03,provincia,Tucumán,5.964,100.23
+maiz,2003/04,provincia,Tucumán,12.383,112.57
+maiz,2004/05,provincia,Tucumán,16.073,84.88
+maiz,2005/06,provincia,Tucumán,14.56,108.89
+maiz,2006/07,provincia,Tucumán,40.115,159.72
+maiz,2007/08,provincia,Tucumán,40.244,205.61
+maiz,2008/09,provincia,Tucumán,42.087,168.35
+maiz,2009/10,provincia,Tucumán,53.161,178.5
+maiz,2010/11,provincia,Tucumán,127.894,297.69
+maiz,2011/12,provincia,Tucumán,43.728,261.06
+maiz,2012/13,provincia,Tucumán,62.376,267.26
+maiz,2013/14,provincia,Tucumán,81.513,198.74
+maiz,2014/15,provincia,Tucumán,48.448,169.24
+maiz,2015/16,provincia,Tucumán,77.506,173.7
+maiz,2016/17,provincia,Tucumán,53.459,162.0
+maiz,2017/18,provincia,Tucumán,86.042,174.55
+maiz,2018/19,provincia,Tucumán,106.418,165.06
+maiz,2019/20,provincia,Tucumán,75.762,176.37
+maiz,2020/21,provincia,Tucumán,107.257,245.01
+maiz,2021/22,provincia,Tucumán,132.288,291.09
+maiz,2022/23,provincia,Tucumán,95.384,247.18
+maiz,2023/24,provincia,Tucumán,46.281,195.04
+maiz,2024/25,provincia,Tucumán,55.122,207.26
+trigo,1995/96,nacional,Argentina,1866.996,197.67
+trigo,1996/97,nacional,Argentina,2288.694,143.82
+trigo,1997/98,nacional,Argentina,1637.793,110.66
+trigo,1998/99,nacional,Argentina,1303.031,104.72
+trigo,1999/00,nacional,Argentina,1621.0,105.93
+trigo,2000/01,nacional,Argentina,1815.057,113.73
+trigo,2001/02,nacional,Argentina,1654.711,108.21
+trigo,2002/03,nacional,Argentina,1408.269,114.48
+trigo,2003/04,nacional,Argentina,1559.11,107.06
+trigo,2004/05,nacional,Argentina,1594.573,100.13
+trigo,2005/06,nacional,Argentina,1373.94,109.1
+trigo,2006/07,nacional,Argentina,2107.417,144.86
+trigo,2007/08,nacional,Argentina,2673.567,163.48
+trigo,2008/09,nacional,Argentina,1129.732,134.87
+trigo,2009/10,nacional,Argentina,1287.692,142.71
+trigo,2010/11,nacional,Argentina,2390.08,150.55
+trigo,2011/12,nacional,Argentina,2296.737,158.39
+trigo,2012/13,nacional,Argentina,1333.995,166.23
+trigo,2013/14,nacional,Argentina,1599.414,174.07
+trigo,2014/15,nacional,Argentina,1585.382,113.81
+trigo,2015/16,nacional,Argentina,1683.439,148.78
+trigo,2016/17,nacional,Argentina,2955.726,160.68
+trigo,2017/18,nacional,Argentina,3750.274,202.52
+trigo,2018/19,nacional,Argentina,3674.191,188.81
+trigo,2019/20,nacional,Argentina,3869.952,195.68
+trigo,2020/21,nacional,Argentina,3554.44,201.45
+trigo,2021/22,nacional,Argentina,6991.738,315.65
+trigo,2022/23,nacional,Argentina,3619.854,288.3
+trigo,2023/24,nacional,Argentina,3520.986,222.1
+trigo,2024/25,nacional,Argentina,3621.536,195.65
+trigo,1995/96,provincia,Buenos Aires,1268.259,197.67
+trigo,1996/97,provincia,Buenos Aires,1549.604,143.82
+trigo,1997/98,provincia,Buenos Aires,1180.07,110.66
+trigo,1998/99,provincia,Buenos Aires,787.243,104.72
+trigo,1999/00,provincia,Buenos Aires,926.993,105.93
+trigo,2000/01,provincia,Buenos Aires,1120.601,113.73
+trigo,2001/02,provincia,Buenos Aires,936.523,108.21
+trigo,2002/03,provincia,Buenos Aires,782.278,114.48
+trigo,2003/04,provincia,Buenos Aires,967.074,107.06
+trigo,2004/05,provincia,Buenos Aires,983.061,100.13
+trigo,2005/06,provincia,Buenos Aires,812.901,109.1
+trigo,2006/07,provincia,Buenos Aires,1306.594,144.86
+trigo,2007/08,provincia,Buenos Aires,1253.97,163.48
+trigo,2008/09,provincia,Buenos Aires,743.243,134.87
+trigo,2009/10,provincia,Buenos Aires,826.655,142.71
+trigo,2010/11,provincia,Buenos Aires,1390.106,150.55
+trigo,2011/12,provincia,Buenos Aires,1352.275,158.39
+trigo,2012/13,provincia,Buenos Aires,609.208,166.23
+trigo,2013/14,provincia,Buenos Aires,977.788,174.07
+trigo,2014/15,provincia,Buenos Aires,736.141,113.81
+trigo,2015/16,provincia,Buenos Aires,737.773,148.78
+trigo,2016/17,provincia,Buenos Aires,1212.867,160.68
+trigo,2017/18,provincia,Buenos Aires,1541.426,202.52
+trigo,2018/19,provincia,Buenos Aires,1702.609,188.81
+trigo,2019/20,provincia,Buenos Aires,1528.268,195.68
+trigo,2020/21,provincia,Buenos Aires,2111.314,201.45
+trigo,2021/22,provincia,Buenos Aires,3057.886,315.65
+trigo,2022/23,provincia,Buenos Aires,1767.865,288.3
+trigo,2023/24,provincia,Buenos Aires,1766.82,222.1
+trigo,2024/25,provincia,Buenos Aires,1812.781,195.65
+trigo,1995/96,provincia,Catamarca,0.949,197.67
+trigo,1996/97,provincia,Catamarca,0.834,143.82
+trigo,1997/98,provincia,Catamarca,0.144,110.66
+trigo,1998/99,provincia,Catamarca,0.597,104.72
+trigo,1999/00,provincia,Catamarca,3.284,105.93
+trigo,2000/01,provincia,Catamarca,9.553,113.73
+trigo,2001/02,provincia,Catamarca,6.709,108.21
+trigo,2002/03,provincia,Catamarca,2.015,114.48
+trigo,2003/04,provincia,Catamarca,1.285,107.06
+trigo,2004/05,provincia,Catamarca,4.005,100.13
+trigo,2005/06,provincia,Catamarca,3.666,109.1
+trigo,2006/07,provincia,Catamarca,5.65,144.86
+trigo,2007/08,provincia,Catamarca,4.038,163.48
+trigo,2008/09,provincia,Catamarca,5.826,134.87
+trigo,2009/10,provincia,Catamarca,3.611,142.71
+trigo,2010/11,provincia,Catamarca,5.299,150.55
+trigo,2011/12,provincia,Catamarca,7.318,158.39
+trigo,2012/13,provincia,Catamarca,2.819,166.23
+trigo,2013/14,provincia,Catamarca,0.097,174.07
+trigo,2014/15,provincia,Catamarca,1.614,113.81
+trigo,2015/16,provincia,Catamarca,8.223,148.78
+trigo,2016/17,provincia,Catamarca,5.995,160.68
+trigo,2017/18,provincia,Catamarca,7.742,202.52
+trigo,2018/19,provincia,Catamarca,1.962,188.81
+trigo,2019/20,provincia,Catamarca,6.179,195.68
+trigo,2020/21,provincia,Catamarca,4.151,201.45
+trigo,2021/22,provincia,Catamarca,7.418,315.65
+trigo,2022/23,provincia,Catamarca,5.216,288.3
+trigo,2023/24,provincia,Catamarca,5.725,222.1
+trigo,2024/25,provincia,Catamarca,3.855,195.65
+trigo,1995/96,provincia,Córdoba,138.344,197.67
+trigo,1996/97,provincia,Córdoba,153.629,143.82
+trigo,1997/98,provincia,Córdoba,68.2,110.66
+trigo,1998/99,provincia,Córdoba,139.571,104.72
+trigo,1999/00,provincia,Córdoba,208.894,105.93
+trigo,2000/01,provincia,Córdoba,219.84,113.73
+trigo,2001/02,provincia,Córdoba,252.471,108.21
+trigo,2002/03,provincia,Córdoba,199.227,114.48
+trigo,2003/04,provincia,Córdoba,223.528,107.06
+trigo,2004/05,provincia,Córdoba,234.127,100.13
+trigo,2005/06,provincia,Córdoba,186.865,109.1
+trigo,2006/07,provincia,Córdoba,238.467,144.86
+trigo,2007/08,provincia,Córdoba,647.579,163.48
+trigo,2008/09,provincia,Córdoba,156.594,134.87
+trigo,2009/10,provincia,Córdoba,42.341,142.71
+trigo,2010/11,provincia,Córdoba,269.295,150.55
+trigo,2011/12,provincia,Córdoba,226.349,158.39
+trigo,2012/13,provincia,Córdoba,229.141,166.23
+trigo,2013/14,provincia,Córdoba,179.034,174.07
+trigo,2014/15,provincia,Córdoba,344.552,113.81
+trigo,2015/16,provincia,Córdoba,336.023,148.78
+trigo,2016/17,provincia,Córdoba,784.568,160.68
+trigo,2017/18,provincia,Córdoba,849.665,202.52
+trigo,2018/19,provincia,Córdoba,617.69,188.81
+trigo,2019/20,provincia,Córdoba,796.424,195.68
+trigo,2020/21,provincia,Córdoba,322.825,201.45
+trigo,2021/22,provincia,Córdoba,1183.699,315.65
+trigo,2022/23,provincia,Córdoba,451.785,288.3
+trigo,2023/24,provincia,Córdoba,351.269,222.1
+trigo,2024/25,provincia,Córdoba,446.172,195.65
+trigo,1995/96,provincia,Corrientes,0.0,197.67
+trigo,1996/97,provincia,Corrientes,0.0,143.82
+trigo,1997/98,provincia,Corrientes,0.0,110.66
+trigo,1998/99,provincia,Corrientes,0.0,104.72
+trigo,1999/00,provincia,Corrientes,0.0,105.93
+trigo,2000/01,provincia,Corrientes,0.0,113.73
+trigo,2001/02,provincia,Corrientes,0.0,108.21
+trigo,2002/03,provincia,Corrientes,0.0,114.48
+trigo,2003/04,provincia,Corrientes,0.0,107.06
+trigo,2004/05,provincia,Corrientes,0.0,100.13
+trigo,2005/06,provincia,Corrientes,0.971,109.1
+trigo,2006/07,provincia,Corrientes,0.637,144.86
+trigo,2007/08,provincia,Corrientes,1.693,163.48
+trigo,2008/09,provincia,Corrientes,0.653,134.87
+trigo,2009/10,provincia,Corrientes,1.122,142.71
+trigo,2010/11,provincia,Corrientes,1.771,150.55
+trigo,2011/12,provincia,Corrientes,0.174,158.39
+trigo,2012/13,provincia,Corrientes,0.166,166.23
+trigo,2013/14,provincia,Corrientes,0.0,174.07
+trigo,2014/15,provincia,Corrientes,0.0,113.81
+trigo,2015/16,provincia,Corrientes,0.0,148.78
+trigo,2016/17,provincia,Corrientes,0.0,160.68
+trigo,2017/18,provincia,Corrientes,0.0,202.52
+trigo,2018/19,provincia,Corrientes,1.295,188.81
+trigo,2019/20,provincia,Corrientes,0.626,195.68
+trigo,2020/21,provincia,Corrientes,0.886,201.45
+trigo,2021/22,provincia,Corrientes,0.991,315.65
+trigo,2022/23,provincia,Corrientes,2.122,288.3
+trigo,2023/24,provincia,Corrientes,1.932,222.1
+trigo,2024/25,provincia,Corrientes,2.759,195.65
+trigo,1995/96,provincia,Chaco,4.942,197.67
+trigo,1996/97,provincia,Chaco,10.024,143.82
+trigo,1997/98,provincia,Chaco,2.999,110.66
+trigo,1998/99,provincia,Chaco,6.807,104.72
+trigo,1999/00,provincia,Chaco,5.239,105.93
+trigo,2000/01,provincia,Chaco,10.804,113.73
+trigo,2001/02,provincia,Chaco,17.01,108.21
+trigo,2002/03,provincia,Chaco,34.227,114.48
+trigo,2003/04,provincia,Chaco,13.424,107.06
+trigo,2004/05,provincia,Chaco,1.622,100.13
+trigo,2005/06,provincia,Chaco,9.638,109.1
+trigo,2006/07,provincia,Chaco,20.341,144.86
+trigo,2007/08,provincia,Chaco,2.676,163.48
+trigo,2008/09,provincia,Chaco,0.421,134.87
+trigo,2009/10,provincia,Chaco,0.1,142.71
+trigo,2010/11,provincia,Chaco,47.87,150.55
+trigo,2011/12,provincia,Chaco,37.041,158.39
+trigo,2012/13,provincia,Chaco,5.542,166.23
+trigo,2013/14,provincia,Chaco,3.671,174.07
+trigo,2014/15,provincia,Chaco,8.041,113.81
+trigo,2015/16,provincia,Chaco,22.318,148.78
+trigo,2016/17,provincia,Chaco,17.559,160.68
+trigo,2017/18,provincia,Chaco,39.059,202.52
+trigo,2018/19,provincia,Chaco,53.242,188.81
+trigo,2019/20,provincia,Chaco,65.997,195.68
+trigo,2020/21,provincia,Chaco,12.617,201.45
+trigo,2021/22,provincia,Chaco,48.341,315.65
+trigo,2022/23,provincia,Chaco,29.132,288.3
+trigo,2023/24,provincia,Chaco,15.058,222.1
+trigo,2024/25,provincia,Chaco,21.093,195.65
+trigo,1995/96,provincia,Chubut,0.0,197.67
+trigo,1996/97,provincia,Chubut,0.0,143.82
+trigo,1997/98,provincia,Chubut,0.0,110.66
+trigo,1998/99,provincia,Chubut,0.0,104.72
+trigo,1999/00,provincia,Chubut,0.0,105.93
+trigo,2000/01,provincia,Chubut,0.0,113.73
+trigo,2001/02,provincia,Chubut,0.0,108.21
+trigo,2002/03,provincia,Chubut,0.0,114.48
+trigo,2003/04,provincia,Chubut,0.0,107.06
+trigo,2004/05,provincia,Chubut,0.0,100.13
+trigo,2005/06,provincia,Chubut,0.0,109.1
+trigo,2006/07,provincia,Chubut,0.0,144.86
+trigo,2007/08,provincia,Chubut,0.0,163.48
+trigo,2008/09,provincia,Chubut,0.0,134.87
+trigo,2009/10,provincia,Chubut,0.0,142.71
+trigo,2010/11,provincia,Chubut,0.0,150.55
+trigo,2011/12,provincia,Chubut,0.0,158.39
+trigo,2012/13,provincia,Chubut,0.0,166.23
+trigo,2013/14,provincia,Chubut,0.0,174.07
+trigo,2014/15,provincia,Chubut,0.0,113.81
+trigo,2015/16,provincia,Chubut,0.0,148.78
+trigo,2016/17,provincia,Chubut,0.0,160.68
+trigo,2017/18,provincia,Chubut,0.0,202.52
+trigo,2018/19,provincia,Chubut,0.0,188.81
+trigo,2019/20,provincia,Chubut,0.0,195.68
+trigo,2020/21,provincia,Chubut,0.0,201.45
+trigo,2021/22,provincia,Chubut,0.0,315.65
+trigo,2022/23,provincia,Chubut,0.0,288.3
+trigo,2023/24,provincia,Chubut,0.0,222.1
+trigo,2024/25,provincia,Chubut,0.0,195.65
+trigo,1995/96,provincia,Entre Ríos,46.492,197.67
+trigo,1996/97,provincia,Entre Ríos,95.842,143.82
+trigo,1997/98,provincia,Entre Ríos,64.57,110.66
+trigo,1998/99,provincia,Entre Ríos,66.089,104.72
+trigo,1999/00,provincia,Entre Ríos,61.672,105.93
+trigo,2000/01,provincia,Entre Ríos,68.45,113.73
+trigo,2001/02,provincia,Entre Ríos,56.854,108.21
+trigo,2002/03,provincia,Entre Ríos,53.248,114.48
+trigo,2003/04,provincia,Entre Ríos,70.144,107.06
+trigo,2004/05,provincia,Entre Ríos,80.441,100.13
+trigo,2005/06,provincia,Entre Ríos,77.641,109.1
+trigo,2006/07,provincia,Entre Ríos,128.814,144.86
+trigo,2007/08,provincia,Entre Ríos,156.09,163.48
+trigo,2008/09,provincia,Entre Ríos,62.597,134.87
+trigo,2009/10,provincia,Entre Ríos,210.905,142.71
+trigo,2010/11,provincia,Entre Ríos,170.085,150.55
+trigo,2011/12,provincia,Entre Ríos,171.317,158.39
+trigo,2012/13,provincia,Entre Ríos,97.57,166.23
+trigo,2013/14,provincia,Entre Ríos,144.539,174.07
+trigo,2014/15,provincia,Entre Ríos,94.486,113.81
+trigo,2015/16,provincia,Entre Ríos,105.195,148.78
+trigo,2016/17,provincia,Entre Ríos,180.259,160.68
+trigo,2017/18,provincia,Entre Ríos,224.87,202.52
+trigo,2018/19,provincia,Entre Ríos,343.902,188.81
+trigo,2019/20,provincia,Entre Ríos,255.155,195.68
+trigo,2020/21,provincia,Entre Ríos,286.073,201.45
+trigo,2021/22,provincia,Entre Ríos,593.1,315.65
+trigo,2022/23,provincia,Entre Ríos,559.936,288.3
+trigo,2023/24,provincia,Entre Ríos,491.043,222.1
+trigo,2024/25,provincia,Entre Ríos,433.879,195.65
+trigo,1995/96,provincia,Formosa,0.0,197.67
+trigo,1996/97,provincia,Formosa,0.0,143.82
+trigo,1997/98,provincia,Formosa,0.003,110.66
+trigo,1998/99,provincia,Formosa,0.031,104.72
+trigo,1999/00,provincia,Formosa,0.0,105.93
+trigo,2000/01,provincia,Formosa,0.0,113.73
+trigo,2001/02,provincia,Formosa,0.0,108.21
+trigo,2002/03,provincia,Formosa,0.195,114.48
+trigo,2003/04,provincia,Formosa,0.142,107.06
+trigo,2004/05,provincia,Formosa,0.189,100.13
+trigo,2005/06,provincia,Formosa,0.098,109.1
+trigo,2006/07,provincia,Formosa,0.127,144.86
+trigo,2007/08,provincia,Formosa,0.362,163.48
+trigo,2008/09,provincia,Formosa,0.664,134.87
+trigo,2009/10,provincia,Formosa,0.3,142.71
+trigo,2010/11,provincia,Formosa,0.723,150.55
+trigo,2011/12,provincia,Formosa,0.158,158.39
+trigo,2012/13,provincia,Formosa,0.166,166.23
+trigo,2013/14,provincia,Formosa,0.0,174.07
+trigo,2014/15,provincia,Formosa,0.0,113.81
+trigo,2015/16,provincia,Formosa,0.0,148.78
+trigo,2016/17,provincia,Formosa,0.0,160.68
+trigo,2017/18,provincia,Formosa,0.0,202.52
+trigo,2018/19,provincia,Formosa,0.0,188.81
+trigo,2019/20,provincia,Formosa,0.0,195.68
+trigo,2020/21,provincia,Formosa,0.0,201.45
+trigo,2021/22,provincia,Formosa,0.982,315.65
+trigo,2022/23,provincia,Formosa,0.53,288.3
+trigo,2023/24,provincia,Formosa,0.389,222.1
+trigo,2024/25,provincia,Formosa,1.747,195.65
+trigo,1995/96,provincia,Jujuy,0.237,197.67
+trigo,1996/97,provincia,Jujuy,0.216,143.82
+trigo,1997/98,provincia,Jujuy,0.066,110.66
+trigo,1998/99,provincia,Jujuy,0.094,104.72
+trigo,1999/00,provincia,Jujuy,0.561,105.93
+trigo,2000/01,provincia,Jujuy,0.136,113.73
+trigo,2001/02,provincia,Jujuy,0.216,108.21
+trigo,2002/03,provincia,Jujuy,0.103,114.48
+trigo,2003/04,provincia,Jujuy,0.225,107.06
+trigo,2004/05,provincia,Jujuy,0.601,100.13
+trigo,2005/06,provincia,Jujuy,0.655,109.1
+trigo,2006/07,provincia,Jujuy,0.226,144.86
+trigo,2007/08,provincia,Jujuy,0.379,163.48
+trigo,2008/09,provincia,Jujuy,0.438,134.87
+trigo,2009/10,provincia,Jujuy,0.851,142.71
+trigo,2010/11,provincia,Jujuy,1.215,150.55
+trigo,2011/12,provincia,Jujuy,1.267,158.39
+trigo,2012/13,provincia,Jujuy,1.102,166.23
+trigo,2013/14,provincia,Jujuy,0.097,174.07
+trigo,2014/15,provincia,Jujuy,0.538,113.81
+trigo,2015/16,provincia,Jujuy,1.038,148.78
+trigo,2016/17,provincia,Jujuy,1.091,160.68
+trigo,2017/18,provincia,Jujuy,0.732,202.52
+trigo,2018/19,provincia,Jujuy,0.865,188.81
+trigo,2019/20,provincia,Jujuy,1.255,195.68
+trigo,2020/21,provincia,Jujuy,1.215,201.45
+trigo,2021/22,provincia,Jujuy,3.054,315.65
+trigo,2022/23,provincia,Jujuy,1.972,288.3
+trigo,2023/24,provincia,Jujuy,1.094,222.1
+trigo,2024/25,provincia,Jujuy,0.812,195.65
+trigo,1995/96,provincia,La Pampa,115.38,197.67
+trigo,1996/97,provincia,La Pampa,113.833,143.82
+trigo,1997/98,provincia,La Pampa,143.014,110.66
+trigo,1998/99,provincia,La Pampa,80.383,104.72
+trigo,1999/00,provincia,La Pampa,85.358,105.93
+trigo,2000/01,provincia,La Pampa,100.614,113.73
+trigo,2001/02,provincia,La Pampa,84.979,108.21
+trigo,2002/03,provincia,La Pampa,84.81,114.48
+trigo,2003/04,provincia,La Pampa,28.713,107.06
+trigo,2004/05,provincia,La Pampa,67.336,100.13
+trigo,2005/06,provincia,La Pampa,25.59,109.1
+trigo,2006/07,provincia,La Pampa,16.188,144.86
+trigo,2007/08,provincia,La Pampa,101.018,163.48
+trigo,2008/09,provincia,La Pampa,33.848,134.87
+trigo,2009/10,provincia,La Pampa,10.238,142.71
+trigo,2010/11,provincia,La Pampa,31.401,150.55
+trigo,2011/12,provincia,La Pampa,79.184,158.39
+trigo,2012/13,provincia,La Pampa,83.88,166.23
+trigo,2013/14,provincia,La Pampa,52.59,174.07
+trigo,2014/15,provincia,La Pampa,90.441,113.81
+trigo,2015/16,provincia,La Pampa,81.437,148.78
+trigo,2016/17,provincia,La Pampa,156.09,160.68
+trigo,2017/18,provincia,La Pampa,129.931,202.52
+trigo,2018/19,provincia,La Pampa,164.506,188.81
+trigo,2019/20,provincia,La Pampa,74.548,195.68
+trigo,2020/21,provincia,La Pampa,151.72,201.45
+trigo,2021/22,provincia,La Pampa,229.0,315.65
+trigo,2022/23,provincia,La Pampa,125.762,288.3
+trigo,2023/24,provincia,La Pampa,125.08,222.1
+trigo,2024/25,provincia,La Pampa,89.876,195.65
+trigo,1995/96,provincia,La Rioja,0.0,197.67
+trigo,1996/97,provincia,La Rioja,0.0,143.82
+trigo,1997/98,provincia,La Rioja,0.0,110.66
+trigo,1998/99,provincia,La Rioja,0.0,104.72
+trigo,1999/00,provincia,La Rioja,0.0,105.93
+trigo,2000/01,provincia,La Rioja,0.0,113.73
+trigo,2001/02,provincia,La Rioja,0.0,108.21
+trigo,2002/03,provincia,La Rioja,0.0,114.48
+trigo,2003/04,provincia,La Rioja,0.0,107.06
+trigo,2004/05,provincia,La Rioja,0.0,100.13
+trigo,2005/06,provincia,La Rioja,0.0,109.1
+trigo,2006/07,provincia,La Rioja,0.0,144.86
+trigo,2007/08,provincia,La Rioja,0.0,163.48
+trigo,2008/09,provincia,La Rioja,0.0,134.87
+trigo,2009/10,provincia,La Rioja,0.0,142.71
+trigo,2010/11,provincia,La Rioja,0.0,150.55
+trigo,2011/12,provincia,La Rioja,0.0,158.39
+trigo,2012/13,provincia,La Rioja,0.0,166.23
+trigo,2013/14,provincia,La Rioja,0.0,174.07
+trigo,2014/15,provincia,La Rioja,0.0,113.81
+trigo,2015/16,provincia,La Rioja,0.0,148.78
+trigo,2016/17,provincia,La Rioja,0.0,160.68
+trigo,2017/18,provincia,La Rioja,0.0,202.52
+trigo,2018/19,provincia,La Rioja,0.0,188.81
+trigo,2019/20,provincia,La Rioja,0.0,195.68
+trigo,2020/21,provincia,La Rioja,0.0,201.45
+trigo,2021/22,provincia,La Rioja,0.0,315.65
+trigo,2022/23,provincia,La Rioja,0.0,288.3
+trigo,2023/24,provincia,La Rioja,0.0,222.1
+trigo,2024/25,provincia,La Rioja,0.0,195.65
+trigo,1995/96,provincia,Misiones,0.0,197.67
+trigo,1996/97,provincia,Misiones,0.0,143.82
+trigo,1997/98,provincia,Misiones,0.0,110.66
+trigo,1998/99,provincia,Misiones,0.0,104.72
+trigo,1999/00,provincia,Misiones,0.0,105.93
+trigo,2000/01,provincia,Misiones,0.0,113.73
+trigo,2001/02,provincia,Misiones,0.0,108.21
+trigo,2002/03,provincia,Misiones,0.0,114.48
+trigo,2003/04,provincia,Misiones,0.0,107.06
+trigo,2004/05,provincia,Misiones,0.0,100.13
+trigo,2005/06,provincia,Misiones,0.0,109.1
+trigo,2006/07,provincia,Misiones,0.0,144.86
+trigo,2007/08,provincia,Misiones,0.0,163.48
+trigo,2008/09,provincia,Misiones,0.0,134.87
+trigo,2009/10,provincia,Misiones,0.0,142.71
+trigo,2010/11,provincia,Misiones,0.0,150.55
+trigo,2011/12,provincia,Misiones,0.0,158.39
+trigo,2012/13,provincia,Misiones,0.0,166.23
+trigo,2013/14,provincia,Misiones,0.0,174.07
+trigo,2014/15,provincia,Misiones,0.0,113.81
+trigo,2015/16,provincia,Misiones,0.0,148.78
+trigo,2016/17,provincia,Misiones,0.0,160.68
+trigo,2017/18,provincia,Misiones,0.0,202.52
+trigo,2018/19,provincia,Misiones,0.0,188.81
+trigo,2019/20,provincia,Misiones,0.0,195.68
+trigo,2020/21,provincia,Misiones,0.0,201.45
+trigo,2021/22,provincia,Misiones,0.0,315.65
+trigo,2022/23,provincia,Misiones,0.0,288.3
+trigo,2023/24,provincia,Misiones,0.0,222.1
+trigo,2024/25,provincia,Misiones,0.0,195.65
+trigo,1995/96,provincia,Neuquén,0.0,197.67
+trigo,1996/97,provincia,Neuquén,0.0,143.82
+trigo,1997/98,provincia,Neuquén,0.0,110.66
+trigo,1998/99,provincia,Neuquén,0.0,104.72
+trigo,1999/00,provincia,Neuquén,0.0,105.93
+trigo,2000/01,provincia,Neuquén,0.0,113.73
+trigo,2001/02,provincia,Neuquén,0.0,108.21
+trigo,2002/03,provincia,Neuquén,0.0,114.48
+trigo,2003/04,provincia,Neuquén,0.0,107.06
+trigo,2004/05,provincia,Neuquén,0.0,100.13
+trigo,2005/06,provincia,Neuquén,0.0,109.1
+trigo,2006/07,provincia,Neuquén,0.0,144.86
+trigo,2007/08,provincia,Neuquén,0.0,163.48
+trigo,2008/09,provincia,Neuquén,0.0,134.87
+trigo,2009/10,provincia,Neuquén,0.0,142.71
+trigo,2010/11,provincia,Neuquén,0.0,150.55
+trigo,2011/12,provincia,Neuquén,0.0,158.39
+trigo,2012/13,provincia,Neuquén,0.0,166.23
+trigo,2013/14,provincia,Neuquén,0.0,174.07
+trigo,2014/15,provincia,Neuquén,0.0,113.81
+trigo,2015/16,provincia,Neuquén,0.0,148.78
+trigo,2016/17,provincia,Neuquén,0.0,160.68
+trigo,2017/18,provincia,Neuquén,0.0,202.52
+trigo,2018/19,provincia,Neuquén,0.0,188.81
+trigo,2019/20,provincia,Neuquén,0.0,195.68
+trigo,2020/21,provincia,Neuquén,0.0,201.45
+trigo,2021/22,provincia,Neuquén,0.0,315.65
+trigo,2022/23,provincia,Neuquén,0.0,288.3
+trigo,2023/24,provincia,Neuquén,0.0,222.1
+trigo,2024/25,provincia,Neuquén,0.0,195.65
+trigo,1995/96,provincia,Río Negro,0.0,197.67
+trigo,1996/97,provincia,Río Negro,0.0,143.82
+trigo,1997/98,provincia,Río Negro,0.0,110.66
+trigo,1998/99,provincia,Río Negro,0.0,104.72
+trigo,1999/00,provincia,Río Negro,0.0,105.93
+trigo,2000/01,provincia,Río Negro,0.0,113.73
+trigo,2001/02,provincia,Río Negro,0.0,108.21
+trigo,2002/03,provincia,Río Negro,0.0,114.48
+trigo,2003/04,provincia,Río Negro,0.0,107.06
+trigo,2004/05,provincia,Río Negro,0.0,100.13
+trigo,2005/06,provincia,Río Negro,0.0,109.1
+trigo,2006/07,provincia,Río Negro,0.0,144.86
+trigo,2007/08,provincia,Río Negro,0.0,163.48
+trigo,2008/09,provincia,Río Negro,0.0,134.87
+trigo,2009/10,provincia,Río Negro,0.0,142.71
+trigo,2010/11,provincia,Río Negro,0.0,150.55
+trigo,2011/12,provincia,Río Negro,0.0,158.39
+trigo,2012/13,provincia,Río Negro,0.0,166.23
+trigo,2013/14,provincia,Río Negro,0.0,174.07
+trigo,2014/15,provincia,Río Negro,0.0,113.81
+trigo,2015/16,provincia,Río Negro,0.0,148.78
+trigo,2016/17,provincia,Río Negro,0.0,160.68
+trigo,2017/18,provincia,Río Negro,0.0,202.52
+trigo,2018/19,provincia,Río Negro,0.0,188.81
+trigo,2019/20,provincia,Río Negro,0.0,195.68
+trigo,2020/21,provincia,Río Negro,0.0,201.45
+trigo,2021/22,provincia,Río Negro,0.0,315.65
+trigo,2022/23,provincia,Río Negro,0.0,288.3
+trigo,2023/24,provincia,Río Negro,0.0,222.1
+trigo,2024/25,provincia,Río Negro,0.0,195.65
+trigo,1995/96,provincia,Salta,3.598,197.67
+trigo,1996/97,provincia,Salta,6.587,143.82
+trigo,1997/98,provincia,Salta,4.725,110.66
+trigo,1998/99,provincia,Salta,3.037,104.72
+trigo,1999/00,provincia,Salta,9.269,105.93
+trigo,2000/01,provincia,Salta,7.392,113.73
+trigo,2001/02,provincia,Salta,13.665,108.21
+trigo,2002/03,provincia,Salta,12.066,114.48
+trigo,2003/04,provincia,Salta,11.696,107.06
+trigo,2004/05,provincia,Salta,13.963,100.13
+trigo,2005/06,provincia,Salta,6.126,109.1
+trigo,2006/07,provincia,Salta,27.764,144.86
+trigo,2007/08,provincia,Salta,29.832,163.48
+trigo,2008/09,provincia,Salta,30.456,134.87
+trigo,2009/10,provincia,Salta,22.294,142.71
+trigo,2010/11,provincia,Salta,36.313,150.55
+trigo,2011/12,provincia,Salta,39.325,158.39
+trigo,2012/13,provincia,Salta,23.231,166.23
+trigo,2013/14,provincia,Salta,4.944,174.07
+trigo,2014/15,provincia,Salta,2.035,113.81
+trigo,2015/16,provincia,Salta,19.507,148.78
+trigo,2016/17,provincia,Salta,14.33,160.68
+trigo,2017/18,provincia,Salta,25.025,202.52
+trigo,2018/19,provincia,Salta,14.747,188.81
+trigo,2019/20,provincia,Salta,25.38,195.68
+trigo,2020/21,provincia,Salta,18.032,201.45
+trigo,2021/22,provincia,Salta,30.185,315.65
+trigo,2022/23,provincia,Salta,20.173,288.3
+trigo,2023/24,provincia,Salta,11.636,222.1
+trigo,2024/25,provincia,Salta,15.391,195.65
+trigo,1995/96,provincia,San Juan,0.0,197.67
+trigo,1996/97,provincia,San Juan,0.0,143.82
+trigo,1997/98,provincia,San Juan,0.0,110.66
+trigo,1998/99,provincia,San Juan,0.0,104.72
+trigo,1999/00,provincia,San Juan,0.0,105.93
+trigo,2000/01,provincia,San Juan,0.0,113.73
+trigo,2001/02,provincia,San Juan,0.0,108.21
+trigo,2002/03,provincia,San Juan,0.0,114.48
+trigo,2003/04,provincia,San Juan,0.0,107.06
+trigo,2004/05,provincia,San Juan,0.0,100.13
+trigo,2005/06,provincia,San Juan,0.0,109.1
+trigo,2006/07,provincia,San Juan,0.0,144.86
+trigo,2007/08,provincia,San Juan,0.0,163.48
+trigo,2008/09,provincia,San Juan,0.0,134.87
+trigo,2009/10,provincia,San Juan,0.0,142.71
+trigo,2010/11,provincia,San Juan,0.0,150.55
+trigo,2011/12,provincia,San Juan,0.0,158.39
+trigo,2012/13,provincia,San Juan,0.0,166.23
+trigo,2013/14,provincia,San Juan,0.0,174.07
+trigo,2014/15,provincia,San Juan,0.0,113.81
+trigo,2015/16,provincia,San Juan,0.0,148.78
+trigo,2016/17,provincia,San Juan,0.0,160.68
+trigo,2017/18,provincia,San Juan,0.0,202.52
+trigo,2018/19,provincia,San Juan,0.0,188.81
+trigo,2019/20,provincia,San Juan,0.0,195.68
+trigo,2020/21,provincia,San Juan,0.0,201.45
+trigo,2021/22,provincia,San Juan,0.0,315.65
+trigo,2022/23,provincia,San Juan,0.0,288.3
+trigo,2023/24,provincia,San Juan,0.0,222.1
+trigo,2024/25,provincia,San Juan,0.0,195.65
+trigo,1995/96,provincia,San Luis,0.079,197.67
+trigo,1996/97,provincia,San Luis,0.331,143.82
+trigo,1997/98,provincia,San Luis,0.077,110.66
+trigo,1998/99,provincia,San Luis,0.188,104.72
+trigo,1999/00,provincia,San Luis,0.561,105.93
+trigo,2000/01,provincia,San Luis,0.637,113.73
+trigo,2001/02,provincia,San Luis,0.79,108.21
+trigo,2002/03,provincia,San Luis,0.63,114.48
+trigo,2003/04,provincia,San Luis,0.107,107.06
+trigo,2004/05,provincia,San Luis,1.001,100.13
+trigo,2005/06,provincia,San Luis,0.838,109.1
+trigo,2006/07,provincia,San Luis,0.817,144.86
+trigo,2007/08,provincia,San Luis,1.385,163.48
+trigo,2008/09,provincia,San Luis,2.337,134.87
+trigo,2009/10,provincia,San Luis,0.882,142.71
+trigo,2010/11,provincia,San Luis,2.191,150.55
+trigo,2011/12,provincia,San Luis,2.153,158.39
+trigo,2012/13,provincia,San Luis,1.287,166.23
+trigo,2013/14,provincia,San Luis,1.904,174.07
+trigo,2014/15,provincia,San Luis,1.896,113.81
+trigo,2015/16,provincia,San Luis,5.673,148.78
+trigo,2016/17,provincia,San Luis,9.024,160.68
+trigo,2017/18,provincia,San Luis,14.637,202.52
+trigo,2018/19,provincia,San Luis,4.473,188.81
+trigo,2019/20,provincia,San Luis,7.27,195.68
+trigo,2020/21,provincia,San Luis,3.513,201.45
+trigo,2021/22,provincia,San Luis,13.579,315.65
+trigo,2022/23,provincia,San Luis,4.108,288.3
+trigo,2023/24,provincia,San Luis,5.016,222.1
+trigo,2024/25,provincia,San Luis,7.733,195.65
+trigo,1995/96,provincia,Santa Cruz,0.0,197.67
+trigo,1996/97,provincia,Santa Cruz,0.0,143.82
+trigo,1997/98,provincia,Santa Cruz,0.0,110.66
+trigo,1998/99,provincia,Santa Cruz,0.0,104.72
+trigo,1999/00,provincia,Santa Cruz,0.0,105.93
+trigo,2000/01,provincia,Santa Cruz,0.0,113.73
+trigo,2001/02,provincia,Santa Cruz,0.0,108.21
+trigo,2002/03,provincia,Santa Cruz,0.0,114.48
+trigo,2003/04,provincia,Santa Cruz,0.0,107.06
+trigo,2004/05,provincia,Santa Cruz,0.0,100.13
+trigo,2005/06,provincia,Santa Cruz,0.0,109.1
+trigo,2006/07,provincia,Santa Cruz,0.0,144.86
+trigo,2007/08,provincia,Santa Cruz,0.0,163.48
+trigo,2008/09,provincia,Santa Cruz,0.0,134.87
+trigo,2009/10,provincia,Santa Cruz,0.0,142.71
+trigo,2010/11,provincia,Santa Cruz,0.0,150.55
+trigo,2011/12,provincia,Santa Cruz,0.0,158.39
+trigo,2012/13,provincia,Santa Cruz,0.0,166.23
+trigo,2013/14,provincia,Santa Cruz,0.0,174.07
+trigo,2014/15,provincia,Santa Cruz,0.0,113.81
+trigo,2015/16,provincia,Santa Cruz,0.0,148.78
+trigo,2016/17,provincia,Santa Cruz,0.0,160.68
+trigo,2017/18,provincia,Santa Cruz,0.0,202.52
+trigo,2018/19,provincia,Santa Cruz,0.0,188.81
+trigo,2019/20,provincia,Santa Cruz,0.0,195.68
+trigo,2020/21,provincia,Santa Cruz,0.0,201.45
+trigo,2021/22,provincia,Santa Cruz,0.0,315.65
+trigo,2022/23,provincia,Santa Cruz,0.0,288.3
+trigo,2023/24,provincia,Santa Cruz,0.0,222.1
+trigo,2024/25,provincia,Santa Cruz,0.0,195.65
+trigo,1995/96,provincia,Santa Fe,283.676,197.67
+trigo,1996/97,provincia,Santa Fe,343.543,143.82
+trigo,1997/98,provincia,Santa Fe,167.008,110.66
+trigo,1998/99,provincia,Santa Fe,201.837,104.72
+trigo,1999/00,provincia,Santa Fe,291.731,105.93
+trigo,2000/01,provincia,Santa Fe,254.056,113.73
+trigo,2001/02,provincia,Santa Fe,231.389,108.21
+trigo,2002/03,provincia,Santa Fe,189.041,114.48
+trigo,2003/04,provincia,Santa Fe,203.197,107.06
+trigo,2004/05,provincia,Santa Fe,175.486,100.13
+trigo,2005/06,provincia,Santa Fe,201.534,109.1
+trigo,2006/07,provincia,Santa Fe,289.083,144.86
+trigo,2007/08,provincia,Santa Fe,433.814,163.48
+trigo,2008/09,provincia,Santa Fe,70.112,134.87
+trigo,2009/10,provincia,Santa Fe,141.851,142.71
+trigo,2010/11,provincia,Santa Fe,274.98,150.55
+trigo,2011/12,provincia,Santa Fe,242.95,158.39
+trigo,2012/13,provincia,Santa Fe,227.585,166.23
+trigo,2013/14,provincia,Santa Fe,231.973,174.07
+trigo,2014/15,provincia,Santa Fe,286.689,113.81
+trigo,2015/16,provincia,Santa Fe,278.547,148.78
+trigo,2016/17,provincia,Santa Fe,467.792,160.68
+trigo,2017/18,provincia,Santa Fe,661.459,202.52
+trigo,2018/19,provincia,Santa Fe,623.959,188.81
+trigo,2019/20,provincia,Santa Fe,819.288,195.68
+trigo,2020/21,provincia,Santa Fe,535.478,201.45
+trigo,2021/22,provincia,Santa Fe,1587.891,315.65
+trigo,2022/23,provincia,Santa Fe,563.377,288.3
+trigo,2023/24,provincia,Santa Fe,617.833,222.1
+trigo,2024/25,provincia,Santa Fe,683.76,195.65
+trigo,1995/96,provincia,Santiago del Estero,1.423,197.67
+trigo,1996/97,provincia,Santiago del Estero,7.579,143.82
+trigo,1997/98,provincia,Santiago del Estero,1.97,110.66
+trigo,1998/99,provincia,Santiago del Estero,10.032,104.72
+trigo,1999/00,provincia,Santiago del Estero,15.995,105.93
+trigo,2000/01,provincia,Santiago del Estero,15.012,113.73
+trigo,2001/02,provincia,Santiago del Estero,32.463,108.21
+trigo,2002/03,provincia,Santiago del Estero,32.112,114.48
+trigo,2003/04,provincia,Santiago del Estero,30.228,107.06
+trigo,2004/05,provincia,Santiago del Estero,7.433,100.13
+trigo,2005/06,provincia,Santiago del Estero,19.121,109.1
+trigo,2006/07,provincia,Santiago del Estero,29.533,144.86
+trigo,2007/08,provincia,Santiago del Estero,10.451,163.48
+trigo,2008/09,provincia,Santiago del Estero,6.327,134.87
+trigo,2009/10,provincia,Santiago del Estero,7.588,142.71
+trigo,2010/11,provincia,Santiago del Estero,121.539,150.55
+trigo,2011/12,provincia,Santiago del Estero,108.252,158.39
+trigo,2012/13,provincia,Santiago del Estero,39.38,166.23
+trigo,2013/14,provincia,Santiago del Estero,2.211,174.07
+trigo,2014/15,provincia,Santiago del Estero,12.87,113.81
+trigo,2015/16,provincia,Santiago del Estero,65.377,148.78
+trigo,2016/17,provincia,Santiago del Estero,87.574,160.68
+trigo,2017/18,provincia,Santiago del Estero,225.842,202.52
+trigo,2018/19,provincia,Santiago del Estero,133.93,188.81
+trigo,2019/20,provincia,Santiago del Estero,270.181,195.68
+trigo,2020/21,provincia,Santiago del Estero,94.359,201.45
+trigo,2021/22,provincia,Santiago del Estero,219.104,315.65
+trigo,2022/23,provincia,Santiago del Estero,73.045,288.3
+trigo,2023/24,provincia,Santiago del Estero,105.4,222.1
+trigo,2024/25,provincia,Santiago del Estero,84.728,195.65
+trigo,1995/96,provincia,Tucumán,3.617,197.67
+trigo,1996/97,provincia,Tucumán,6.673,143.82
+trigo,1997/98,provincia,Tucumán,4.947,110.66
+trigo,1998/99,provincia,Tucumán,7.121,104.72
+trigo,1999/00,provincia,Tucumán,11.44,105.93
+trigo,2000/01,provincia,Tucumán,7.961,113.73
+trigo,2001/02,provincia,Tucumán,21.642,108.21
+trigo,2002/03,provincia,Tucumán,18.317,114.48
+trigo,2003/04,provincia,Tucumán,9.346,107.06
+trigo,2004/05,provincia,Tucumán,25.308,100.13
+trigo,2005/06,provincia,Tucumán,28.295,109.1
+trigo,2006/07,provincia,Tucumán,43.177,144.86
+trigo,2007/08,provincia,Tucumán,30.28,163.48
+trigo,2008/09,provincia,Tucumán,16.217,134.87
+trigo,2009/10,provincia,Tucumán,18.955,142.71
+trigo,2010/11,provincia,Tucumán,37.293,150.55
+trigo,2011/12,provincia,Tucumán,28.976,158.39
+trigo,2012/13,provincia,Tucumán,12.918,166.23
+trigo,2013/14,provincia,Tucumán,0.566,174.07
+trigo,2014/15,provincia,Tucumán,6.081,113.81
+trigo,2015/16,provincia,Tucumán,22.327,148.78
+trigo,2016/17,provincia,Tucumán,18.578,160.68
+trigo,2017/18,provincia,Tucumán,29.887,202.52
+trigo,2018/19,provincia,Tucumán,11.01,188.81
+trigo,2019/20,provincia,Tucumán,19.381,195.68
+trigo,2020/21,provincia,Tucumán,12.256,201.45
+trigo,2021/22,provincia,Tucumán,16.507,315.65
+trigo,2022/23,provincia,Tucumán,14.832,288.3
+trigo,2023/24,provincia,Tucumán,22.69,222.1
+trigo,2024/25,provincia,Tucumán,16.95,195.65
+girasol,1995/96,nacional,Argentina,1380.168,248.33
+girasol,1996/97,nacional,Argentina,1344.406,246.68
+girasol,1997/98,nacional,Argentina,1542.767,275.5
+girasol,1998/99,nacional,Argentina,1417.048,198.88
+girasol,1999/00,nacional,Argentina,973.026,160.31
+girasol,2000/01,nacional,Argentina,604.972,190.3
+girasol,2001/02,nacional,Argentina,896.976,233.37
+girasol,2002/03,nacional,Argentina,915.947,246.62
+girasol,2003/04,nacional,Argentina,800.122,251.89
+girasol,2004/05,nacional,Argentina,951.928,259.94
+girasol,2005/06,nacional,Argentina,873.124,232.23
+girasol,2006/07,nacional,Argentina,1176.497,336.36
+girasol,2007/08,nacional,Argentina,2455.439,528.01
+girasol,2008/09,nacional,Argentina,810.346,326.3
+girasol,2009/10,nacional,Argentina,1007.977,453.24
+girasol,2010/11,nacional,Argentina,2199.414,599.01
+girasol,2011/12,nacional,Argentina,1945.786,582.48
+girasol,2012/13,nacional,Argentina,1609.983,518.61
+girasol,2013/14,nacional,Argentina,877.96,425.49
+girasol,2014/15,nacional,Argentina,1207.256,382.25
+girasol,2015/16,nacional,Argentina,1142.87,380.91
+girasol,2016/17,nacional,Argentina,1283.34,361.84
+girasol,2017/18,nacional,Argentina,1190.066,336.41
+girasol,2018/19,nacional,Argentina,1150.443,325.89
+girasol,2019/20,nacional,Argentina,1082.96,379.0
+girasol,2020/21,nacional,Argentina,1920.297,591.34
+girasol,2021/22,nacional,Argentina,2970.819,733.47
+girasol,2022/23,nacional,Argentina,2427.93,483.76
+girasol,2023/24,nacional,Argentina,1713.988,440.03
+girasol,2024/25,nacional,Argentina,2397.429,428.69
+girasol,1995/96,provincia,Buenos Aires,872.642,248.33
+girasol,1996/97,provincia,Buenos Aires,818.599,246.68
+girasol,1997/98,provincia,Buenos Aires,897.717,275.5
+girasol,1998/99,provincia,Buenos Aires,750.163,198.88
+girasol,1999/00,provincia,Buenos Aires,526.893,160.31
+girasol,2000/01,provincia,Buenos Aires,277.066,190.3
+girasol,2001/02,provincia,Buenos Aires,429.904,233.37
+girasol,2002/03,provincia,Buenos Aires,399.426,246.62
+girasol,2003/04,provincia,Buenos Aires,414.719,251.89
+girasol,2004/05,provincia,Buenos Aires,552.513,259.94
+girasol,2005/06,provincia,Buenos Aires,442.199,232.23
+girasol,2006/07,provincia,Buenos Aires,563.843,336.36
+girasol,2007/08,provincia,Buenos Aires,1271.284,528.01
+girasol,2008/09,provincia,Buenos Aires,463.286,326.3
+girasol,2009/10,provincia,Buenos Aires,688.586,453.24
+girasol,2010/11,provincia,Buenos Aires,1329.991,599.01
+girasol,2011/12,provincia,Buenos Aires,1047.596,582.48
+girasol,2012/13,provincia,Buenos Aires,802.876,518.61
+girasol,2013/14,provincia,Buenos Aires,494.721,425.49
+girasol,2014/15,provincia,Buenos Aires,752.14,382.25
+girasol,2015/16,provincia,Buenos Aires,658.699,380.91
+girasol,2016/17,provincia,Buenos Aires,682.133,361.84
+girasol,2017/18,provincia,Buenos Aires,610.365,336.41
+girasol,2018/19,provincia,Buenos Aires,553.588,325.89
+girasol,2019/20,provincia,Buenos Aires,556.015,379.0
+girasol,2020/21,provincia,Buenos Aires,1224.886,591.34
+girasol,2021/22,provincia,Buenos Aires,1693.567,733.47
+girasol,2022/23,provincia,Buenos Aires,1410.14,483.76
+girasol,2023/24,provincia,Buenos Aires,1035.528,440.03
+girasol,2024/25,provincia,Buenos Aires,1189.329,428.69
+girasol,1995/96,provincia,Catamarca,0.0,248.33
+girasol,1996/97,provincia,Catamarca,0.0,246.68
+girasol,1997/98,provincia,Catamarca,0.0,275.5
+girasol,1998/99,provincia,Catamarca,0.0,198.88
+girasol,1999/00,provincia,Catamarca,0.0,160.31
+girasol,2000/01,provincia,Catamarca,0.0,190.3
+girasol,2001/02,provincia,Catamarca,0.0,233.37
+girasol,2002/03,provincia,Catamarca,0.0,246.62
+girasol,2003/04,provincia,Catamarca,0.0,251.89
+girasol,2004/05,provincia,Catamarca,0.0,259.94
+girasol,2005/06,provincia,Catamarca,0.0,232.23
+girasol,2006/07,provincia,Catamarca,0.0,336.36
+girasol,2007/08,provincia,Catamarca,0.0,528.01
+girasol,2008/09,provincia,Catamarca,0.0,326.3
+girasol,2009/10,provincia,Catamarca,0.0,453.24
+girasol,2010/11,provincia,Catamarca,0.0,599.01
+girasol,2011/12,provincia,Catamarca,0.0,582.48
+girasol,2012/13,provincia,Catamarca,0.0,518.61
+girasol,2013/14,provincia,Catamarca,0.0,425.49
+girasol,2014/15,provincia,Catamarca,0.0,382.25
+girasol,2015/16,provincia,Catamarca,0.0,380.91
+girasol,2016/17,provincia,Catamarca,0.0,361.84
+girasol,2017/18,provincia,Catamarca,0.0,336.41
+girasol,2018/19,provincia,Catamarca,0.0,325.89
+girasol,2019/20,provincia,Catamarca,0.0,379.0
+girasol,2020/21,provincia,Catamarca,0.057,591.34
+girasol,2021/22,provincia,Catamarca,0.117,733.47
+girasol,2022/23,provincia,Catamarca,0.048,483.76
+girasol,2023/24,provincia,Catamarca,0.046,440.03
+girasol,2024/25,provincia,Catamarca,0.107,428.69
+girasol,1995/96,provincia,Córdoba,159.18,248.33
+girasol,1996/97,provincia,Córdoba,152.202,246.68
+girasol,1997/98,provincia,Córdoba,197.726,275.5
+girasol,1998/99,provincia,Córdoba,188.558,198.88
+girasol,1999/00,provincia,Córdoba,163.003,160.31
+girasol,2000/01,provincia,Córdoba,131.535,190.3
+girasol,2001/02,provincia,Córdoba,133.578,233.37
+girasol,2002/03,provincia,Córdoba,129.032,246.62
+girasol,2003/04,provincia,Córdoba,26.892,251.89
+girasol,2004/05,provincia,Córdoba,60.847,259.94
+girasol,2005/06,provincia,Córdoba,45.375,232.23
+girasol,2006/07,provincia,Córdoba,59.009,336.36
+girasol,2007/08,provincia,Córdoba,109.161,528.01
+girasol,2008/09,provincia,Córdoba,39.239,326.3
+girasol,2009/10,provincia,Córdoba,33.993,453.24
+girasol,2010/11,provincia,Córdoba,51.024,599.01
+girasol,2011/12,provincia,Córdoba,46.173,582.48
+girasol,2012/13,provincia,Córdoba,42.982,518.61
+girasol,2013/14,provincia,Córdoba,19.041,425.49
+girasol,2014/15,provincia,Córdoba,23.063,382.25
+girasol,2015/16,provincia,Córdoba,14.072,380.91
+girasol,2016/17,provincia,Córdoba,16.556,361.84
+girasol,2017/18,provincia,Córdoba,8.996,336.41
+girasol,2018/19,provincia,Córdoba,24.921,325.89
+girasol,2019/20,provincia,Córdoba,29.783,379.0
+girasol,2020/21,provincia,Córdoba,83.749,591.34
+girasol,2021/22,provincia,Córdoba,148.528,733.47
+girasol,2022/23,provincia,Córdoba,146.092,483.76
+girasol,2023/24,provincia,Córdoba,138.216,440.03
+girasol,2024/25,provincia,Córdoba,297.394,428.69
+girasol,1995/96,provincia,Corrientes,0.0,248.33
+girasol,1996/97,provincia,Corrientes,0.044,246.68
+girasol,1997/98,provincia,Corrientes,0.0,275.5
+girasol,1998/99,provincia,Corrientes,0.0,198.88
+girasol,1999/00,provincia,Corrientes,0.0,160.31
+girasol,2000/01,provincia,Corrientes,0.0,190.3
+girasol,2001/02,provincia,Corrientes,0.0,233.37
+girasol,2002/03,provincia,Corrientes,0.0,246.62
+girasol,2003/04,provincia,Corrientes,0.0,251.89
+girasol,2004/05,provincia,Corrientes,0.0,259.94
+girasol,2005/06,provincia,Corrientes,0.093,232.23
+girasol,2006/07,provincia,Corrientes,1.271,336.36
+girasol,2007/08,provincia,Corrientes,2.281,528.01
+girasol,2008/09,provincia,Corrientes,0.0,326.3
+girasol,2009/10,provincia,Corrientes,1.464,453.24
+girasol,2010/11,provincia,Corrientes,1.547,599.01
+girasol,2011/12,provincia,Corrientes,0.0,582.48
+girasol,2012/13,provincia,Corrientes,0.0,518.61
+girasol,2013/14,provincia,Corrientes,0.0,425.49
+girasol,2014/15,provincia,Corrientes,0.0,382.25
+girasol,2015/16,provincia,Corrientes,0.0,380.91
+girasol,2016/17,provincia,Corrientes,0.0,361.84
+girasol,2017/18,provincia,Corrientes,0.0,336.41
+girasol,2018/19,provincia,Corrientes,0.0,325.89
+girasol,2019/20,provincia,Corrientes,0.0,379.0
+girasol,2020/21,provincia,Corrientes,0.26,591.34
+girasol,2021/22,provincia,Corrientes,0.323,733.47
+girasol,2022/23,provincia,Corrientes,0.474,483.76
+girasol,2023/24,provincia,Corrientes,0.924,440.03
+girasol,2024/25,provincia,Corrientes,1.482,428.69
+girasol,1995/96,provincia,Chaco,18.677,248.33
+girasol,1996/97,provincia,Chaco,19.611,246.68
+girasol,1997/98,provincia,Chaco,19.836,275.5
+girasol,1998/99,provincia,Chaco,50.078,198.88
+girasol,1999/00,provincia,Chaco,56.846,160.31
+girasol,2000/01,provincia,Chaco,33.71,190.3
+girasol,2001/02,provincia,Chaco,74.307,233.37
+girasol,2002/03,provincia,Chaco,123.557,246.62
+girasol,2003/04,provincia,Chaco,108.277,251.89
+girasol,2004/05,provincia,Chaco,48.905,259.94
+girasol,2005/06,provincia,Chaco,152.159,232.23
+girasol,2006/07,provincia,Chaco,191.628,336.36
+girasol,2007/08,provincia,Chaco,248.566,528.01
+girasol,2008/09,provincia,Chaco,40.938,326.3
+girasol,2009/10,provincia,Chaco,16.824,453.24
+girasol,2010/11,provincia,Chaco,219.244,599.01
+girasol,2011/12,provincia,Chaco,241.409,582.48
+girasol,2012/13,provincia,Chaco,284.904,518.61
+girasol,2013/14,provincia,Chaco,67.189,425.49
+girasol,2014/15,provincia,Chaco,104.18,382.25
+girasol,2015/16,provincia,Chaco,192.011,380.91
+girasol,2016/17,provincia,Chaco,257.278,361.84
+girasol,2017/18,provincia,Chaco,231.655,336.41
+girasol,2018/19,provincia,Chaco,230.162,325.89
+girasol,2019/20,provincia,Chaco,171.463,379.0
+girasol,2020/21,provincia,Chaco,71.418,591.34
+girasol,2021/22,provincia,Chaco,228.397,733.47
+girasol,2022/23,provincia,Chaco,148.364,483.76
+girasol,2023/24,provincia,Chaco,97.493,440.03
+girasol,2024/25,provincia,Chaco,135.713,428.69
+girasol,1995/96,provincia,Entre Ríos,35.288,248.33
+girasol,1996/97,provincia,Entre Ríos,48.325,246.68
+girasol,1997/98,provincia,Entre Ríos,46.102,275.5
+girasol,1998/99,provincia,Entre Ríos,56.462,198.88
+girasol,1999/00,provincia,Entre Ríos,13.21,160.31
+girasol,2000/01,provincia,Entre Ríos,17.003,190.3
+girasol,2001/02,provincia,Entre Ríos,14.191,233.37
+girasol,2002/03,provincia,Entre Ríos,15.611,246.62
+girasol,2003/04,provincia,Entre Ríos,16.365,251.89
+girasol,2004/05,provincia,Entre Ríos,17.521,259.94
+girasol,2005/06,provincia,Entre Ríos,27.071,232.23
+girasol,2006/07,provincia,Entre Ríos,27.232,336.36
+girasol,2007/08,provincia,Entre Ríos,79.302,528.01
+girasol,2008/09,provincia,Entre Ríos,20.139,326.3
+girasol,2009/10,provincia,Entre Ríos,7.725,453.24
+girasol,2010/11,provincia,Entre Ríos,20.07,599.01
+girasol,2011/12,provincia,Entre Ríos,9.512,582.48
+girasol,2012/13,provincia,Entre Ríos,5.845,518.61
+girasol,2013/14,provincia,Entre Ríos,4.046,425.49
+girasol,2014/15,provincia,Entre Ríos,2.591,382.25
+girasol,2015/16,provincia,Entre Ríos,2.324,380.91
+girasol,2016/17,provincia,Entre Ríos,3.413,361.84
+girasol,2017/18,provincia,Entre Ríos,5.241,336.41
+girasol,2018/19,provincia,Entre Ríos,5.486,325.89
+girasol,2019/20,provincia,Entre Ríos,2.413,379.0
+girasol,2020/21,provincia,Entre Ríos,9.742,591.34
+girasol,2021/22,provincia,Entre Ríos,18.185,733.47
+girasol,2022/23,provincia,Entre Ríos,14.045,483.76
+girasol,2023/24,provincia,Entre Ríos,7.954,440.03
+girasol,2024/25,provincia,Entre Ríos,25.889,428.69
+girasol,1995/96,provincia,Formosa,0.022,248.33
+girasol,1996/97,provincia,Formosa,0.014,246.68
+girasol,1997/98,provincia,Formosa,0.066,275.5
+girasol,1998/99,provincia,Formosa,0.577,198.88
+girasol,1999/00,provincia,Formosa,0.128,160.31
+girasol,2000/01,provincia,Formosa,0.0,190.3
+girasol,2001/02,provincia,Formosa,0.05,233.37
+girasol,2002/03,provincia,Formosa,0.247,246.62
+girasol,2003/04,provincia,Formosa,0.27,251.89
+girasol,2004/05,provincia,Formosa,0.338,259.94
+girasol,2005/06,provincia,Formosa,0.237,232.23
+girasol,2006/07,provincia,Formosa,1.514,336.36
+girasol,2007/08,provincia,Formosa,2.429,528.01
+girasol,2008/09,provincia,Formosa,1.37,326.3
+girasol,2009/10,provincia,Formosa,1.632,453.24
+girasol,2010/11,provincia,Formosa,2.156,599.01
+girasol,2011/12,provincia,Formosa,0.0,582.48
+girasol,2012/13,provincia,Formosa,0.0,518.61
+girasol,2013/14,provincia,Formosa,0.0,425.49
+girasol,2014/15,provincia,Formosa,4.599,382.25
+girasol,2015/16,provincia,Formosa,0.0,380.91
+girasol,2016/17,provincia,Formosa,4.234,361.84
+girasol,2017/18,provincia,Formosa,5.147,336.41
+girasol,2018/19,provincia,Formosa,0.0,325.89
+girasol,2019/20,provincia,Formosa,2.047,379.0
+girasol,2020/21,provincia,Formosa,0.862,591.34
+girasol,2021/22,provincia,Formosa,1.386,733.47
+girasol,2022/23,provincia,Formosa,1.088,483.76
+girasol,2023/24,provincia,Formosa,1.347,440.03
+girasol,2024/25,provincia,Formosa,2.82,428.69
+girasol,1995/96,provincia,Jujuy,0.0,248.33
+girasol,1996/97,provincia,Jujuy,0.0,246.68
+girasol,1997/98,provincia,Jujuy,0.0,275.5
+girasol,1998/99,provincia,Jujuy,0.0,198.88
+girasol,1999/00,provincia,Jujuy,0.0,160.31
+girasol,2000/01,provincia,Jujuy,0.0,190.3
+girasol,2001/02,provincia,Jujuy,0.0,233.37
+girasol,2002/03,provincia,Jujuy,0.0,246.62
+girasol,2003/04,provincia,Jujuy,0.0,251.89
+girasol,2004/05,provincia,Jujuy,0.0,259.94
+girasol,2005/06,provincia,Jujuy,0.0,232.23
+girasol,2006/07,provincia,Jujuy,0.0,336.36
+girasol,2007/08,provincia,Jujuy,0.0,528.01
+girasol,2008/09,provincia,Jujuy,0.0,326.3
+girasol,2009/10,provincia,Jujuy,0.0,453.24
+girasol,2010/11,provincia,Jujuy,0.0,599.01
+girasol,2011/12,provincia,Jujuy,0.0,582.48
+girasol,2012/13,provincia,Jujuy,0.0,518.61
+girasol,2013/14,provincia,Jujuy,0.0,425.49
+girasol,2014/15,provincia,Jujuy,0.0,382.25
+girasol,2015/16,provincia,Jujuy,0.0,380.91
+girasol,2016/17,provincia,Jujuy,0.0,361.84
+girasol,2017/18,provincia,Jujuy,0.0,336.41
+girasol,2018/19,provincia,Jujuy,0.0,325.89
+girasol,2019/20,provincia,Jujuy,0.0,379.0
+girasol,2020/21,provincia,Jujuy,0.0,591.34
+girasol,2021/22,provincia,Jujuy,0.0,733.47
+girasol,2022/23,provincia,Jujuy,0.0,483.76
+girasol,2023/24,provincia,Jujuy,0.0,440.03
+girasol,2024/25,provincia,Jujuy,0.0,428.69
+girasol,1995/96,provincia,La Pampa,181.554,248.33
+girasol,1996/97,provincia,La Pampa,203.856,246.68
+girasol,1997/98,provincia,La Pampa,271.257,275.5
+girasol,1998/99,provincia,La Pampa,236.429,198.88
+girasol,1999/00,provincia,La Pampa,136.446,160.31
+girasol,2000/01,provincia,La Pampa,95.194,190.3
+girasol,2001/02,provincia,La Pampa,164.124,233.37
+girasol,2002/03,provincia,La Pampa,146.862,246.62
+girasol,2003/04,provincia,La Pampa,117.624,251.89
+girasol,2004/05,provincia,La Pampa,174.16,259.94
+girasol,2005/06,provincia,La Pampa,98.922,232.23
+girasol,2006/07,provincia,La Pampa,153.397,336.36
+girasol,2007/08,provincia,La Pampa,330.856,528.01
+girasol,2008/09,provincia,La Pampa,135.555,326.3
+girasol,2009/10,provincia,La Pampa,177.149,453.24
+girasol,2010/11,provincia,La Pampa,334.325,599.01
+girasol,2011/12,provincia,La Pampa,365.687,582.48
+girasol,2012/13,provincia,La Pampa,275.429,518.61
+girasol,2013/14,provincia,La Pampa,166.184,425.49
+girasol,2014/15,provincia,La Pampa,210.639,382.25
+girasol,2015/16,provincia,La Pampa,179.5,380.91
+girasol,2016/17,provincia,La Pampa,161.866,361.84
+girasol,2017/18,provincia,La Pampa,147.761,336.41
+girasol,2018/19,provincia,La Pampa,115.44,325.89
+girasol,2019/20,provincia,La Pampa,91.237,379.0
+girasol,2020/21,provincia,La Pampa,201.368,591.34
+girasol,2021/22,provincia,La Pampa,362.661,733.47
+girasol,2022/23,provincia,La Pampa,301.765,483.76
+girasol,2023/24,provincia,La Pampa,223.927,440.03
+girasol,2024/25,provincia,La Pampa,304.879,428.69
+girasol,1995/96,provincia,Mendoza,0.0,248.33
+girasol,1996/97,provincia,Mendoza,0.0,246.68
+girasol,1997/98,provincia,Mendoza,0.0,275.5
+girasol,1998/99,provincia,Mendoza,0.0,198.88
+girasol,1999/00,provincia,Mendoza,0.0,160.31
+girasol,2000/01,provincia,Mendoza,0.0,190.3
+girasol,2001/02,provincia,Mendoza,0.0,233.37
+girasol,2002/03,provincia,Mendoza,0.0,246.62
+girasol,2003/04,provincia,Mendoza,0.0,251.89
+girasol,2004/05,provincia,Mendoza,0.0,259.94
+girasol,2005/06,provincia,Mendoza,0.0,232.23
+girasol,2006/07,provincia,Mendoza,0.0,336.36
+girasol,2007/08,provincia,Mendoza,0.0,528.01
+girasol,2008/09,provincia,Mendoza,0.0,326.3
+girasol,2009/10,provincia,Mendoza,0.0,453.24
+girasol,2010/11,provincia,Mendoza,0.0,599.01
+girasol,2011/12,provincia,Mendoza,0.0,582.48
+girasol,2012/13,provincia,Mendoza,0.0,518.61
+girasol,2013/14,provincia,Mendoza,0.0,425.49
+girasol,2014/15,provincia,Mendoza,0.0,382.25
+girasol,2015/16,provincia,Mendoza,0.0,380.91
+girasol,2016/17,provincia,Mendoza,0.0,361.84
+girasol,2017/18,provincia,Mendoza,0.0,336.41
+girasol,2018/19,provincia,Mendoza,0.0,325.89
+girasol,2019/20,provincia,Mendoza,0.0,379.0
+girasol,2020/21,provincia,Mendoza,0.0,591.34
+girasol,2021/22,provincia,Mendoza,0.0,733.47
+girasol,2022/23,provincia,Mendoza,0.0,483.76
+girasol,2023/24,provincia,Mendoza,0.0,440.03
+girasol,2024/25,provincia,Mendoza,0.0,428.69
+girasol,1995/96,provincia,Misiones,0.0,248.33
+girasol,1996/97,provincia,Misiones,0.0,246.68
+girasol,1997/98,provincia,Misiones,0.0,275.5
+girasol,1998/99,provincia,Misiones,0.0,198.88
+girasol,1999/00,provincia,Misiones,0.0,160.31
+girasol,2000/01,provincia,Misiones,0.0,190.3
+girasol,2001/02,provincia,Misiones,0.0,233.37
+girasol,2002/03,provincia,Misiones,0.0,246.62
+girasol,2003/04,provincia,Misiones,0.0,251.89
+girasol,2004/05,provincia,Misiones,0.0,259.94
+girasol,2005/06,provincia,Misiones,0.0,232.23
+girasol,2006/07,provincia,Misiones,0.0,336.36
+girasol,2007/08,provincia,Misiones,0.0,528.01
+girasol,2008/09,provincia,Misiones,0.0,326.3
+girasol,2009/10,provincia,Misiones,0.0,453.24
+girasol,2010/11,provincia,Misiones,0.0,599.01
+girasol,2011/12,provincia,Misiones,0.0,582.48
+girasol,2012/13,provincia,Misiones,0.0,518.61
+girasol,2013/14,provincia,Misiones,0.0,425.49
+girasol,2014/15,provincia,Misiones,0.0,382.25
+girasol,2015/16,provincia,Misiones,0.0,380.91
+girasol,2016/17,provincia,Misiones,0.0,361.84
+girasol,2017/18,provincia,Misiones,0.0,336.41
+girasol,2018/19,provincia,Misiones,0.0,325.89
+girasol,2019/20,provincia,Misiones,0.0,379.0
+girasol,2020/21,provincia,Misiones,0.0,591.34
+girasol,2021/22,provincia,Misiones,0.0,733.47
+girasol,2022/23,provincia,Misiones,0.0,483.76
+girasol,2023/24,provincia,Misiones,0.0,440.03
+girasol,2024/25,provincia,Misiones,0.0,428.69
+girasol,1995/96,provincia,Salta,0.0,248.33
+girasol,1996/97,provincia,Salta,0.0,246.68
+girasol,1997/98,provincia,Salta,0.0,275.5
+girasol,1998/99,provincia,Salta,0.636,198.88
+girasol,1999/00,provincia,Salta,0.0,160.31
+girasol,2000/01,provincia,Salta,0.0,190.3
+girasol,2001/02,provincia,Salta,0.0,233.37
+girasol,2002/03,provincia,Salta,0.0,246.62
+girasol,2003/04,provincia,Salta,0.0,251.89
+girasol,2004/05,provincia,Salta,0.0,259.94
+girasol,2005/06,provincia,Salta,0.0,232.23
+girasol,2006/07,provincia,Salta,0.0,336.36
+girasol,2007/08,provincia,Salta,0.0,528.01
+girasol,2008/09,provincia,Salta,0.0,326.3
+girasol,2009/10,provincia,Salta,0.0,453.24
+girasol,2010/11,provincia,Salta,0.0,599.01
+girasol,2011/12,provincia,Salta,0.0,582.48
+girasol,2012/13,provincia,Salta,0.0,518.61
+girasol,2013/14,provincia,Salta,0.0,425.49
+girasol,2014/15,provincia,Salta,0.0,382.25
+girasol,2015/16,provincia,Salta,0.0,380.91
+girasol,2016/17,provincia,Salta,0.0,361.84
+girasol,2017/18,provincia,Salta,0.0,336.41
+girasol,2018/19,provincia,Salta,0.0,325.89
+girasol,2019/20,provincia,Salta,0.503,379.0
+girasol,2020/21,provincia,Salta,1.306,591.34
+girasol,2021/22,provincia,Salta,1.511,733.47
+girasol,2022/23,provincia,Salta,0.877,483.76
+girasol,2023/24,provincia,Salta,0.422,440.03
+girasol,2024/25,provincia,Salta,0.212,428.69
+girasol,1995/96,provincia,San Luis,5.96,248.33
+girasol,1996/97,provincia,San Luis,4.169,246.68
+girasol,1997/98,provincia,San Luis,9.422,275.5
+girasol,1998/99,provincia,San Luis,11.436,198.88
+girasol,1999/00,provincia,San Luis,10.228,160.31
+girasol,2000/01,provincia,San Luis,9.515,190.3
+girasol,2001/02,provincia,San Luis,19.323,233.37
+girasol,2002/03,provincia,San Luis,11.591,246.62
+girasol,2003/04,provincia,San Luis,5.038,251.89
+girasol,2004/05,provincia,San Luis,35.092,259.94
+girasol,2005/06,provincia,San Luis,12.912,232.23
+girasol,2006/07,provincia,San Luis,55.99,336.36
+girasol,2007/08,provincia,San Luis,109.245,528.01
+girasol,2008/09,provincia,San Luis,48.064,326.3
+girasol,2009/10,provincia,San Luis,18.877,453.24
+girasol,2010/11,provincia,San Luis,31.843,599.01
+girasol,2011/12,provincia,San Luis,32.019,582.48
+girasol,2012/13,provincia,San Luis,25.801,518.61
+girasol,2013/14,provincia,San Luis,19.436,425.49
+girasol,2014/15,provincia,San Luis,12.442,382.25
+girasol,2015/16,provincia,San Luis,9.504,380.91
+girasol,2016/17,provincia,San Luis,6.699,361.84
+girasol,2017/18,provincia,San Luis,5.42,336.41
+girasol,2018/19,provincia,San Luis,7.427,325.89
+girasol,2019/20,provincia,San Luis,10.517,379.0
+girasol,2020/21,provincia,San Luis,47.136,591.34
+girasol,2021/22,provincia,San Luis,112.679,733.47
+girasol,2022/23,provincia,San Luis,79.874,483.76
+girasol,2023/24,provincia,San Luis,50.665,440.03
+girasol,2024/25,provincia,San Luis,85.862,428.69
+girasol,1995/96,provincia,Santa Fe,100.489,248.33
+girasol,1996/97,provincia,Santa Fe,90.828,246.68
+girasol,1997/98,provincia,Santa Fe,97.61,275.5
+girasol,1998/99,provincia,Santa Fe,110.18,198.88
+girasol,1999/00,provincia,Santa Fe,58.577,160.31
+girasol,2000/01,provincia,Santa Fe,36.016,190.3
+girasol,2001/02,provincia,Santa Fe,48.569,233.37
+girasol,2002/03,provincia,Santa Fe,51.396,246.62
+girasol,2003/04,provincia,Santa Fe,69.174,251.89
+girasol,2004/05,provincia,Santa Fe,56.81,259.94
+girasol,2005/06,provincia,Santa Fe,74.465,232.23
+girasol,2006/07,provincia,Santa Fe,101.426,336.36
+girasol,2007/08,provincia,Santa Fe,252.027,528.01
+girasol,2008/09,provincia,Santa Fe,60.085,326.3
+girasol,2009/10,provincia,Santa Fe,59.742,453.24
+girasol,2010/11,provincia,Santa Fe,175.998,599.01
+girasol,2011/12,provincia,Santa Fe,175.658,582.48
+girasol,2012/13,provincia,Santa Fe,152.674,518.61
+girasol,2013/14,provincia,Santa Fe,104.168,425.49
+girasol,2014/15,provincia,Santa Fe,90.87,382.25
+girasol,2015/16,provincia,Santa Fe,82.836,380.91
+girasol,2016/17,provincia,Santa Fe,125.28,361.84
+girasol,2017/18,provincia,Santa Fe,159.511,336.41
+girasol,2018/19,provincia,Santa Fe,140.999,325.89
+girasol,2019/20,provincia,Santa Fe,161.578,379.0
+girasol,2020/21,provincia,Santa Fe,247.139,591.34
+girasol,2021/22,provincia,Santa Fe,370.216,733.47
+girasol,2022/23,provincia,Santa Fe,290.838,483.76
+girasol,2023/24,provincia,Santa Fe,147.912,440.03
+girasol,2024/25,provincia,Santa Fe,322.156,428.69
+girasol,1995/96,provincia,Santiago del Estero,6.357,248.33
+girasol,1996/97,provincia,Santiago del Estero,6.759,246.68
+girasol,1997/98,provincia,Santiago del Estero,3.03,275.5
+girasol,1998/99,provincia,Santiago del Estero,12.39,198.88
+girasol,1999/00,provincia,Santiago del Estero,7.695,160.31
+girasol,2000/01,provincia,Santiago del Estero,4.933,190.3
+girasol,2001/02,provincia,Santiago del Estero,12.929,233.37
+girasol,2002/03,provincia,Santiago del Estero,38.226,246.62
+girasol,2003/04,provincia,Santiago del Estero,41.763,251.89
+girasol,2004/05,provincia,Santiago del Estero,5.742,259.94
+girasol,2005/06,provincia,Santiago del Estero,19.691,232.23
+girasol,2006/07,provincia,Santiago del Estero,21.187,336.36
+girasol,2007/08,provincia,Santiago del Estero,50.288,528.01
+girasol,2008/09,provincia,Santiago del Estero,1.671,326.3
+girasol,2009/10,provincia,Santiago del Estero,1.985,453.24
+girasol,2010/11,provincia,Santiago del Estero,33.215,599.01
+girasol,2011/12,provincia,Santiago del Estero,27.732,582.48
+girasol,2012/13,provincia,Santiago del Estero,19.474,518.61
+girasol,2013/14,provincia,Santiago del Estero,3.174,425.49
+girasol,2014/15,provincia,Santiago del Estero,6.731,382.25
+girasol,2015/16,provincia,Santiago del Estero,3.923,380.91
+girasol,2016/17,provincia,Santiago del Estero,25.882,361.84
+girasol,2017/18,provincia,Santiago del Estero,15.969,336.41
+girasol,2018/19,provincia,Santiago del Estero,72.419,325.89
+girasol,2019/20,provincia,Santiago del Estero,57.404,379.0
+girasol,2020/21,provincia,Santiago del Estero,32.194,591.34
+girasol,2021/22,provincia,Santiago del Estero,33.025,733.47
+girasol,2022/23,provincia,Santiago del Estero,34.199,483.76
+girasol,2023/24,provincia,Santiago del Estero,9.442,440.03
+girasol,2024/25,provincia,Santiago del Estero,31.317,428.69
+girasol,1995/96,provincia,Tucumán,0.0,248.33
+girasol,1996/97,provincia,Tucumán,0.0,246.68
+girasol,1997/98,provincia,Tucumán,0.0,275.5
+girasol,1998/99,provincia,Tucumán,0.139,198.88
+girasol,1999/00,provincia,Tucumán,0.0,160.31
+girasol,2000/01,provincia,Tucumán,0.0,190.3
+girasol,2001/02,provincia,Tucumán,0.0,233.37
+girasol,2002/03,provincia,Tucumán,0.0,246.62
+girasol,2003/04,provincia,Tucumán,0.0,251.89
+girasol,2004/05,provincia,Tucumán,0.0,259.94
+girasol,2005/06,provincia,Tucumán,0.0,232.23
+girasol,2006/07,provincia,Tucumán,0.0,336.36
+girasol,2007/08,provincia,Tucumán,0.0,528.01
+girasol,2008/09,provincia,Tucumán,0.0,326.3
+girasol,2009/10,provincia,Tucumán,0.0,453.24
+girasol,2010/11,provincia,Tucumán,0.0,599.01
+girasol,2011/12,provincia,Tucumán,0.0,582.48
+girasol,2012/13,provincia,Tucumán,0.0,518.61
+girasol,2013/14,provincia,Tucumán,0.0,425.49
+girasol,2014/15,provincia,Tucumán,0.0,382.25
+girasol,2015/16,provincia,Tucumán,0.0,380.91
+girasol,2016/17,provincia,Tucumán,0.0,361.84
+girasol,2017/18,provincia,Tucumán,0.0,336.41
+girasol,2018/19,provincia,Tucumán,0.0,325.89
+girasol,2019/20,provincia,Tucumán,0.0,379.0
+girasol,2020/21,provincia,Tucumán,0.18,591.34
+girasol,2021/22,provincia,Tucumán,0.224,733.47
+girasol,2022/23,provincia,Tucumán,0.126,483.76
+girasol,2023/24,provincia,Tucumán,0.111,440.03
+girasol,2024/25,provincia,Tucumán,0.268,428.69
+sorgo,1995/96,nacional,Argentina,274.48,128.76
+sorgo,1996/97,nacional,Argentina,211.565,84.66
+sorgo,1997/98,nacional,Argentina,297.714,79.13
+sorgo,1998/99,nacional,Argentina,210.251,65.26
+sorgo,1999/00,nacional,Argentina,216.456,64.72
+sorgo,2000/01,nacional,Argentina,184.009,63.26
+sorgo,2001/02,nacional,Argentina,169.686,60.5
+sorgo,2002/03,nacional,Argentina,164.394,61.72
+sorgo,2003/04,nacional,Argentina,130.996,61.74
+sorgo,2004/05,nacional,Argentina,142.137,49.11
+sorgo,2005/06,nacional,Argentina,159.342,68.45
+sorgo,2006/07,nacional,Argentina,310.297,111.02
+sorgo,2007/08,nacional,Argentina,364.952,124.1
+sorgo,2008/09,nacional,Argentina,142.672,96.67
+sorgo,2009/10,nacional,Argentina,392.769,107.98
+sorgo,2010/11,nacional,Argentina,750.311,168.29
+sorgo,2011/12,nacional,Argentina,648.307,152.46
+sorgo,2012/13,nacional,Argentina,559.264,153.82
+sorgo,2013/14,nacional,Argentina,417.009,120.3
+sorgo,2014/15,nacional,Argentina,355.915,114.88
+sorgo,2015/16,nacional,Argentina,435.345,143.71
+sorgo,2016/17,nacional,Argentina,305.658,120.96
+sorgo,2017/18,nacional,Argentina,204.327,130.69
+sorgo,2018/19,nacional,Argentina,208.155,129.98
+sorgo,2019/20,nacional,Argentina,322.65,176.32
+sorgo,2020/21,nacional,Argentina,633.854,191.23
+sorgo,2021/22,nacional,Argentina,694.962,241.03
+sorgo,2022/23,nacional,Argentina,416.26,258.53
+sorgo,2023/24,nacional,Argentina,416.031,166.71
+sorgo,2024/25,nacional,Argentina,493.595,173.0
+sorgo,1995/96,provincia,Buenos Aires,20.192,128.76
+sorgo,1996/97,provincia,Buenos Aires,24.348,84.66
+sorgo,1997/98,provincia,Buenos Aires,29.796,79.13
+sorgo,1998/99,provincia,Buenos Aires,21.561,65.26
+sorgo,1999/00,provincia,Buenos Aires,17.76,64.72
+sorgo,2000/01,provincia,Buenos Aires,12.81,63.26
+sorgo,2001/02,provincia,Buenos Aires,8.257,60.5
+sorgo,2002/03,provincia,Buenos Aires,6.086,61.72
+sorgo,2003/04,provincia,Buenos Aires,5.393,61.74
+sorgo,2004/05,provincia,Buenos Aires,3.749,49.11
+sorgo,2005/06,provincia,Buenos Aires,8.395,68.45
+sorgo,2006/07,provincia,Buenos Aires,13.874,111.02
+sorgo,2007/08,provincia,Buenos Aires,19.867,124.1
+sorgo,2008/09,provincia,Buenos Aires,22.142,96.67
+sorgo,2009/10,provincia,Buenos Aires,46.617,107.98
+sorgo,2010/11,provincia,Buenos Aires,77.407,168.29
+sorgo,2011/12,provincia,Buenos Aires,76.172,152.46
+sorgo,2012/13,provincia,Buenos Aires,73.209,153.82
+sorgo,2013/14,provincia,Buenos Aires,41.126,120.3
+sorgo,2014/15,provincia,Buenos Aires,54.42,114.88
+sorgo,2015/16,provincia,Buenos Aires,62.201,143.71
+sorgo,2016/17,provincia,Buenos Aires,64.922,120.96
+sorgo,2017/18,provincia,Buenos Aires,48.1,130.69
+sorgo,2018/19,provincia,Buenos Aires,43.622,129.98
+sorgo,2019/20,provincia,Buenos Aires,57.722,176.32
+sorgo,2020/21,provincia,Buenos Aires,92.728,191.23
+sorgo,2021/22,provincia,Buenos Aires,100.628,241.03
+sorgo,2022/23,provincia,Buenos Aires,75.969,258.53
+sorgo,2023/24,provincia,Buenos Aires,60.835,166.71
+sorgo,2024/25,provincia,Buenos Aires,52.868,173.0
+sorgo,1995/96,provincia,Catamarca,0.0,128.76
+sorgo,1996/97,provincia,Catamarca,0.0,84.66
+sorgo,1997/98,provincia,Catamarca,0.0,79.13
+sorgo,1998/99,provincia,Catamarca,0.0,65.26
+sorgo,1999/00,provincia,Catamarca,0.0,64.72
+sorgo,2000/01,provincia,Catamarca,0.0,63.26
+sorgo,2001/02,provincia,Catamarca,0.0,60.5
+sorgo,2002/03,provincia,Catamarca,0.0,61.72
+sorgo,2003/04,provincia,Catamarca,0.0,61.74
+sorgo,2004/05,provincia,Catamarca,0.0,49.11
+sorgo,2005/06,provincia,Catamarca,0.0,68.45
+sorgo,2006/07,provincia,Catamarca,0.0,111.02
+sorgo,2007/08,provincia,Catamarca,0.0,124.1
+sorgo,2008/09,provincia,Catamarca,0.0,96.67
+sorgo,2009/10,provincia,Catamarca,0.0,107.98
+sorgo,2010/11,provincia,Catamarca,0.0,168.29
+sorgo,2011/12,provincia,Catamarca,0.0,152.46
+sorgo,2012/13,provincia,Catamarca,0.0,153.82
+sorgo,2013/14,provincia,Catamarca,0.06,120.3
+sorgo,2014/15,provincia,Catamarca,0.145,114.88
+sorgo,2015/16,provincia,Catamarca,0.135,143.71
+sorgo,2016/17,provincia,Catamarca,0.102,120.96
+sorgo,2017/18,provincia,Catamarca,0.03,130.69
+sorgo,2018/19,provincia,Catamarca,0.058,129.98
+sorgo,2019/20,provincia,Catamarca,1.072,176.32
+sorgo,2020/21,provincia,Catamarca,0.644,191.23
+sorgo,2021/22,provincia,Catamarca,0.848,241.03
+sorgo,2022/23,provincia,Catamarca,0.788,258.53
+sorgo,2023/24,provincia,Catamarca,0.914,166.71
+sorgo,2024/25,provincia,Catamarca,0.847,173.0
+sorgo,1995/96,provincia,Córdoba,114.236,128.76
+sorgo,1996/97,provincia,Córdoba,78.514,84.66
+sorgo,1997/98,provincia,Córdoba,126.917,79.13
+sorgo,1998/99,provincia,Córdoba,72.941,65.26
+sorgo,1999/00,provincia,Córdoba,98.789,64.72
+sorgo,2000/01,provincia,Córdoba,71.686,63.26
+sorgo,2001/02,provincia,Córdoba,73.669,60.5
+sorgo,2002/03,provincia,Córdoba,50.533,61.72
+sorgo,2003/04,provincia,Córdoba,22.255,61.74
+sorgo,2004/05,provincia,Córdoba,30.359,49.11
+sorgo,2005/06,provincia,Córdoba,35.947,68.45
+sorgo,2006/07,provincia,Córdoba,70.862,111.02
+sorgo,2007/08,provincia,Córdoba,83.769,124.1
+sorgo,2008/09,provincia,Córdoba,67.662,96.67
+sorgo,2009/10,provincia,Córdoba,89.643,107.98
+sorgo,2010/11,provincia,Córdoba,133.366,168.29
+sorgo,2011/12,provincia,Córdoba,153.373,152.46
+sorgo,2012/13,provincia,Córdoba,161.013,153.82
+sorgo,2013/14,provincia,Córdoba,119.673,120.3
+sorgo,2014/15,provincia,Córdoba,105.756,114.88
+sorgo,2015/16,provincia,Córdoba,123.952,143.71
+sorgo,2016/17,provincia,Córdoba,49.612,120.96
+sorgo,2017/18,provincia,Córdoba,23.997,130.69
+sorgo,2018/19,provincia,Córdoba,28.229,129.98
+sorgo,2019/20,provincia,Córdoba,50.99,176.32
+sorgo,2020/21,provincia,Córdoba,143.392,191.23
+sorgo,2021/22,provincia,Córdoba,178.999,241.03
+sorgo,2022/23,provincia,Córdoba,65.435,258.53
+sorgo,2023/24,provincia,Córdoba,81.966,166.71
+sorgo,2024/25,provincia,Córdoba,151.939,173.0
+sorgo,1995/96,provincia,Corrientes,0.476,128.76
+sorgo,1996/97,provincia,Corrientes,0.593,84.66
+sorgo,1997/98,provincia,Corrientes,0.264,79.13
+sorgo,1998/99,provincia,Corrientes,0.424,65.26
+sorgo,1999/00,provincia,Corrientes,0.243,64.72
+sorgo,2000/01,provincia,Corrientes,0.315,63.26
+sorgo,2001/02,provincia,Corrientes,0.159,60.5
+sorgo,2002/03,provincia,Corrientes,0.188,61.72
+sorgo,2003/04,provincia,Corrientes,0.221,61.74
+sorgo,2004/05,provincia,Corrientes,0.134,49.11
+sorgo,2005/06,provincia,Corrientes,0.207,68.45
+sorgo,2006/07,provincia,Corrientes,0.338,111.02
+sorgo,2007/08,provincia,Corrientes,1.093,124.1
+sorgo,2008/09,provincia,Corrientes,0.445,96.67
+sorgo,2009/10,provincia,Corrientes,0.91,107.98
+sorgo,2010/11,provincia,Corrientes,2.038,168.29
+sorgo,2011/12,provincia,Corrientes,2.195,152.46
+sorgo,2012/13,provincia,Corrientes,0.0,153.82
+sorgo,2013/14,provincia,Corrientes,1.63,120.3
+sorgo,2014/15,provincia,Corrientes,0.948,114.88
+sorgo,2015/16,provincia,Corrientes,1.725,143.71
+sorgo,2016/17,provincia,Corrientes,0.907,120.96
+sorgo,2017/18,provincia,Corrientes,0.0,130.69
+sorgo,2018/19,provincia,Corrientes,2.096,129.98
+sorgo,2019/20,provincia,Corrientes,2.844,176.32
+sorgo,2020/21,provincia,Corrientes,3.672,191.23
+sorgo,2021/22,provincia,Corrientes,1.039,241.03
+sorgo,2022/23,provincia,Corrientes,2.792,258.53
+sorgo,2023/24,provincia,Corrientes,1.809,166.71
+sorgo,2024/25,provincia,Corrientes,1.695,173.0
+sorgo,1995/96,provincia,Chaco,10.932,128.76
+sorgo,1996/97,provincia,Chaco,13.469,84.66
+sorgo,1997/98,provincia,Chaco,7.517,79.13
+sorgo,1998/99,provincia,Chaco,7.361,65.26
+sorgo,1999/00,provincia,Chaco,6.216,64.72
+sorgo,2000/01,provincia,Chaco,7.222,63.26
+sorgo,2001/02,provincia,Chaco,4.175,60.5
+sorgo,2002/03,provincia,Chaco,8.906,61.72
+sorgo,2003/04,provincia,Chaco,5.654,61.74
+sorgo,2004/05,provincia,Chaco,12.398,49.11
+sorgo,2005/06,provincia,Chaco,30.005,68.45
+sorgo,2006/07,provincia,Chaco,42.634,111.02
+sorgo,2007/08,provincia,Chaco,57.489,124.1
+sorgo,2008/09,provincia,Chaco,13.696,96.67
+sorgo,2009/10,provincia,Chaco,38.535,107.98
+sorgo,2010/11,provincia,Chaco,51.929,168.29
+sorgo,2011/12,provincia,Chaco,21.248,152.46
+sorgo,2012/13,provincia,Chaco,38.466,153.82
+sorgo,2013/14,provincia,Chaco,56.939,120.3
+sorgo,2014/15,provincia,Chaco,25.498,114.88
+sorgo,2015/16,provincia,Chaco,32.728,143.71
+sorgo,2016/17,provincia,Chaco,19.848,120.96
+sorgo,2017/18,provincia,Chaco,17.523,130.69
+sorgo,2018/19,provincia,Chaco,15.291,129.98
+sorgo,2019/20,provincia,Chaco,20.888,176.32
+sorgo,2020/21,provincia,Chaco,42.333,191.23
+sorgo,2021/22,provincia,Chaco,38.852,241.03
+sorgo,2022/23,provincia,Chaco,23.947,258.53
+sorgo,2023/24,provincia,Chaco,21.067,166.71
+sorgo,2024/25,provincia,Chaco,16.342,173.0
+sorgo,1995/96,provincia,Chubut,0.0,128.76
+sorgo,1996/97,provincia,Chubut,0.0,84.66
+sorgo,1997/98,provincia,Chubut,0.0,79.13
+sorgo,1998/99,provincia,Chubut,0.0,65.26
+sorgo,1999/00,provincia,Chubut,0.0,64.72
+sorgo,2000/01,provincia,Chubut,0.0,63.26
+sorgo,2001/02,provincia,Chubut,0.0,60.5
+sorgo,2002/03,provincia,Chubut,0.0,61.72
+sorgo,2003/04,provincia,Chubut,0.0,61.74
+sorgo,2004/05,provincia,Chubut,0.0,49.11
+sorgo,2005/06,provincia,Chubut,0.0,68.45
+sorgo,2006/07,provincia,Chubut,0.0,111.02
+sorgo,2007/08,provincia,Chubut,0.0,124.1
+sorgo,2008/09,provincia,Chubut,0.0,96.67
+sorgo,2009/10,provincia,Chubut,0.0,107.98
+sorgo,2010/11,provincia,Chubut,0.0,168.29
+sorgo,2011/12,provincia,Chubut,0.0,152.46
+sorgo,2012/13,provincia,Chubut,0.0,153.82
+sorgo,2013/14,provincia,Chubut,0.0,120.3
+sorgo,2014/15,provincia,Chubut,0.0,114.88
+sorgo,2015/16,provincia,Chubut,0.0,143.71
+sorgo,2016/17,provincia,Chubut,0.0,120.96
+sorgo,2017/18,provincia,Chubut,0.0,130.69
+sorgo,2018/19,provincia,Chubut,0.0,129.98
+sorgo,2019/20,provincia,Chubut,0.0,176.32
+sorgo,2020/21,provincia,Chubut,0.0,191.23
+sorgo,2021/22,provincia,Chubut,0.0,241.03
+sorgo,2022/23,provincia,Chubut,0.0,258.53
+sorgo,2023/24,provincia,Chubut,0.0,166.71
+sorgo,2024/25,provincia,Chubut,0.0,173.0
+sorgo,1995/96,provincia,Entre Ríos,29.01,128.76
+sorgo,1996/97,provincia,Entre Ríos,16.729,84.66
+sorgo,1997/98,provincia,Entre Ríos,24.467,79.13
+sorgo,1998/99,provincia,Entre Ríos,17.842,65.26
+sorgo,1999/00,provincia,Entre Ríos,8.342,64.72
+sorgo,2000/01,provincia,Entre Ríos,16.466,63.26
+sorgo,2001/02,provincia,Entre Ríos,13.318,60.5
+sorgo,2002/03,provincia,Entre Ríos,18.096,61.72
+sorgo,2003/04,provincia,Entre Ríos,22.447,61.74
+sorgo,2004/05,provincia,Entre Ríos,24.903,49.11
+sorgo,2005/06,provincia,Entre Ríos,23.035,68.45
+sorgo,2006/07,provincia,Entre Ríos,52.04,111.02
+sorgo,2007/08,provincia,Entre Ríos,73.641,124.1
+sorgo,2008/09,provincia,Entre Ríos,26.751,96.67
+sorgo,2009/10,provincia,Entre Ríos,65.879,107.98
+sorgo,2010/11,provincia,Entre Ríos,94.54,168.29
+sorgo,2011/12,provincia,Entre Ríos,156.52,152.46
+sorgo,2012/13,provincia,Entre Ríos,97.468,153.82
+sorgo,2013/14,provincia,Entre Ríos,65.917,120.3
+sorgo,2014/15,provincia,Entre Ríos,50.776,114.88
+sorgo,2015/16,provincia,Entre Ríos,57.383,143.71
+sorgo,2016/17,provincia,Entre Ríos,67.526,120.96
+sorgo,2017/18,provincia,Entre Ríos,42.666,130.69
+sorgo,2018/19,provincia,Entre Ríos,53.203,129.98
+sorgo,2019/20,provincia,Entre Ríos,58.678,176.32
+sorgo,2020/21,provincia,Entre Ríos,100.33,191.23
+sorgo,2021/22,provincia,Entre Ríos,92.195,241.03
+sorgo,2022/23,provincia,Entre Ríos,49.62,258.53
+sorgo,2023/24,provincia,Entre Ríos,44.637,166.71
+sorgo,2024/25,provincia,Entre Ríos,75.632,173.0
+sorgo,1995/96,provincia,Formosa,1.79,128.76
+sorgo,1996/97,provincia,Formosa,0.745,84.66
+sorgo,1997/98,provincia,Formosa,0.277,79.13
+sorgo,1998/99,provincia,Formosa,0.405,65.26
+sorgo,1999/00,provincia,Formosa,0.194,64.72
+sorgo,2000/01,provincia,Formosa,0.079,63.26
+sorgo,2001/02,provincia,Formosa,0.791,60.5
+sorgo,2002/03,provincia,Formosa,0.707,61.72
+sorgo,2003/04,provincia,Formosa,0.528,61.74
+sorgo,2004/05,provincia,Formosa,0.781,49.11
+sorgo,2005/06,provincia,Formosa,1.032,68.45
+sorgo,2006/07,provincia,Formosa,1.666,111.02
+sorgo,2007/08,provincia,Formosa,1.087,124.1
+sorgo,2008/09,provincia,Formosa,0.358,96.67
+sorgo,2009/10,provincia,Formosa,0.352,107.98
+sorgo,2010/11,provincia,Formosa,0.685,168.29
+sorgo,2011/12,provincia,Formosa,0.541,152.46
+sorgo,2012/13,provincia,Formosa,0.0,153.82
+sorgo,2013/14,provincia,Formosa,0.271,120.3
+sorgo,2014/15,provincia,Formosa,1.506,114.88
+sorgo,2015/16,provincia,Formosa,1.509,143.71
+sorgo,2016/17,provincia,Formosa,7.983,120.96
+sorgo,2017/18,provincia,Formosa,12.719,130.69
+sorgo,2018/19,provincia,Formosa,0.617,129.98
+sorgo,2019/20,provincia,Formosa,0.55,176.32
+sorgo,2020/21,provincia,Formosa,2.821,191.23
+sorgo,2021/22,provincia,Formosa,1.052,241.03
+sorgo,2022/23,provincia,Formosa,2.286,258.53
+sorgo,2023/24,provincia,Formosa,1.5,166.71
+sorgo,2024/25,provincia,Formosa,0.463,173.0
+sorgo,1995/96,provincia,Jujuy,0.0,128.76
+sorgo,1996/97,provincia,Jujuy,0.085,84.66
+sorgo,1997/98,provincia,Jujuy,0.078,79.13
+sorgo,1998/99,provincia,Jujuy,0.078,65.26
+sorgo,1999/00,provincia,Jujuy,0.078,64.72
+sorgo,2000/01,provincia,Jujuy,0.0,63.26
+sorgo,2001/02,provincia,Jujuy,0.0,60.5
+sorgo,2002/03,provincia,Jujuy,0.0,61.72
+sorgo,2003/04,provincia,Jujuy,0.0,61.74
+sorgo,2004/05,provincia,Jujuy,0.0,49.11
+sorgo,2005/06,provincia,Jujuy,0.0,68.45
+sorgo,2006/07,provincia,Jujuy,0.0,111.02
+sorgo,2007/08,provincia,Jujuy,0.0,124.1
+sorgo,2008/09,provincia,Jujuy,0.0,96.67
+sorgo,2009/10,provincia,Jujuy,0.0,107.98
+sorgo,2010/11,provincia,Jujuy,0.0,168.29
+sorgo,2011/12,provincia,Jujuy,0.0,152.46
+sorgo,2012/13,provincia,Jujuy,0.0,153.82
+sorgo,2013/14,provincia,Jujuy,0.0,120.3
+sorgo,2014/15,provincia,Jujuy,0.0,114.88
+sorgo,2015/16,provincia,Jujuy,0.0,143.71
+sorgo,2016/17,provincia,Jujuy,0.0,120.96
+sorgo,2017/18,provincia,Jujuy,0.0,130.69
+sorgo,2018/19,provincia,Jujuy,0.0,129.98
+sorgo,2019/20,provincia,Jujuy,0.247,176.32
+sorgo,2020/21,provincia,Jujuy,0.882,191.23
+sorgo,2021/22,provincia,Jujuy,0.838,241.03
+sorgo,2022/23,provincia,Jujuy,0.815,258.53
+sorgo,2023/24,provincia,Jujuy,1.3,166.71
+sorgo,2024/25,provincia,Jujuy,1.331,173.0
+sorgo,1995/96,provincia,La Pampa,11.382,128.76
+sorgo,1996/97,provincia,La Pampa,12.843,84.66
+sorgo,1997/98,provincia,La Pampa,12.463,79.13
+sorgo,1998/99,provincia,La Pampa,8.135,65.26
+sorgo,1999/00,provincia,La Pampa,10.633,64.72
+sorgo,2000/01,provincia,La Pampa,5.9,63.26
+sorgo,2001/02,provincia,La Pampa,4.475,60.5
+sorgo,2002/03,provincia,La Pampa,2.568,61.72
+sorgo,2003/04,provincia,La Pampa,3.519,61.74
+sorgo,2004/05,provincia,La Pampa,3.831,49.11
+sorgo,2005/06,provincia,La Pampa,1.904,68.45
+sorgo,2006/07,provincia,La Pampa,4.81,111.02
+sorgo,2007/08,provincia,La Pampa,11.852,124.1
+sorgo,2008/09,provincia,La Pampa,3.677,96.67
+sorgo,2009/10,provincia,La Pampa,12.877,107.98
+sorgo,2010/11,provincia,La Pampa,41.795,168.29
+sorgo,2011/12,provincia,La Pampa,50.19,152.46
+sorgo,2012/13,provincia,La Pampa,16.782,153.82
+sorgo,2013/14,provincia,La Pampa,8.672,120.3
+sorgo,2014/15,provincia,La Pampa,10.663,114.88
+sorgo,2015/16,provincia,La Pampa,21.528,143.71
+sorgo,2016/17,provincia,La Pampa,9.816,120.96
+sorgo,2017/18,provincia,La Pampa,10.888,130.69
+sorgo,2018/19,provincia,La Pampa,6.719,129.98
+sorgo,2019/20,provincia,La Pampa,11.815,176.32
+sorgo,2020/21,provincia,La Pampa,4.415,191.23
+sorgo,2021/22,provincia,La Pampa,17.091,241.03
+sorgo,2022/23,provincia,La Pampa,2.456,258.53
+sorgo,2023/24,provincia,La Pampa,9.609,166.71
+sorgo,2024/25,provincia,La Pampa,7.643,173.0
+sorgo,1995/96,provincia,Mendoza,0.0,128.76
+sorgo,1996/97,provincia,Mendoza,0.0,84.66
+sorgo,1997/98,provincia,Mendoza,0.0,79.13
+sorgo,1998/99,provincia,Mendoza,0.0,65.26
+sorgo,1999/00,provincia,Mendoza,0.0,64.72
+sorgo,2000/01,provincia,Mendoza,0.0,63.26
+sorgo,2001/02,provincia,Mendoza,0.0,60.5
+sorgo,2002/03,provincia,Mendoza,0.0,61.72
+sorgo,2003/04,provincia,Mendoza,0.0,61.74
+sorgo,2004/05,provincia,Mendoza,0.0,49.11
+sorgo,2005/06,provincia,Mendoza,0.0,68.45
+sorgo,2006/07,provincia,Mendoza,0.0,111.02
+sorgo,2007/08,provincia,Mendoza,0.0,124.1
+sorgo,2008/09,provincia,Mendoza,0.0,96.67
+sorgo,2009/10,provincia,Mendoza,0.0,107.98
+sorgo,2010/11,provincia,Mendoza,0.0,168.29
+sorgo,2011/12,provincia,Mendoza,0.0,152.46
+sorgo,2012/13,provincia,Mendoza,0.0,153.82
+sorgo,2013/14,provincia,Mendoza,0.0,120.3
+sorgo,2014/15,provincia,Mendoza,0.0,114.88
+sorgo,2015/16,provincia,Mendoza,0.0,143.71
+sorgo,2016/17,provincia,Mendoza,0.0,120.96
+sorgo,2017/18,provincia,Mendoza,0.0,130.69
+sorgo,2018/19,provincia,Mendoza,0.0,129.98
+sorgo,2019/20,provincia,Mendoza,0.0,176.32
+sorgo,2020/21,provincia,Mendoza,0.0,191.23
+sorgo,2021/22,provincia,Mendoza,0.0,241.03
+sorgo,2022/23,provincia,Mendoza,0.0,258.53
+sorgo,2023/24,provincia,Mendoza,0.0,166.71
+sorgo,2024/25,provincia,Mendoza,0.0,173.0
+sorgo,1995/96,provincia,Misiones,0.0,128.76
+sorgo,1996/97,provincia,Misiones,0.0,84.66
+sorgo,1997/98,provincia,Misiones,0.0,79.13
+sorgo,1998/99,provincia,Misiones,0.0,65.26
+sorgo,1999/00,provincia,Misiones,0.0,64.72
+sorgo,2000/01,provincia,Misiones,0.0,63.26
+sorgo,2001/02,provincia,Misiones,0.0,60.5
+sorgo,2002/03,provincia,Misiones,0.0,61.72
+sorgo,2003/04,provincia,Misiones,0.0,61.74
+sorgo,2004/05,provincia,Misiones,0.0,49.11
+sorgo,2005/06,provincia,Misiones,0.0,68.45
+sorgo,2006/07,provincia,Misiones,0.0,111.02
+sorgo,2007/08,provincia,Misiones,0.0,124.1
+sorgo,2008/09,provincia,Misiones,0.0,96.67
+sorgo,2009/10,provincia,Misiones,0.0,107.98
+sorgo,2010/11,provincia,Misiones,0.0,168.29
+sorgo,2011/12,provincia,Misiones,0.0,152.46
+sorgo,2012/13,provincia,Misiones,0.0,153.82
+sorgo,2013/14,provincia,Misiones,0.0,120.3
+sorgo,2014/15,provincia,Misiones,0.0,114.88
+sorgo,2015/16,provincia,Misiones,0.0,143.71
+sorgo,2016/17,provincia,Misiones,0.0,120.96
+sorgo,2017/18,provincia,Misiones,0.0,130.69
+sorgo,2018/19,provincia,Misiones,0.0,129.98
+sorgo,2019/20,provincia,Misiones,0.0,176.32
+sorgo,2020/21,provincia,Misiones,0.0,191.23
+sorgo,2021/22,provincia,Misiones,0.0,241.03
+sorgo,2022/23,provincia,Misiones,0.0,258.53
+sorgo,2023/24,provincia,Misiones,0.0,166.71
+sorgo,2024/25,provincia,Misiones,0.0,173.0
+sorgo,1995/96,provincia,Río Negro,0.0,128.76
+sorgo,1996/97,provincia,Río Negro,0.0,84.66
+sorgo,1997/98,provincia,Río Negro,0.0,79.13
+sorgo,1998/99,provincia,Río Negro,0.0,65.26
+sorgo,1999/00,provincia,Río Negro,0.0,64.72
+sorgo,2000/01,provincia,Río Negro,0.0,63.26
+sorgo,2001/02,provincia,Río Negro,0.0,60.5
+sorgo,2002/03,provincia,Río Negro,0.0,61.72
+sorgo,2003/04,provincia,Río Negro,0.0,61.74
+sorgo,2004/05,provincia,Río Negro,0.0,49.11
+sorgo,2005/06,provincia,Río Negro,0.0,68.45
+sorgo,2006/07,provincia,Río Negro,0.0,111.02
+sorgo,2007/08,provincia,Río Negro,0.0,124.1
+sorgo,2008/09,provincia,Río Negro,0.0,96.67
+sorgo,2009/10,provincia,Río Negro,0.0,107.98
+sorgo,2010/11,provincia,Río Negro,0.0,168.29
+sorgo,2011/12,provincia,Río Negro,0.0,152.46
+sorgo,2012/13,provincia,Río Negro,0.0,153.82
+sorgo,2013/14,provincia,Río Negro,0.0,120.3
+sorgo,2014/15,provincia,Río Negro,0.0,114.88
+sorgo,2015/16,provincia,Río Negro,0.0,143.71
+sorgo,2016/17,provincia,Río Negro,0.0,120.96
+sorgo,2017/18,provincia,Río Negro,0.0,130.69
+sorgo,2018/19,provincia,Río Negro,0.0,129.98
+sorgo,2019/20,provincia,Río Negro,0.0,176.32
+sorgo,2020/21,provincia,Río Negro,0.0,191.23
+sorgo,2021/22,provincia,Río Negro,0.0,241.03
+sorgo,2022/23,provincia,Río Negro,0.0,258.53
+sorgo,2023/24,provincia,Río Negro,0.0,166.71
+sorgo,2024/25,provincia,Río Negro,0.0,173.0
+sorgo,1995/96,provincia,Salta,0.0,128.76
+sorgo,1996/97,provincia,Salta,0.872,84.66
+sorgo,1997/98,provincia,Salta,1.045,79.13
+sorgo,1998/99,provincia,Salta,1.449,65.26
+sorgo,1999/00,provincia,Salta,1.133,64.72
+sorgo,2000/01,provincia,Salta,0.775,63.26
+sorgo,2001/02,provincia,Salta,0.318,60.5
+sorgo,2002/03,provincia,Salta,0.148,61.72
+sorgo,2003/04,provincia,Salta,0.0,61.74
+sorgo,2004/05,provincia,Salta,0.0,49.11
+sorgo,2005/06,provincia,Salta,0.0,68.45
+sorgo,2006/07,provincia,Salta,0.0,111.02
+sorgo,2007/08,provincia,Salta,0.0,124.1
+sorgo,2008/09,provincia,Salta,0.0,96.67
+sorgo,2009/10,provincia,Salta,0.0,107.98
+sorgo,2010/11,provincia,Salta,0.0,168.29
+sorgo,2011/12,provincia,Salta,0.0,152.46
+sorgo,2012/13,provincia,Salta,0.0,153.82
+sorgo,2013/14,provincia,Salta,0.0,120.3
+sorgo,2014/15,provincia,Salta,0.0,114.88
+sorgo,2015/16,provincia,Salta,0.0,143.71
+sorgo,2016/17,provincia,Salta,0.0,120.96
+sorgo,2017/18,provincia,Salta,0.0,130.69
+sorgo,2018/19,provincia,Salta,0.0,129.98
+sorgo,2019/20,provincia,Salta,4.88,176.32
+sorgo,2020/21,provincia,Salta,18.805,191.23
+sorgo,2021/22,provincia,Salta,10.247,241.03
+sorgo,2022/23,provincia,Salta,11.509,258.53
+sorgo,2023/24,provincia,Salta,18.733,166.71
+sorgo,2024/25,provincia,Salta,13.709,173.0
+sorgo,1995/96,provincia,San Luis,16.224,128.76
+sorgo,1996/97,provincia,San Luis,4.572,84.66
+sorgo,1997/98,provincia,San Luis,11.395,79.13
+sorgo,1998/99,provincia,San Luis,9.397,65.26
+sorgo,1999/00,provincia,San Luis,10.485,64.72
+sorgo,2000/01,provincia,San Luis,10.248,63.26
+sorgo,2001/02,provincia,San Luis,13.068,60.5
+sorgo,2002/03,provincia,San Luis,13.332,61.72
+sorgo,2003/04,provincia,San Luis,11.113,61.74
+sorgo,2004/05,provincia,San Luis,12.553,49.11
+sorgo,2005/06,provincia,San Luis,8.762,68.45
+sorgo,2006/07,provincia,San Luis,15.932,111.02
+sorgo,2007/08,provincia,San Luis,13.258,124.1
+sorgo,2008/09,provincia,San Luis,3.488,96.67
+sorgo,2009/10,provincia,San Luis,4.549,107.98
+sorgo,2010/11,provincia,San Luis,15.57,168.29
+sorgo,2011/12,provincia,San Luis,13.157,152.46
+sorgo,2012/13,provincia,San Luis,15.722,153.82
+sorgo,2013/14,provincia,San Luis,12.876,120.3
+sorgo,2014/15,provincia,San Luis,11.012,114.88
+sorgo,2015/16,provincia,San Luis,6.483,143.71
+sorgo,2016/17,provincia,San Luis,3.629,120.96
+sorgo,2017/18,provincia,San Luis,1.96,130.69
+sorgo,2018/19,provincia,San Luis,2.216,129.98
+sorgo,2019/20,provincia,San Luis,4.826,176.32
+sorgo,2020/21,provincia,San Luis,13.632,191.23
+sorgo,2021/22,provincia,San Luis,15.04,241.03
+sorgo,2022/23,provincia,San Luis,7.227,258.53
+sorgo,2023/24,provincia,San Luis,7.506,166.71
+sorgo,2024/25,provincia,San Luis,7.634,173.0
+sorgo,1995/96,provincia,Santa Fe,49.573,128.76
+sorgo,1996/97,provincia,Santa Fe,36.979,84.66
+sorgo,1997/98,provincia,Santa Fe,65.167,79.13
+sorgo,1998/99,provincia,Santa Fe,55.51,65.26
+sorgo,1999/00,provincia,Santa Fe,46.183,64.72
+sorgo,2000/01,provincia,Santa Fe,44.097,63.26
+sorgo,2001/02,provincia,Santa Fe,41.75,60.5
+sorgo,2002/03,provincia,Santa Fe,49.973,61.72
+sorgo,2003/04,provincia,Santa Fe,47.453,61.74
+sorgo,2004/05,provincia,Santa Fe,43.62,49.11
+sorgo,2005/06,provincia,Santa Fe,36.904,68.45
+sorgo,2006/07,provincia,Santa Fe,81.783,111.02
+sorgo,2007/08,provincia,Santa Fe,71.664,124.1
+sorgo,2008/09,provincia,Santa Fe,0.0,96.67
+sorgo,2009/10,provincia,Santa Fe,90.345,107.98
+sorgo,2010/11,provincia,Santa Fe,125.179,168.29
+sorgo,2011/12,provincia,Santa Fe,99.387,152.46
+sorgo,2012/13,provincia,Santa Fe,111.387,153.82
+sorgo,2013/14,provincia,Santa Fe,64.53,120.3
+sorgo,2014/15,provincia,Santa Fe,57.48,114.88
+sorgo,2015/16,provincia,Santa Fe,58.139,143.71
+sorgo,2016/17,provincia,Santa Fe,43.194,120.96
+sorgo,2017/18,provincia,Santa Fe,25.588,130.69
+sorgo,2018/19,provincia,Santa Fe,26.159,129.98
+sorgo,2019/20,provincia,Santa Fe,64.065,176.32
+sorgo,2020/21,provincia,Santa Fe,129.864,191.23
+sorgo,2021/22,provincia,Santa Fe,143.088,241.03
+sorgo,2022/23,provincia,Santa Fe,78.431,258.53
+sorgo,2023/24,provincia,Santa Fe,110.378,166.71
+sorgo,2024/25,provincia,Santa Fe,101.166,173.0
+sorgo,1995/96,provincia,Santiago del Estero,19.932,128.76
+sorgo,1996/97,provincia,Santiago del Estero,20.75,84.66
+sorgo,1997/98,provincia,Santiago del Estero,17.765,79.13
+sorgo,1998/99,provincia,Santiago del Estero,14.697,65.26
+sorgo,1999/00,provincia,Santiago del Estero,16.038,64.72
+sorgo,2000/01,provincia,Santiago del Estero,14.079,63.26
+sorgo,2001/02,provincia,Santiago del Estero,9.426,60.5
+sorgo,2002/03,provincia,Santiago del Estero,13.801,61.72
+sorgo,2003/04,provincia,Santiago del Estero,12.116,61.74
+sorgo,2004/05,provincia,Santiago del Estero,9.594,49.11
+sorgo,2005/06,provincia,Santiago del Estero,12.827,68.45
+sorgo,2006/07,provincia,Santiago del Estero,25.813,111.02
+sorgo,2007/08,provincia,Santiago del Estero,30.385,124.1
+sorgo,2008/09,provincia,Santiago del Estero,3.201,96.67
+sorgo,2009/10,provincia,Santiago del Estero,41.463,107.98
+sorgo,2010/11,provincia,Santiago del Estero,205.502,168.29
+sorgo,2011/12,provincia,Santiago del Estero,74.381,152.46
+sorgo,2012/13,provincia,Santiago del Estero,44.283,153.82
+sorgo,2013/14,provincia,Santiago del Estero,43.456,120.3
+sorgo,2014/15,provincia,Santiago del Estero,35.48,114.88
+sorgo,2015/16,provincia,Santiago del Estero,69.563,143.71
+sorgo,2016/17,provincia,Santiago del Estero,36.831,120.96
+sorgo,2017/18,provincia,Santiago del Estero,19.758,130.69
+sorgo,2018/19,provincia,Santiago del Estero,28.343,129.98
+sorgo,2019/20,provincia,Santiago del Estero,42.375,176.32
+sorgo,2020/21,provincia,Santiago del Estero,76.919,191.23
+sorgo,2021/22,provincia,Santiago del Estero,90.609,241.03
+sorgo,2022/23,provincia,Santiago del Estero,91.139,258.53
+sorgo,2023/24,provincia,Santiago del Estero,52.397,166.71
+sorgo,2024/25,provincia,Santiago del Estero,56.368,173.0
+sorgo,1995/96,provincia,Tucumán,0.734,128.76
+sorgo,1996/97,provincia,Tucumán,1.067,84.66
+sorgo,1997/98,provincia,Tucumán,0.564,79.13
+sorgo,1998/99,provincia,Tucumán,0.45,65.26
+sorgo,1999/00,provincia,Tucumán,0.362,64.72
+sorgo,2000/01,provincia,Tucumán,0.332,63.26
+sorgo,2001/02,provincia,Tucumán,0.281,60.5
+sorgo,2002/03,provincia,Tucumán,0.056,61.72
+sorgo,2003/04,provincia,Tucumán,0.296,61.74
+sorgo,2004/05,provincia,Tucumán,0.217,49.11
+sorgo,2005/06,provincia,Tucumán,0.327,68.45
+sorgo,2006/07,provincia,Tucumán,0.546,111.02
+sorgo,2007/08,provincia,Tucumán,0.848,124.1
+sorgo,2008/09,provincia,Tucumán,1.253,96.67
+sorgo,2009/10,provincia,Tucumán,1.6,107.98
+sorgo,2010/11,provincia,Tucumán,2.299,168.29
+sorgo,2011/12,provincia,Tucumán,1.142,152.46
+sorgo,2012/13,provincia,Tucumán,0.935,153.82
+sorgo,2013/14,provincia,Tucumán,1.859,120.3
+sorgo,2014/15,provincia,Tucumán,2.232,114.88
+sorgo,2015/16,provincia,Tucumán,0.0,143.71
+sorgo,2016/17,provincia,Tucumán,1.288,120.96
+sorgo,2017/18,provincia,Tucumán,1.097,130.69
+sorgo,2018/19,provincia,Tucumán,1.6,129.98
+sorgo,2019/20,provincia,Tucumán,1.7,176.32
+sorgo,2020/21,provincia,Tucumán,3.417,191.23
+sorgo,2021/22,provincia,Tucumán,4.434,241.03
+sorgo,2022/23,provincia,Tucumán,3.845,258.53
+sorgo,2023/24,provincia,Tucumán,3.379,166.71
+sorgo,2024/25,provincia,Tucumán,5.958,173.0
+total,1995/96,nacional,Argentina,8533.599,
+total,1996/97,nacional,Argentina,8834.292,
+total,1997/98,nacional,Argentina,9418.573,
+total,1998/99,nacional,Argentina,7524.467,
+total,1999/00,nacional,Argentina,7909.642,
+total,2000/01,nacional,Argentina,8571.923,
+total,2001/02,nacional,Argentina,8683.928,
+total,2002/03,nacional,Argentina,10144.726,
+total,2003/04,nacional,Argentina,10262.427,
+total,2004/05,nacional,Argentina,10914.566,
+total,2005/06,nacional,Argentina,11077.554,
+total,2006/07,nacional,Argentina,17372.432,
+total,2007/08,nacional,Argentina,22992.606,
+total,2008/09,nacional,Argentina,12150.661,
+total,2009/10,nacional,Argentina,20713.363,
+total,2010/11,nacional,Argentina,27893.847,
+total,2011/12,nacional,Argentina,24959.82,
+total,2012/13,nacional,Argentina,28418.848,
+total,2013/14,nacional,Argentina,25844.843,
+total,2014/15,nacional,Argentina,23531.884,
+total,2015/16,nacional,Argentina,24864.16,
+total,2016/17,nacional,Argentina,26359.167,
+total,2017/18,nacional,Argentina,23057.153,
+total,2018/19,nacional,Argentina,27374.836,
+total,2019/20,nacional,Argentina,28192.86,
+total,2020/21,nacional,Argentina,36596.184,
+total,2021/22,nacional,Argentina,46650.715,
+total,2022/23,nacional,Argentina,27915.525,
+total,2023/24,nacional,Argentina,31560.602,
+total,2024/25,nacional,Argentina,32611.02,
+total,1995/96,provincia,Buenos Aires,3502.531,
+total,1996/97,provincia,Buenos Aires,4074.308,
+total,1997/98,provincia,Buenos Aires,3845.146,
+total,1998/99,provincia,Buenos Aires,2854.506,
+total,1999/00,provincia,Buenos Aires,2730.47,
+total,2000/01,provincia,Buenos Aires,2865.651,
+total,2001/02,provincia,Buenos Aires,2642.645,
+total,2002/03,provincia,Buenos Aires,2878.769,
+total,2003/04,provincia,Buenos Aires,3468.535,
+total,2004/05,provincia,Buenos Aires,3766.339,
+total,2005/06,provincia,Buenos Aires,3577.645,
+total,2006/07,provincia,Buenos Aires,5389.285,
+total,2007/08,provincia,Buenos Aires,7441.713,
+total,2008/09,provincia,Buenos Aires,3548.211,
+total,2009/10,provincia,Buenos Aires,7214.435,
+total,2010/11,provincia,Buenos Aires,10229.912,
+total,2011/12,provincia,Buenos Aires,10048.91,
+total,2012/13,provincia,Buenos Aires,9961.518,
+total,2013/14,provincia,Buenos Aires,8199.967,
+total,2014/15,provincia,Buenos Aires,7725.897,
+total,2015/16,provincia,Buenos Aires,8678.358,
+total,2016/17,provincia,Buenos Aires,8421.602,
+total,2017/18,provincia,Buenos Aires,7665.961,
+total,2018/19,provincia,Buenos Aires,9210.063,
+total,2019/20,provincia,Buenos Aires,8814.227,
+total,2020/21,provincia,Buenos Aires,11945.0,
+total,2021/22,provincia,Buenos Aires,15361.433,
+total,2022/23,provincia,Buenos Aires,10011.465,
+total,2023/24,provincia,Buenos Aires,10888.002,
+total,2024/25,provincia,Buenos Aires,11295.165,
+total,1995/96,provincia,Catamarca,10.757,
+total,1996/97,provincia,Catamarca,15.015,
+total,1997/98,provincia,Catamarca,13.625,
+total,1998/99,provincia,Catamarca,12.743,
+total,1999/00,provincia,Catamarca,13.197,
+total,2000/01,provincia,Catamarca,24.019,
+total,2001/02,provincia,Catamarca,25.467,
+total,2002/03,provincia,Catamarca,25.883,
+total,2003/04,provincia,Catamarca,24.318,
+total,2004/05,provincia,Catamarca,21.974,
+total,2005/06,provincia,Catamarca,29.234,
+total,2006/07,provincia,Catamarca,38.66,
+total,2007/08,provincia,Catamarca,54.416,
+total,2008/09,provincia,Catamarca,41.757,
+total,2009/10,provincia,Catamarca,45.538,
+total,2010/11,provincia,Catamarca,54.552,
+total,2011/12,provincia,Catamarca,43.453,
+total,2012/13,provincia,Catamarca,12.46,
+total,2013/14,provincia,Catamarca,11.638,
+total,2014/15,provincia,Catamarca,24.102,
+total,2015/16,provincia,Catamarca,64.734,
+total,2016/17,provincia,Catamarca,32.584,
+total,2017/18,provincia,Catamarca,46.865,
+total,2018/19,provincia,Catamarca,57.407,
+total,2019/20,provincia,Catamarca,47.315,
+total,2020/21,provincia,Catamarca,71.446,
+total,2021/22,provincia,Catamarca,74.828,
+total,2022/23,provincia,Catamarca,57.908,
+total,2023/24,provincia,Catamarca,53.332,
+total,2024/25,provincia,Catamarca,43.11,
+total,1995/96,provincia,Córdoba,1671.685,
+total,1996/97,provincia,Córdoba,1530.012,
+total,1997/98,provincia,Córdoba,2076.335,
+total,1998/99,provincia,Córdoba,1539.739,
+total,1999/00,provincia,Córdoba,2137.053,
+total,2000/01,provincia,Córdoba,2173.363,
+total,2001/02,provincia,Córdoba,2471.025,
+total,2002/03,provincia,Córdoba,2738.587,
+total,2003/04,provincia,Córdoba,2336.377,
+total,2004/05,provincia,Córdoba,2820.92,
+total,2005/06,provincia,Córdoba,2784.902,
+total,2006/07,provincia,Córdoba,4871.708,
+total,2007/08,provincia,Córdoba,6226.344,
+total,2008/09,provincia,Córdoba,4172.414,
+total,2009/10,provincia,Córdoba,4788.804,
+total,2010/11,provincia,Córdoba,6090.765,
+total,2011/12,provincia,Córdoba,5224.222,
+total,2012/13,provincia,Córdoba,7704.538,
+total,2013/14,provincia,Córdoba,7245.304,
+total,2014/15,provincia,Córdoba,6893.586,
+total,2015/16,provincia,Córdoba,7058.304,
+total,2016/17,provincia,Córdoba,7400.615,
+total,2017/18,provincia,Córdoba,6133.302,
+total,2018/19,provincia,Córdoba,7406.508,
+total,2019/20,provincia,Córdoba,7746.615,
+total,2020/21,provincia,Córdoba,10480.382,
+total,2021/22,provincia,Córdoba,12574.154,
+total,2022/23,provincia,Córdoba,6810.874,
+total,2023/24,provincia,Córdoba,8451.593,
+total,2024/25,provincia,Córdoba,9023.937,
+total,1995/96,provincia,Corrientes,2.642,
+total,1996/97,provincia,Corrientes,3.934,
+total,1997/98,provincia,Corrientes,2.352,
+total,1998/99,provincia,Corrientes,3.239,
+total,1999/00,provincia,Corrientes,2.767,
+total,2000/01,provincia,Corrientes,2.322,
+total,2001/02,provincia,Corrientes,1.755,
+total,2002/03,provincia,Corrientes,4.562,
+total,2003/04,provincia,Corrientes,5.713,
+total,2004/05,provincia,Corrientes,7.41,
+total,2005/06,provincia,Corrientes,10.429,
+total,2006/07,provincia,Corrientes,13.235,
+total,2007/08,provincia,Corrientes,25.022,
+total,2008/09,provincia,Corrientes,9.412,
+total,2009/10,provincia,Corrientes,17.049,
+total,2010/11,provincia,Corrientes,23.356,
+total,2011/12,provincia,Corrientes,20.829,
+total,2012/13,provincia,Corrientes,11.77,
+total,2013/14,provincia,Corrientes,25.58,
+total,2014/15,provincia,Corrientes,15.238,
+total,2015/16,provincia,Corrientes,20.702,
+total,2016/17,provincia,Corrientes,16.457,
+total,2017/18,provincia,Corrientes,17.913,
+total,2018/19,provincia,Corrientes,16.891,
+total,2019/20,provincia,Corrientes,19.075,
+total,2020/21,provincia,Corrientes,24.07,
+total,2021/22,provincia,Corrientes,19.951,
+total,2022/23,provincia,Corrientes,16.926,
+total,2023/24,provincia,Corrientes,18.093,
+total,2024/25,provincia,Corrientes,19.825,
+total,1995/96,provincia,Chaco,113.174,
+total,1996/97,provincia,Chaco,152.18,
+total,1997/98,provincia,Chaco,85.858,
+total,1998/99,provincia,Chaco,154.899,
+total,1999/00,provincia,Chaco,223.787,
+total,2000/01,provincia,Chaco,209.271,
+total,2001/02,provincia,Chaco,305.995,
+total,2002/03,provincia,Chaco,478.106,
+total,2003/04,provincia,Chaco,323.994,
+total,2004/05,provincia,Chaco,227.798,
+total,2005/06,provincia,Chaco,467.712,
+total,2006/07,provincia,Chaco,603.516,
+total,2007/08,provincia,Chaco,858.612,
+total,2008/09,provincia,Chaco,235.038,
+total,2009/10,provincia,Chaco,517.484,
+total,2010/11,provincia,Chaco,982.803,
+total,2011/12,provincia,Chaco,448.678,
+total,2012/13,provincia,Chaco,571.706,
+total,2013/14,provincia,Chaco,766.988,
+total,2014/15,provincia,Chaco,519.837,
+total,2015/16,provincia,Chaco,706.83,
+total,2016/17,provincia,Chaco,973.717,
+total,2017/18,provincia,Chaco,859.298,
+total,2018/19,provincia,Chaco,738.376,
+total,2019/20,provincia,Chaco,852.066,
+total,2020/21,provincia,Chaco,713.977,
+total,2021/22,provincia,Chaco,1372.406,
+total,2022/23,provincia,Chaco,871.278,
+total,2023/24,provincia,Chaco,383.548,
+total,2024/25,provincia,Chaco,341.581,
+total,1995/96,provincia,Entre Ríos,284.168,
+total,1996/97,provincia,Entre Ríos,345.415,
+total,1997/98,provincia,Entre Ríos,408.976,
+total,1998/99,provincia,Entre Ríos,363.04,
+total,1999/00,provincia,Entre Ríos,234.967,
+total,2000/01,provincia,Entre Ríos,494.81,
+total,2001/02,provincia,Entre Ríos,462.647,
+total,2002/03,provincia,Entre Ríos,702.296,
+total,2003/04,provincia,Entre Ríos,718.6,
+total,2004/05,provincia,Entre Ríos,778.293,
+total,2005/06,provincia,Entre Ríos,722.492,
+total,2006/07,provincia,Entre Ríos,1279.628,
+total,2007/08,provincia,Entre Ríos,1465.417,
+total,2008/09,provincia,Entre Ríos,437.51,
+total,2009/10,provincia,Entre Ríos,1561.025,
+total,2010/11,provincia,Entre Ríos,1703.053,
+total,2011/12,provincia,Entre Ríos,1766.221,
+total,2012/13,provincia,Entre Ríos,1820.108,
+total,2013/14,provincia,Entre Ríos,1712.321,
+total,2014/15,provincia,Entre Ríos,1441.188,
+total,2015/16,provincia,Entre Ríos,1073.004,
+total,2016/17,provincia,Entre Ríos,1552.535,
+total,2017/18,provincia,Entre Ríos,947.553,
+total,2018/19,provincia,Entre Ríos,1621.305,
+total,2019/20,provincia,Entre Ríos,1466.734,
+total,2020/21,provincia,Entre Ríos,1592.527,
+total,2021/22,provincia,Entre Ríos,2346.764,
+total,2022/23,provincia,Entre Ríos,1110.235,
+total,2023/24,provincia,Entre Ríos,1870.826,
+total,2024/25,provincia,Entre Ríos,2017.86,
+total,1995/96,provincia,Formosa,9.065,
+total,1996/97,provincia,Formosa,8.077,
+total,1997/98,provincia,Formosa,3.146,
+total,1998/99,provincia,Formosa,7.917,
+total,1999/00,provincia,Formosa,2.223,
+total,2000/01,provincia,Formosa,5.761,
+total,2001/02,provincia,Formosa,10.86,
+total,2002/03,provincia,Formosa,9.272,
+total,2003/04,provincia,Formosa,12.085,
+total,2004/05,provincia,Formosa,13.559,
+total,2005/06,provincia,Formosa,13.046,
+total,2006/07,provincia,Formosa,22.528,
+total,2007/08,provincia,Formosa,21.386,
+total,2008/09,provincia,Formosa,8.368,
+total,2009/10,provincia,Formosa,9.752,
+total,2010/11,provincia,Formosa,17.361,
+total,2011/12,provincia,Formosa,12.664,
+total,2012/13,provincia,Formosa,8.838,
+total,2013/14,provincia,Formosa,14.241,
+total,2014/15,provincia,Formosa,27.515,
+total,2015/16,provincia,Formosa,33.859,
+total,2016/17,provincia,Formosa,48.328,
+total,2017/18,provincia,Formosa,86.716,
+total,2018/19,provincia,Formosa,34.522,
+total,2019/20,provincia,Formosa,17.997,
+total,2020/21,provincia,Formosa,22.73,
+total,2021/22,provincia,Formosa,27.237,
+total,2022/23,provincia,Formosa,32.227,
+total,2023/24,provincia,Formosa,17.199,
+total,2024/25,provincia,Formosa,26.176,
+total,1995/96,provincia,Jujuy,2.701,
+total,1996/97,provincia,Jujuy,2.486,
+total,1997/98,provincia,Jujuy,2.1,
+total,1998/99,provincia,Jujuy,5.27,
+total,1999/00,provincia,Jujuy,2.421,
+total,2000/01,provincia,Jujuy,2.23,
+total,2001/02,provincia,Jujuy,3.224,
+total,2002/03,provincia,Jujuy,3.254,
+total,2003/04,provincia,Jujuy,5.658,
+total,2004/05,provincia,Jujuy,3.655,
+total,2005/06,provincia,Jujuy,4.566,
+total,2006/07,provincia,Jujuy,7.16,
+total,2007/08,provincia,Jujuy,9.494,
+total,2008/09,provincia,Jujuy,8.495,
+total,2009/10,provincia,Jujuy,11.985,
+total,2010/11,provincia,Jujuy,19.076,
+total,2011/12,provincia,Jujuy,19.225,
+total,2012/13,provincia,Jujuy,7.288,
+total,2013/14,provincia,Jujuy,13.685,
+total,2014/15,provincia,Jujuy,11.075,
+total,2015/16,provincia,Jujuy,9.495,
+total,2016/17,provincia,Jujuy,6.539,
+total,2017/18,provincia,Jujuy,8.025,
+total,2018/19,provincia,Jujuy,8.708,
+total,2019/20,provincia,Jujuy,10.874,
+total,2020/21,provincia,Jujuy,24.484,
+total,2021/22,provincia,Jujuy,21.227,
+total,2022/23,provincia,Jujuy,16.734,
+total,2023/24,provincia,Jujuy,19.159,
+total,2024/25,provincia,Jujuy,11.951,
+total,1995/96,provincia,La Pampa,330.6,
+total,1996/97,provincia,La Pampa,361.457,
+total,1997/98,provincia,La Pampa,470.851,
+total,1998/99,provincia,La Pampa,353.26,
+total,1999/00,provincia,La Pampa,288.959,
+total,2000/01,provincia,La Pampa,298.867,
+total,2001/02,provincia,La Pampa,328.576,
+total,2002/03,provincia,La Pampa,308.837,
+total,2003/04,provincia,La Pampa,273.653,
+total,2004/05,provincia,La Pampa,432.165,
+total,2005/06,provincia,La Pampa,258.958,
+total,2006/07,provincia,La Pampa,436.267,
+total,2007/08,provincia,La Pampa,727.237,
+total,2008/09,provincia,La Pampa,284.525,
+total,2009/10,provincia,La Pampa,486.807,
+total,2010/11,provincia,La Pampa,752.513,
+total,2011/12,provincia,La Pampa,989.057,
+total,2012/13,provincia,La Pampa,773.223,
+total,2013/14,provincia,La Pampa,699.119,
+total,2014/15,provincia,La Pampa,761.407,
+total,2015/16,provincia,La Pampa,1104.928,
+total,2016/17,provincia,La Pampa,824.638,
+total,2017/18,provincia,La Pampa,827.356,
+total,2018/19,provincia,La Pampa,984.478,
+total,2019/20,provincia,La Pampa,1013.626,
+total,2020/21,provincia,La Pampa,1359.881,
+total,2021/22,provincia,La Pampa,2174.526,
+total,2022/23,provincia,La Pampa,1533.481,
+total,2023/24,provincia,La Pampa,1584.592,
+total,2024/25,provincia,La Pampa,1292.901,
+total,1995/96,provincia,Mendoza,0.0,
+total,1996/97,provincia,Mendoza,0.0,
+total,1997/98,provincia,Mendoza,0.0,
+total,1998/99,provincia,Mendoza,0.0,
+total,1999/00,provincia,Mendoza,0.0,
+total,2000/01,provincia,Mendoza,0.0,
+total,2001/02,provincia,Mendoza,0.0,
+total,2002/03,provincia,Mendoza,0.0,
+total,2003/04,provincia,Mendoza,0.0,
+total,2004/05,provincia,Mendoza,0.0,
+total,2005/06,provincia,Mendoza,0.0,
+total,2006/07,provincia,Mendoza,0.0,
+total,2007/08,provincia,Mendoza,0.0,
+total,2008/09,provincia,Mendoza,0.0,
+total,2009/10,provincia,Mendoza,0.0,
+total,2010/11,provincia,Mendoza,0.0,
+total,2011/12,provincia,Mendoza,0.0,
+total,2012/13,provincia,Mendoza,0.0,
+total,2013/14,provincia,Mendoza,0.0,
+total,2014/15,provincia,Mendoza,0.0,
+total,2015/16,provincia,Mendoza,0.0,
+total,2016/17,provincia,Mendoza,0.0,
+total,2017/18,provincia,Mendoza,0.0,
+total,2018/19,provincia,Mendoza,0.0,
+total,2019/20,provincia,Mendoza,0.0,
+total,2020/21,provincia,Mendoza,0.0,
+total,2021/22,provincia,Mendoza,0.0,
+total,2022/23,provincia,Mendoza,0.0,
+total,2023/24,provincia,Mendoza,0.0,
+total,2024/25,provincia,Mendoza,0.0,
+total,1995/96,provincia,Misiones,2.706,
+total,1996/97,provincia,Misiones,2.371,
+total,1997/98,provincia,Misiones,0.373,
+total,1998/99,provincia,Misiones,1.875,
+total,1999/00,provincia,Misiones,3.731,
+total,2000/01,provincia,Misiones,3.14,
+total,2001/02,provincia,Misiones,1.708,
+total,2002/03,provincia,Misiones,0.884,
+total,2003/04,provincia,Misiones,6.563,
+total,2004/05,provincia,Misiones,0.749,
+total,2005/06,provincia,Misiones,4.538,
+total,2006/07,provincia,Misiones,3.296,
+total,2007/08,provincia,Misiones,3.677,
+total,2008/09,provincia,Misiones,0.208,
+total,2009/10,provincia,Misiones,12.783,
+total,2010/11,provincia,Misiones,24.126,
+total,2011/12,provincia,Misiones,2.827,
+total,2012/13,provincia,Misiones,21.838,
+total,2013/14,provincia,Misiones,18.664,
+total,2014/15,provincia,Misiones,15.5,
+total,2015/16,provincia,Misiones,12.558,
+total,2016/17,provincia,Misiones,14.145,
+total,2017/18,provincia,Misiones,17.341,
+total,2018/19,provincia,Misiones,27.6,
+total,2019/20,provincia,Misiones,28.941,
+total,2020/21,provincia,Misiones,12.238,
+total,2021/22,provincia,Misiones,16.636,
+total,2022/23,provincia,Misiones,32.579,
+total,2023/24,provincia,Misiones,24.15,
+total,2024/25,provincia,Misiones,32.187,
+total,1995/96,provincia,Salta,76.177,
+total,1996/97,provincia,Salta,139.323,
+total,1997/98,provincia,Salta,79.557,
+total,1998/99,provincia,Salta,139.734,
+total,1999/00,provincia,Salta,128.413,
+total,2000/01,provincia,Salta,136.412,
+total,2001/02,provincia,Salta,141.32,
+total,2002/03,provincia,Salta,156.057,
+total,2003/04,provincia,Salta,186.453,
+total,2004/05,provincia,Salta,148.476,
+total,2005/06,provincia,Salta,265.418,
+total,2006/07,provincia,Salta,359.367,
+total,2007/08,provincia,Salta,481.737,
+total,2008/09,provincia,Salta,394.937,
+total,2009/10,provincia,Salta,521.761,
+total,2010/11,provincia,Salta,823.206,
+total,2011/12,provincia,Salta,487.284,
+total,2012/13,provincia,Salta,150.976,
+total,2013/14,provincia,Salta,461.662,
+total,2014/15,provincia,Salta,501.927,
+total,2015/16,provincia,Salta,523.999,
+total,2016/17,provincia,Salta,540.498,
+total,2017/18,provincia,Salta,573.028,
+total,2018/19,provincia,Salta,594.546,
+total,2019/20,provincia,Salta,609.332,
+total,2020/21,provincia,Salta,814.385,
+total,2021/22,provincia,Salta,821.933,
+total,2022/23,provincia,Salta,768.105,
+total,2023/24,provincia,Salta,559.221,
+total,2024/25,provincia,Salta,577.904,
+total,1995/96,provincia,San Luis,29.513,
+total,1996/97,provincia,San Luis,13.109,
+total,1997/98,provincia,San Luis,31.274,
+total,1998/99,provincia,San Luis,31.202,
+total,1999/00,provincia,San Luis,42.089,
+total,2000/01,provincia,San Luis,37.996,
+total,2001/02,provincia,San Luis,68.276,
+total,2002/03,provincia,San Luis,53.508,
+total,2003/04,provincia,San Luis,56.695,
+total,2004/05,provincia,San Luis,90.61,
+total,2005/06,provincia,San Luis,44.784,
+total,2006/07,provincia,San Luis,141.85,
+total,2007/08,provincia,San Luis,248.556,
+total,2008/09,provincia,San Luis,183.897,
+total,2009/10,provincia,San Luis,153.55,
+total,2010/11,provincia,San Luis,361.2,
+total,2011/12,provincia,San Luis,281.72,
+total,2012/13,provincia,San Luis,652.877,
+total,2013/14,provincia,San Luis,463.188,
+total,2014/15,provincia,San Luis,526.041,
+total,2015/16,provincia,San Luis,641.918,
+total,2016/17,provincia,San Luis,634.695,
+total,2017/18,provincia,San Luis,455.054,
+total,2018/19,provincia,San Luis,481.047,
+total,2019/20,provincia,San Luis,354.803,
+total,2020/21,provincia,San Luis,776.294,
+total,2021/22,provincia,San Luis,896.67,
+total,2022/23,provincia,San Luis,517.125,
+total,2023/24,provincia,San Luis,583.086,
+total,2024/25,provincia,San Luis,689.735,
+total,1995/96,provincia,Santa Fe,2340.29,
+total,1996/97,provincia,Santa Fe,1950.835,
+total,1997/98,provincia,Santa Fe,2197.629,
+total,1998/99,provincia,Santa Fe,1822.982,
+total,1999/00,provincia,Santa Fe,1813.488,
+total,2000/01,provincia,Santa Fe,2023.141,
+total,2001/02,provincia,Santa Fe,1786.357,
+total,2002/03,provincia,Santa Fe,2289.993,
+total,2003/04,provincia,Santa Fe,2376.02,
+total,2004/05,provincia,Santa Fe,2301.463,
+total,2005/06,provincia,Santa Fe,2330.402,
+total,2006/07,provincia,Santa Fe,3346.946,
+total,2007/08,provincia,Santa Fe,4505.707,
+total,2008/09,provincia,Santa Fe,2446.67,
+total,2009/10,provincia,Santa Fe,4166.065,
+total,2010/11,provincia,Santa Fe,4749.744,
+total,2011/12,provincia,Santa Fe,4482.136,
+total,2012/13,provincia,Santa Fe,5408.753,
+total,2013/14,provincia,Santa Fe,4191.566,
+total,2014/15,provincia,Santa Fe,3993.167,
+total,2015/16,provincia,Santa Fe,3171.892,
+total,2016/17,provincia,Santa Fe,4026.421,
+total,2017/18,provincia,Santa Fe,3623.296,
+total,2018/19,provincia,Santa Fe,4233.134,
+total,2019/20,provincia,Santa Fe,4776.418,
+total,2020/21,provincia,Santa Fe,5801.532,
+total,2021/22,provincia,Santa Fe,7329.397,
+total,2022/23,provincia,Santa Fe,3334.291,
+total,2023/24,provincia,Santa Fe,5484.724,
+total,2024/25,provincia,Santa Fe,5639.867,
+total,1995/96,provincia,Santiago del Estero,104.604,
+total,1996/97,provincia,Santiago del Estero,147.939,
+total,1997/98,provincia,Santiago del Estero,116.121,
+total,1998/99,provincia,Santiago del Estero,146.377,
+total,1999/00,provincia,Santiago del Estero,194.457,
+total,2000/01,provincia,Santiago del Estero,206.165,
+total,2001/02,provincia,Santiago del Estero,287.851,
+total,2002/03,provincia,Santiago del Estero,369.566,
+total,2003/04,provincia,Santiago del Estero,351.14,
+total,2004/05,provincia,Santiago del Estero,161.585,
+total,2005/06,provincia,Santiago del Estero,373.707,
+total,2006/07,provincia,Santiago del Estero,584.854,
+total,2007/08,provincia,Santiago del Estero,625.989,
+total,2008/09,provincia,Santiago del Estero,125.934,
+total,2009/10,provincia,Santiago del Estero,937.169,
+total,2010/11,provincia,Santiago del Estero,1662.036,
+total,2011/12,provincia,Santiago del Estero,934.445,
+total,2012/13,provincia,Santiago del Estero,1146.018,
+total,2013/14,provincia,Santiago del Estero,1809.415,
+total,2014/15,provincia,Santiago del Estero,919.854,
+total,2015/16,provincia,Santiago del Estero,1500.266,
+total,2016/17,provincia,Santiago del Estero,1669.742,
+total,2017/18,provincia,Santiago del Estero,1543.975,
+total,2018/19,provincia,Santiago del Estero,1698.712,
+total,2019/20,provincia,Santiago del Estero,2240.763,
+total,2020/21,provincia,Santiago del Estero,2683.279,
+total,2021/22,provincia,Santiago del Estero,3343.473,
+total,2022/23,provincia,Santiago del Estero,2587.3,
+total,2023/24,provincia,Santiago del Estero,1393.631,
+total,2024/25,provincia,Santiago del Estero,1378.119,
+total,1995/96,provincia,Tucumán,52.987,
+total,1996/97,provincia,Tucumán,87.835,
+total,1997/98,provincia,Tucumán,85.229,
+total,1998/99,provincia,Tucumán,87.683,
+total,1999/00,provincia,Tucumán,91.617,
+total,2000/01,provincia,Tucumán,88.772,
+total,2001/02,provincia,Tucumán,146.221,
+total,2002/03,provincia,Tucumán,125.153,
+total,2003/04,provincia,Tucumán,116.622,
+total,2004/05,provincia,Tucumán,139.575,
+total,2005/06,provincia,Tucumán,189.724,
+total,2006/07,provincia,Tucumán,274.133,
+total,2007/08,provincia,Tucumán,297.299,
+total,2008/09,provincia,Tucumán,253.287,
+total,2009/10,provincia,Tucumán,269.158,
+total,2010/11,provincia,Tucumán,400.146,
+total,2011/12,provincia,Tucumán,198.151,
+total,2012/13,provincia,Tucumán,166.941,
+total,2013/14,provincia,Tucumán,211.505,
+total,2014/15,provincia,Tucumán,155.552,
+total,2015/16,provincia,Tucumán,263.312,
+total,2016/17,provincia,Tucumán,196.65,
+total,2017/18,provincia,Tucumán,251.469,
+total,2018/19,provincia,Tucumán,261.533,
+total,2019/20,provincia,Tucumán,194.076,
+total,2020/21,provincia,Tucumán,273.958,
+total,2021/22,provincia,Tucumán,270.076,
+total,2022/23,provincia,Tucumán,214.997,
+total,2023/24,provincia,Tucumán,229.445,
+total,2024/25,provincia,Tucumán,220.702,
+total,1995/96,provincia,Chubut,0.0,
+total,1996/97,provincia,Chubut,0.0,
+total,1997/98,provincia,Chubut,0.0,
+total,1998/99,provincia,Chubut,0.0,
+total,1999/00,provincia,Chubut,0.0,
+total,2000/01,provincia,Chubut,0.0,
+total,2001/02,provincia,Chubut,0.0,
+total,2002/03,provincia,Chubut,0.0,
+total,2003/04,provincia,Chubut,0.0,
+total,2004/05,provincia,Chubut,0.0,
+total,2005/06,provincia,Chubut,0.0,
+total,2006/07,provincia,Chubut,0.0,
+total,2007/08,provincia,Chubut,0.0,
+total,2008/09,provincia,Chubut,0.0,
+total,2009/10,provincia,Chubut,0.0,
+total,2010/11,provincia,Chubut,0.0,
+total,2011/12,provincia,Chubut,0.0,
+total,2012/13,provincia,Chubut,0.0,
+total,2013/14,provincia,Chubut,0.0,
+total,2014/15,provincia,Chubut,0.0,
+total,2015/16,provincia,Chubut,0.0,
+total,2016/17,provincia,Chubut,0.0,
+total,2017/18,provincia,Chubut,0.0,
+total,2018/19,provincia,Chubut,0.0,
+total,2019/20,provincia,Chubut,0.0,
+total,2020/21,provincia,Chubut,0.0,
+total,2021/22,provincia,Chubut,0.0,
+total,2022/23,provincia,Chubut,0.0,
+total,2023/24,provincia,Chubut,0.0,
+total,2024/25,provincia,Chubut,0.0,
+total,1995/96,provincia,La Rioja,0.0,
+total,1996/97,provincia,La Rioja,0.0,
+total,1997/98,provincia,La Rioja,0.0,
+total,1998/99,provincia,La Rioja,0.0,
+total,1999/00,provincia,La Rioja,0.0,
+total,2000/01,provincia,La Rioja,0.0,
+total,2001/02,provincia,La Rioja,0.0,
+total,2002/03,provincia,La Rioja,0.0,
+total,2003/04,provincia,La Rioja,0.0,
+total,2004/05,provincia,La Rioja,0.0,
+total,2005/06,provincia,La Rioja,0.0,
+total,2006/07,provincia,La Rioja,0.0,
+total,2007/08,provincia,La Rioja,0.0,
+total,2008/09,provincia,La Rioja,0.0,
+total,2009/10,provincia,La Rioja,0.0,
+total,2010/11,provincia,La Rioja,0.0,
+total,2011/12,provincia,La Rioja,0.0,
+total,2012/13,provincia,La Rioja,0.0,
+total,2013/14,provincia,La Rioja,0.0,
+total,2014/15,provincia,La Rioja,0.0,
+total,2015/16,provincia,La Rioja,0.0,
+total,2016/17,provincia,La Rioja,0.0,
+total,2017/18,provincia,La Rioja,0.0,
+total,2018/19,provincia,La Rioja,0.0,
+total,2019/20,provincia,La Rioja,0.0,
+total,2020/21,provincia,La Rioja,0.0,
+total,2021/22,provincia,La Rioja,0.0,
+total,2022/23,provincia,La Rioja,0.0,
+total,2023/24,provincia,La Rioja,0.0,
+total,2024/25,provincia,La Rioja,0.0,
+total,1995/96,provincia,Neuquén,0.0,
+total,1996/97,provincia,Neuquén,0.0,
+total,1997/98,provincia,Neuquén,0.0,
+total,1998/99,provincia,Neuquén,0.0,
+total,1999/00,provincia,Neuquén,0.0,
+total,2000/01,provincia,Neuquén,0.0,
+total,2001/02,provincia,Neuquén,0.0,
+total,2002/03,provincia,Neuquén,0.0,
+total,2003/04,provincia,Neuquén,0.0,
+total,2004/05,provincia,Neuquén,0.0,
+total,2005/06,provincia,Neuquén,0.0,
+total,2006/07,provincia,Neuquén,0.0,
+total,2007/08,provincia,Neuquén,0.0,
+total,2008/09,provincia,Neuquén,0.0,
+total,2009/10,provincia,Neuquén,0.0,
+total,2010/11,provincia,Neuquén,0.0,
+total,2011/12,provincia,Neuquén,0.0,
+total,2012/13,provincia,Neuquén,0.0,
+total,2013/14,provincia,Neuquén,0.0,
+total,2014/15,provincia,Neuquén,0.0,
+total,2015/16,provincia,Neuquén,0.0,
+total,2016/17,provincia,Neuquén,0.0,
+total,2017/18,provincia,Neuquén,0.0,
+total,2018/19,provincia,Neuquén,0.0,
+total,2019/20,provincia,Neuquén,0.0,
+total,2020/21,provincia,Neuquén,0.0,
+total,2021/22,provincia,Neuquén,0.0,
+total,2022/23,provincia,Neuquén,0.0,
+total,2023/24,provincia,Neuquén,0.0,
+total,2024/25,provincia,Neuquén,0.0,
+total,1995/96,provincia,Río Negro,0.0,
+total,1996/97,provincia,Río Negro,0.0,
+total,1997/98,provincia,Río Negro,0.0,
+total,1998/99,provincia,Río Negro,0.0,
+total,1999/00,provincia,Río Negro,0.0,
+total,2000/01,provincia,Río Negro,0.0,
+total,2001/02,provincia,Río Negro,0.0,
+total,2002/03,provincia,Río Negro,0.0,
+total,2003/04,provincia,Río Negro,0.0,
+total,2004/05,provincia,Río Negro,0.0,
+total,2005/06,provincia,Río Negro,0.0,
+total,2006/07,provincia,Río Negro,0.0,
+total,2007/08,provincia,Río Negro,0.0,
+total,2008/09,provincia,Río Negro,0.0,
+total,2009/10,provincia,Río Negro,0.0,
+total,2010/11,provincia,Río Negro,0.0,
+total,2011/12,provincia,Río Negro,0.0,
+total,2012/13,provincia,Río Negro,0.0,
+total,2013/14,provincia,Río Negro,0.0,
+total,2014/15,provincia,Río Negro,0.0,
+total,2015/16,provincia,Río Negro,0.0,
+total,2016/17,provincia,Río Negro,0.0,
+total,2017/18,provincia,Río Negro,0.0,
+total,2018/19,provincia,Río Negro,0.0,
+total,2019/20,provincia,Río Negro,0.0,
+total,2020/21,provincia,Río Negro,0.0,
+total,2021/22,provincia,Río Negro,0.0,
+total,2022/23,provincia,Río Negro,0.0,
+total,2023/24,provincia,Río Negro,0.0,
+total,2024/25,provincia,Río Negro,0.0,
+total,1995/96,provincia,San Juan,0.0,
+total,1996/97,provincia,San Juan,0.0,
+total,1997/98,provincia,San Juan,0.0,
+total,1998/99,provincia,San Juan,0.0,
+total,1999/00,provincia,San Juan,0.0,
+total,2000/01,provincia,San Juan,0.0,
+total,2001/02,provincia,San Juan,0.0,
+total,2002/03,provincia,San Juan,0.0,
+total,2003/04,provincia,San Juan,0.0,
+total,2004/05,provincia,San Juan,0.0,
+total,2005/06,provincia,San Juan,0.0,
+total,2006/07,provincia,San Juan,0.0,
+total,2007/08,provincia,San Juan,0.0,
+total,2008/09,provincia,San Juan,0.0,
+total,2009/10,provincia,San Juan,0.0,
+total,2010/11,provincia,San Juan,0.0,
+total,2011/12,provincia,San Juan,0.0,
+total,2012/13,provincia,San Juan,0.0,
+total,2013/14,provincia,San Juan,0.0,
+total,2014/15,provincia,San Juan,0.0,
+total,2015/16,provincia,San Juan,0.0,
+total,2016/17,provincia,San Juan,0.0,
+total,2017/18,provincia,San Juan,0.0,
+total,2018/19,provincia,San Juan,0.0,
+total,2019/20,provincia,San Juan,0.0,
+total,2020/21,provincia,San Juan,0.0,
+total,2021/22,provincia,San Juan,0.0,
+total,2022/23,provincia,San Juan,0.0,
+total,2023/24,provincia,San Juan,0.0,
+total,2024/25,provincia,San Juan,0.0,
+total,1995/96,provincia,Santa Cruz,0.0,
+total,1996/97,provincia,Santa Cruz,0.0,
+total,1997/98,provincia,Santa Cruz,0.0,
+total,1998/99,provincia,Santa Cruz,0.0,
+total,1999/00,provincia,Santa Cruz,0.0,
+total,2000/01,provincia,Santa Cruz,0.0,
+total,2001/02,provincia,Santa Cruz,0.0,
+total,2002/03,provincia,Santa Cruz,0.0,
+total,2003/04,provincia,Santa Cruz,0.0,
+total,2004/05,provincia,Santa Cruz,0.0,
+total,2005/06,provincia,Santa Cruz,0.0,
+total,2006/07,provincia,Santa Cruz,0.0,
+total,2007/08,provincia,Santa Cruz,0.0,
+total,2008/09,provincia,Santa Cruz,0.0,
+total,2009/10,provincia,Santa Cruz,0.0,
+total,2010/11,provincia,Santa Cruz,0.0,
+total,2011/12,provincia,Santa Cruz,0.0,
+total,2012/13,provincia,Santa Cruz,0.0,
+total,2013/14,provincia,Santa Cruz,0.0,
+total,2014/15,provincia,Santa Cruz,0.0,
+total,2015/16,provincia,Santa Cruz,0.0,
+total,2016/17,provincia,Santa Cruz,0.0,
+total,2017/18,provincia,Santa Cruz,0.0,
+total,2018/19,provincia,Santa Cruz,0.0,
+total,2019/20,provincia,Santa Cruz,0.0,
+total,2020/21,provincia,Santa Cruz,0.0,
+total,2021/22,provincia,Santa Cruz,0.0,
+total,2022/23,provincia,Santa Cruz,0.0,
+total,2023/24,provincia,Santa Cruz,0.0,
+total,2024/25,provincia,Santa Cruz,0.0,
