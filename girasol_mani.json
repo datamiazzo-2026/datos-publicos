@@ -368,7 +368,7 @@
     "valor": 514.2
    }
   ],
-  "fas_teorico_usd": 457.55,
+  "fas_teorico_usd": 459.65,
   "pellets_usd": 160.0,
   "hist_fob_usd": [
    {
@@ -5110,9 +5110,13 @@
    {
     "fecha": "2026-11-25",
     "valor": 593.0
+   },
+   {
+    "fecha": "2026-11-26",
+    "valor": 593.0
    }
   ],
-  "fecha_fob": "2026-11-25"
+  "fecha_fob": "2026-11-26"
  },
  "mani": {
   "fecha": "2026-11-27",
@@ -6190,6 +6194,6 @@
   ],
   "industria_estimado": true
  },
- "actualizado": "2026-11-27T17:06:04+00:00",
+ "actualizado": "2026-11-27T21:48:57+00:00",
  "fuente": "Central de datos DATA Miazzo (BCR, Cámara Arbitral de Rosario, Bolsa de Cereales de Córdoba, BCRA, USDA)"
 }
