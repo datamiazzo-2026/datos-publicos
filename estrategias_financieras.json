@@ -1,148 +1,148 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-27T21:48:05+00:00",
+ "actualizado": "2026-11-27T22:16:32+00:00",
  "faltan": [],
  "dolar_futuro": {
-  "fecha": "2026-11-26",
+  "fecha": "2026-11-27",
   "fuente": {
    "nombre": "A3 Mercados (Matba-Rofex)",
    "web": "https://www.a3mercados.com.ar/",
    "via": "API pública de A3 (apicem.matbarofex.com.ar)"
   },
   "spot_a3500": {
-   "fecha": "2026-11-26",
-   "valor": 1600.6872
+   "fecha": "2026-11-27",
+   "valor": 1600.8752
   },
   "contratos": [
    {
     "ticker": "DLR112026",
     "vencimiento": "2026-11-30",
-    "ajuste": 1595.5,
-    "volumen": 875363.0,
-    "interes_abierto": 1804900.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 4,
-    "tna_implicita": -29.57
+    "ajuste": 1600.0,
+    "volumen": 1150227.0,
+    "interes_abierto": 1768180.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 3,
+    "tna_implicita": -6.65
    },
    {
     "ticker": "DLR122026",
     "vencimiento": "2026-12-30",
-    "ajuste": 1629.5,
-    "volumen": 1042842.0,
-    "interes_abierto": 1573806.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 34,
-    "tna_implicita": 19.32
+    "ajuste": 1636.5,
+    "volumen": 1811927.0,
+    "interes_abierto": 1855850.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 33,
+    "tna_implicita": 24.61
    },
    {
     "ticker": "DLR012027",
     "vencimiento": "2027-01-29",
-    "ajuste": 1660.5,
-    "volumen": 172286.0,
-    "interes_abierto": 737594.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 64,
-    "tna_implicita": 21.31
+    "ajuste": 1667.5,
+    "volumen": 228338.0,
+    "interes_abierto": 794191.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 63,
+    "tna_implicita": 24.11
    },
    {
     "ticker": "DLR022027",
     "vencimiento": "2027-02-26",
-    "ajuste": 1691.5,
-    "volumen": 26123.0,
-    "interes_abierto": 246682.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 92,
-    "tna_implicita": 22.51
+    "ajuste": 1698.5,
+    "volumen": 15245.0,
+    "interes_abierto": 247741.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 91,
+    "tna_implicita": 24.46
    },
    {
     "ticker": "DLR032027",
     "vencimiento": "2027-03-31",
-    "ajuste": 1726.5,
-    "volumen": 2257.0,
-    "interes_abierto": 280550.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 125,
-    "tna_implicita": 22.95
+    "ajuste": 1732.5,
+    "volumen": 31592.0,
+    "interes_abierto": 279700.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 124,
+    "tna_implicita": 24.2
    },
    {
     "ticker": "DLR042027",
     "vencimiento": "2027-04-30",
-    "ajuste": 1762.0,
-    "volumen": 10058.0,
-    "interes_abierto": 223141.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 155,
-    "tna_implicita": 23.73
+    "ajuste": 1769.0,
+    "volumen": 51147.0,
+    "interes_abierto": 191582.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 154,
+    "tna_implicita": 24.89
    },
    {
     "ticker": "DLR052027",
     "vencimiento": "2027-05-31",
-    "ajuste": 1797.0,
-    "volumen": 8127.0,
-    "interes_abierto": 148992.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 186,
-    "tna_implicita": 24.07
+    "ajuste": 1804.0,
+    "volumen": 31943.0,
+    "interes_abierto": 148274.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 185,
+    "tna_implicita": 25.03
    },
    {
     "ticker": "DLR062027",
     "vencimiento": "2027-06-30",
-    "ajuste": 1830.0,
-    "volumen": 645.0,
+    "ajuste": 1837.0,
+    "volumen": 385.0,
     "interes_abierto": 27596.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 216,
-    "tna_implicita": 24.21
+    "fecha_datos": "2026-11-27",
+    "dias": 215,
+    "tna_implicita": 25.04
    },
    {
     "ticker": "DLR072027",
     "vencimiento": "2027-07-30",
-    "ajuste": 1864.0,
-    "volumen": 42.0,
-    "interes_abierto": 21523.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 246,
-    "tna_implicita": 24.41
+    "ajuste": 1871.0,
+    "volumen": 214.0,
+    "interes_abierto": 21726.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 245,
+    "tna_implicita": 25.14
    },
    {
     "ticker": "DLR082027",
     "vencimiento": "2027-08-31",
-    "ajuste": 1901.0,
-    "volumen": 850.0,
-    "interes_abierto": 59007.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 278,
-    "tna_implicita": 24.63
+    "ajuste": 1912.0,
+    "volumen": 21122.0,
+    "interes_abierto": 58102.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 277,
+    "tna_implicita": 25.61
    },
    {
     "ticker": "DLR092027",
     "vencimiento": "2027-09-30",
-    "ajuste": 1942.5,
-    "volumen": 225.0,
-    "interes_abierto": 31061.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 308,
-    "tna_implicita": 25.31
+    "ajuste": 1955.0,
+    "volumen": 33308.0,
+    "interes_abierto": 4261.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 307,
+    "tna_implicita": 26.3
    },
    {
     "ticker": "DLR102027",
     "vencimiento": "2027-10-29",
-    "ajuste": 2010.5,
-    "volumen": 0.0,
+    "ajuste": 2020.0,
+    "volumen": 1.0,
     "interes_abierto": 151.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 337,
-    "tna_implicita": 27.73
+    "fecha_datos": "2026-11-27",
+    "dias": 336,
+    "tna_implicita": 28.44
    },
    {
     "ticker": "DLR112027",
     "vencimiento": "2027-11-30",
-    "ajuste": 2130.0,
-    "volumen": 15.0,
-    "interes_abierto": 30685.0,
-    "fecha_datos": "2026-11-26",
-    "dias": 369,
-    "tna_implicita": 32.71
+    "ajuste": 2140.0,
+    "volumen": 33120.0,
+    "interes_abierto": 3804.0,
+    "fecha_datos": "2026-11-27",
+    "dias": 368,
+    "tna_implicita": 33.4
    }
   ]
  },
@@ -751,11 +751,11 @@
    "nombre": "Tasa de plazo fijo a 30 días",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-25",
-   "valor": 20.56,
+   "fecha": "2026-11-26",
+   "valor": 21.29,
    "hace_un_mes": {
-    "fecha": "2026-10-26",
-    "valor": 20.92
+    "fecha": "2026-10-27",
+    "valor": 22.6
    }
   },
   "tasa_adelantos_cc": {
