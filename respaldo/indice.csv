@@ -8,7 +8,7 @@ dolar_oficial,"Dólar oficial minorista (BNA, promedio)",ARS por USD,D,BCRA,2017
 itcrb_brasil,Tipo de cambio real bilateral con Brasil (ITCRB),índice 17-12-15 = 100,D,BCRA — Índices de tipo de cambio real multilateral y bilaterales,1997-01-01,2026-11-27,80.324133,Dolar,,dolar.csv
 macro_itcrm,Tipo de cambio real multilateral,indice,D,BCRA — Índice de tipo de cambio real multilateral,2001-01-01,2026-11-27,82.476107,Dolar,,dolar.csv
 usdcny,Yuanes por dólar,CNY por USD,D,FRED (Reserva Federal de St. Louis),2015-01-02,2026-11-20,6.677,Dolar,,dolar.csv
-macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-29,2026-11-25,21.9375,Tasas,,tasas.csv
+macro_tasa_badlar,Tasa BADLAR (bancos privados),tasa,D,BCRA,2018-11-29,2026-11-26,23,Tasas,,tasas.csv
 macro_tasa_badlar_real_ex_post,BADLAR real ex post,tasa,D,"BCRA, INDEC y REM · cálculo propio",2018-11-29,2026-11-26,1.488344,Tasas,,tasas.csv
 macro_tasa_personales,Tasa de préstamos personales,tasa,D,BCRA,2018-11-29,2026-11-26,62.44,Tasas,,tasas.csv
 macro_tasa_plazo_fijo,Tasa de plazo fijo a 30 días,tasa,D,BCRA,2018-11-29,2026-11-26,21.29,Tasas,,tasas.csv
@@ -24,7 +24,7 @@ encajes_usd_bcra,Encajes en dólares en el BCRA,millones de USD,D,BCRA,2017-01-0
 macro_bcra_bal_encajes_usd,Balance del BCRA: encajes en dólares,mars,W,BCRA — Estado resumido de activos y pasivos,2017-01-07,2026-11-23,27339911.152,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_letras_usd,"LEBAC en dólares, LEDIV y BOPREAL",musd,D,BCRA — Informe monetario diario,2003-01-02,2026-11-26,4889.69,Reservas y BCRA,,reservas_y_bcra.csv
 macro_bcra_repo_saldo,Operaciones de corto plazo del BCRA (REPO),mars,D,BCRA,2025-07-15,2026-11-26,6083809.3954,Reservas y BCRA,,reservas_y_bcra.csv
-macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-29,2026-11-24,48819,Reservas y BCRA,,reservas_y_bcra.csv
+macro_reservas,Reservas internacionales,musd,D,BCRA — Principales Variables,2018-11-29,2026-11-25,48748,Reservas y BCRA,,reservas_y_bcra.csv
 prestamos_privados_usd,Préstamos al sector privado en dólares,millones de USD,D,BCRA,2017-01-02,2026-11-25,26639.0,Reservas y BCRA,,reservas_y_bcra.csv
 riesgo_pais,"Riesgo país (EMBI, JP Morgan)",puntos básicos,D,ArgentinaDatos (JP Morgan EMBI),2017-01-03,2026-11-26,1067.0,Reservas y BCRA,,reservas_y_bcra.csv
 macro_ipc_interanual,IPC var. interanual,pct,M,INDEC,2017-12-01,2026-10-01,33.13323,Precios y salarios,,precios_y_salarios.csv
@@ -189,11 +189,11 @@ macro_pbi_nominal_12m,PBI de los últimos doce meses,mars,M,INDEC — Cuentas na
 macro_prestamos_privados_pesos_m,Préstamos al sector privado en pesos (promedio mensual),mars,M,BCRA,2016-12-01,2026-10-01,108216861.047619,Otras mensual,,otras_mensual.csv
 macro_prestamos_privados_usd_m,Préstamos en dólares (promedio mensual),musd,M,BCRA,2016-12-01,2026-10-01,26082.190476,Otras mensual,,otras_mensual.csv
 magyp_embarques_granos,Embarques de granos por puerto (total mensual),toneladas,M,"Secretaría de Agricultura, Ganadería y Pesca (MAGyP): Transporte y embarque de granos",2018-01-01,2026-10-01,5892519.0,Otras mensual,,otras_mensual.csv
-ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
-ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-09-01,800,Otras mensual,,otras_mensual.csv
-ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,2400,Otras mensual,,otras_mensual.csv
-ph_gastos_importaciones,Personas humanas: compras de dólares usadas en pagos de importaciones y otros,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,100,Otras mensual,,otras_mensual.csv
-ph_gastos_turismo,Personas humanas: compras de dólares usadas en gastos de turismo (tarjetas y otros débitos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-09-01,700,Otras mensual,,otras_mensual.csv
+ph_ahorro_activos_externos,Personas humanas: ahorro en dólares en activos externos (cuentas en el exterior y billetes),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-10-01,1100,Otras mensual,,otras_mensual.csv
+ph_ahorro_depositos_locales,Personas humanas: ahorro en dólares que queda en depósitos locales,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-01-01,2026-10-01,500,Otras mensual,,otras_mensual.csv
+ph_billetes_divisas_total,Personas humanas: compra neta de billetes y divisas sin fines específicos (total del cuadro de usos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-10-01,2700,Otras mensual,,otras_mensual.csv
+ph_gastos_importaciones,Personas humanas: compras de dólares usadas en pagos de importaciones y otros,millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-10-01,200,Otras mensual,,otras_mensual.csv
+ph_gastos_turismo,Personas humanas: compras de dólares usadas en gastos de turismo (tarjetas y otros débitos),millones de USD,M,"BCRA — Evolución del Mercado de Cambios y Balance Cambiario, Cuadro II.3.1.2 (usos y destinos)",2025-05-01,2026-10-01,900,Otras mensual,,otras_mensual.csv
 precios_dieese_sp,"Precios DIEESE, Cesta Básica de Alimentos, preço médio (São Paulo)",productos con dato,M,"DIEESE, Cesta Básica de Alimentos, preço médio (São Paulo)",2016-01-01,2026-10-01,13,Otras mensual,,otras_mensual.csv
 precios_iea_sp,"Precios IEA-SP, preços médios mensais no varejo (município de São Paulo)",productos con dato,M,"IEA-SP, preços médios mensais no varejo (município de São Paulo)",2025-01-01,2026-08-01,34,Otras mensual,,otras_mensual.csv
 precios_indec_gba,"Precios INDEC, precios promedio de productos seleccionados (GBA)",productos con dato,M,"INDEC, precios promedio de productos seleccionados (GBA)",2016-04-01,2026-10-01,59,Otras mensual,,otras_mensual.csv

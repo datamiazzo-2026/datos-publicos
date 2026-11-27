@@ -1,6 +1,6 @@
 {
  "id": "estrategias_financieras",
- "actualizado": "2026-11-27T22:16:32+00:00",
+ "actualizado": "2026-11-27T22:27:13+00:00",
  "faltan": [],
  "dolar_futuro": {
   "fecha": "2026-11-27",
@@ -729,11 +729,11 @@
    "nombre": "Tasa BADLAR (bancos privados)",
    "unidad": "tasa",
    "fuente": "BCRA",
-   "fecha": "2026-11-25",
-   "valor": 21.9375,
+   "fecha": "2026-11-26",
+   "valor": 23,
    "hace_un_mes": {
-    "fecha": "2026-10-26",
-    "valor": 22.1875
+    "fecha": "2026-10-27",
+    "valor": 23.5
    }
   },
   "macro_tasa_tamar": {
